@@ -1,0 +1,3 @@
+question_id,question,relevant_ids,category,note
+Q1,"Laptop apa yang cocok untuk gaming budget 15 juta dengan RAM minimal 16GB?","1|5","gaming","produk baris 1 dan 5 paling relevan"
+Q2,"Laptop ringan untuk kuliah, RAM minimal 8GB","10","student","baris 10 paling tepat"

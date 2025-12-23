@@ -1,0 +1,36 @@
+question_id;question;llm_name;relevant_ids;retrieved_ids;precision_at_k;recall_at_k;latency_sec;answer;top_k
+Q1;Laptop apa yang cocok untuk gaming budget 15 juta dengan RAM minimal 16GB?;deepseek-chat;1|5;1106|132|1963|1266|1229;0.0;0.0;20.26297650000197;"Berdasarkan informasi produk yang tersedia, tidak ada laptop dengan RAM minimal 16GB yang cocok untuk gaming dalam anggaran Rp 15.000.000.
+
+Berikut analisis berdasarkan data:
+
+1. **Spesifikasi RAM**: Semua laptop yang tercantum hanya memiliki RAM 8GB (onboard atau terpasang). Tidak ada satupun yang memiliki RAM 16GB dari pabrik.
+2. **Anggaran**: Harga laptop yang tercantum semuanya di bawah Rp 8.000.000, sehingga masih dalam batas anggaran.
+3. **Kesesuaian untuk Gaming**: Dari segi prosesor dan grafis, laptop yang paling mendekati untuk gaming ringan dalam daftar adalah:
+    *   **Asus Vivobook GO 14 Ryzen 3-7320U** (Rp5.599.000): Prosesor dan grafis AMD Radeon lebih baik untuk gaming ringan dibandingkan Intel UHD/Celeron.
+    *   **Advan Workmate Ryzen 5 3500U** (Rp4.599.000): Memiliki prosesor Ryzen 5 dan grafis Radeon RX Vega 8 yang lebih kuat, serta RAM yang dapat di-upgrade.
+    *   **HP 14 Ryzen 5 7530U** (Rp7.299.000): Memiliki prosesor 6-core yang paling powerful dalam daftar.
+
+**Kesimpulan dan Saran Berdasarkan Data**:
+Untuk memenuhi kriteria ""RAM minimal 16GB"" dengan anggaran Rp 15 juta, Anda memiliki ruang untuk melakukan **upgrade RAM**. Anda dapat membeli salah satu laptop di atas (misalnya Advan Workmate atau HP 14) dan menambahkan layanan **""Upgrade RAM""** yang tersedia dengan harga **Rp300.000** untuk pemasangan.
+
+Namun, perlu dicatat bahwa meskipun RAM dapat ditingkatkan, **kemampuan gaming** akan sangat bergantung pada **prosesor dan kartu grafis terintegrasi (integrated graphics)** yang dimiliki laptop-laptop tersebut. Laptop-laptop ini hanya cocok untuk **gaming ringan atau game-game esports** pada pengaturan rendah hingga menengah. Untuk gaming yang lebih serius, diperlukan laptop dengan **kartu grafis diskrit (dedicated GPU)** yang datanya tidak tersedia dalam konten ini.
+
+**Jawaban spesifik berdasarkan data**: Maaf, datanya belum cukup untuk merekomendasikan laptop dengan RAM 16GB asli untuk gaming. Opsi yang mungkin adalah membeli laptop dengan RAM 8GB (seperti Advan Workmate atau HP 14) lalu melakukan upgrade RAM secara terpisah.";5
+Q2;Laptop ringan untuk kuliah, RAM minimal 8GB;deepseek-chat;10;132|1106|133|86|696;0.0;0.0;16.48705580001115;"Berdasarkan informasi produk yang tersedia, berikut rekomendasi laptop ringan untuk kuliah dengan RAM minimal 8GB:
+
+1. **Asus Vivobook GO 14 Ryzen 3-7320U** (Rp5.599.000)
+    - **RAM:** 8GB LPDDR5 (sudah memenuhi syarat minimal).
+    - **Spesifikasi lain:** Processor AMD Ryzen 3, SSD 256GB/512GB, layar 14"" FHD, berat ~1.4kg (dimensi tipis), Windows 11.
+    - **Kelebihan:** Sudah termasuk garansi resmi Asus 2 tahun dan pilihan paket proteksi/aksesoris.
+
+2. **Lenovo Ideapad Slim 3 14 N100 8GB 512GB** (Rp4.799.000)
+    - **RAM:** 8GB SO-DIMM DDR4 (sudah memenuhi syarat minimal).
+    - **Spesifikasi lain:** Processor Intel Celeron N100, SSD 256GB/512GB, layar 14"" FHD, berat 1.3kg, Windows 11.
+    - **Kelebihan:** Harga lebih terjangkau, garansi resmi 2 tahun, dan beratnya ringan.
+
+3. **Lenovo IdeaPad Slim 3 Core i3-1215 8GB 256GB** (Rp5.699.000)
+    - **RAM:** 8GB Soldered DDR4 (sudah memenuhi syarat minimal).
+    - **Spesifikasi lain:** Processor Intel Core i3-1215U, SSD 256GB, layar 14"" FHD, Windows 11.
+    - **Kelebihan:** Processor lebih kuat dari Celeron, pilihan varian bundling tersedia.
+
+**Catatan:** Produk ""Lenovo Ideapad Slim 3 14 I5 13420H"" memiliki varian **RAM 8GB** sesuai judul, tetapi deskripsi spesifikasinya hanya menyebut ""8GB Soldered"". Karena tidak ada konfirmasi berat atau klaim ""ringan"" yang eksplisit dalam datanya, laptop ini tidak dimasukkan ke dalam daftar utama.";5
