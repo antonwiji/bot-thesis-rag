@@ -1,10 +1,56 @@
 import time
-from typing import List
+from typing import List, Tuple
 
 import pandas as pd
 
 from models import EvalQuestion, RagEvalResult
 from rag_deepseek_chain import build_rag_chain
+
+# ============================
+# KONFIGURASI HARGA TOKEN (USD)
+# ============================
+
+# Perkiraan harga DeepSeek Chat per 1 juta token (cache miss).
+# Silakan sesuaikan kalau pricing berubah atau pakai model lain.
+PRICE_INPUT_PER_M_TOKENS_USD = 0.27   # input tokens
+PRICE_OUTPUT_PER_M_TOKENS_USD = 1.10  # output tokens
+
+# Asumsi konversi karakter -> token (kasar):
+# ~1 token ≈ 4 karakter
+CHARS_PER_TOKEN = 4
+
+
+def estimate_tokens(text: str) -> int:
+    """Perkiraan jumlah token berdasarkan panjang teks."""
+    if not text:
+        return 0
+    return max(1, len(text) // CHARS_PER_TOKEN)
+
+
+def estimate_usage(question: str, source_docs, answer: str) -> Tuple[int, int]:
+    """
+    Estimasi token input dan output untuk satu query:
+    - input_tokens ≈ token(question + seluruh context dokumen)
+    - output_tokens ≈ token(jawaban)
+    """
+    # token pertanyaan
+    question_tokens = estimate_tokens(question)
+
+    # token context (gabungan isi semua dokumen sumber)
+    context_parts = []
+    for doc in source_docs:
+        content = getattr(doc, "page_content", "")
+        if content:
+            context_parts.append(content)
+    context_text = " ".join(context_parts)
+    context_tokens = estimate_tokens(context_text)
+
+    # token jawaban
+    answer_tokens = estimate_tokens(answer)
+
+    input_tokens = question_tokens + context_tokens
+    output_tokens = answer_tokens
+    return input_tokens, output_tokens
 
 
 def precision_recall_at_k(retrieved_ids: List[str], relevant_ids: List[str]):
@@ -19,7 +65,8 @@ def precision_recall_at_k(retrieved_ids: List[str], relevant_ids: List[str]):
     inter = len(retrieved_set & relevant_set)
 
     precision = inter / len(retrieved_ids)
-    recall = inter / len(retrieved_set)
+    # FIX kecil: recall harusnya dibagi jumlah dokumen relevan, bukan retrieved_set
+    recall = inter / len(relevant_set)
     return precision, recall
 
 
@@ -51,6 +98,7 @@ def main():
     eval_questions = load_eval_questions("data/eval_questions.csv")
 
     results: List[RagEvalResult] = []
+    token_stats: List[Tuple[int, int]] = []  # (input_tokens, output_tokens)
 
     for i, q in enumerate(eval_questions, start=1):
         print(f"\n=== [{i}/{len(eval_questions)}] {q.question_id}: {q.question}")
@@ -71,7 +119,14 @@ def main():
 
         prec, rec = precision_recall_at_k(retrieved_ids, q.relevant_ids)
 
-        print(f"   Latency={latency_sec:.2f}s | P@k={prec:.2f} | R@k={rec:.2f}")
+        # Estimasi token untuk query ini
+        input_tokens, output_tokens = estimate_usage(q.question, source_docs, answer)
+        token_stats.append((input_tokens, output_tokens))
+
+        print(
+            f"   Latency={latency_sec:.2f}s | P@k={prec:.2f} | R@k={rec:.2f} | "
+            f"input_tokens≈{input_tokens} | output_tokens≈{output_tokens}"
+        )
 
         res = RagEvalResult(
             question_id=q.question_id,
@@ -102,25 +157,60 @@ def main():
                 "latency_sec": r.latency_sec,
                 "answer": r.answer,
                 "top_k": r.top_k,
+                # kolom tambahan: token & biaya
+                "input_tokens": token_stats[idx][0],
+                "output_tokens": token_stats[idx][1],
+                "total_tokens": token_stats[idx][0] + token_stats[idx][1],
+                "cost_input_usd": (
+                    token_stats[idx][0] / 1_000_000 * PRICE_INPUT_PER_M_TOKENS_USD
+                ),
+                "cost_output_usd": (
+                    token_stats[idx][1] / 1_000_000 * PRICE_OUTPUT_PER_M_TOKENS_USD
+                ),
             }
-            for r in results
+            for idx, r in enumerate(results)
         ]
     )
+
+    # total biaya per row
+    df_res["cost_total_usd"] = df_res["cost_input_usd"] + df_res["cost_output_usd"]
 
     output_path = "data/eval_results_deepseek.csv"
     df_res.to_csv(output_path, index=False, sep=";")
     print(f"\n✅ Hasil evaluasi tersimpan di {output_path}")
 
-    # summary describe
+    # summary describe untuk latency & metrik
     summary = df_res[["latency_sec", "precision_at_k", "recall_at_k"]].describe()
     print(summary)
 
-    # simpan summary ke file teks
-    result_txt_path = "data/result.txt"
-    with open(result_txt_path, "w", encoding="utf-8") as f:
-        f.write(summary.to_string())
+    # summary token & biaya
+    total_input_tokens = int(df_res["input_tokens"].sum())
+    total_output_tokens = int(df_res["output_tokens"].sum())
+    total_cost_usd = df_res["cost_total_usd"].sum()
 
-    print(f"\n📝 Ringkasan metrik (describe) tersimpan di {result_txt_path}")
+    print("\n📊 Ringkasan token & biaya (perkiraan):")
+    print(f"   Total input tokens  ≈ {total_input_tokens}")
+    print(f"   Total output tokens ≈ {total_output_tokens}")
+    print(f"   Total biaya         ≈ ${total_cost_usd:.6f} USD")
+
+    # summary biaya + metrik disimpan ke result.txt
+    result_txt_path = "data/result.txt"
+    cost_summary = df_res[["input_tokens", "output_tokens", "total_tokens",
+                           "cost_input_usd", "cost_output_usd", "cost_total_usd"]].agg(["sum", "mean"])
+
+    with open(result_txt_path, "w", encoding="utf-8") as f:
+        f.write("Statistik latency & metrik:\n")
+        f.write(summary.to_string())
+        f.write("\n\nStatistik token & biaya (sum/mean):\n")
+        f.write(cost_summary.to_string())
+        f.write(
+            "\n\nCatatan:\n"
+            f"- Harga input per 1M token  (USD): {PRICE_INPUT_PER_M_TOKENS_USD}\n"
+            f"- Harga output per 1M token (USD): {PRICE_OUTPUT_PER_M_TOKENS_USD}\n"
+            f"- Estimasi token: 1 token ≈ {CHARS_PER_TOKEN} karakter.\n"
+        )
+
+    print(f"\n📝 Ringkasan metrik & biaya tersimpan di {result_txt_path}")
 
 
 if __name__ == "__main__":

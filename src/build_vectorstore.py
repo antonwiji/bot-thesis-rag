@@ -10,8 +10,7 @@ from models import Product
 
 PERSIST_DIR = "./chroma_laptop_db"
 COLLECTION_NAME = "laptop_rag"
-CSV_PATH = "data/products.csv"  # hasil convert JSONL → CSV (title,price,description)
-
+CSV_PATH = "data/product_semicolon.csv" 
 
 def load_products_csv(path: str) -> List[Product]:
     """
@@ -19,7 +18,7 @@ def load_products_csv(path: str) -> List[Product]:
     title, price, description.
     id digenerate dari nomor baris (1,2,3,...).
     """
-    df = pd.read_csv(path)
+    df = pd.read_csv(path, sep=";")
 
     products: List[Product] = []
     for idx, row in df.iterrows():
