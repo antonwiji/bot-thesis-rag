@@ -5,6 +5,7 @@ from langchain_classic.chains import RetrievalQA
 from langchain_classic.prompts import PromptTemplate
 
 from llm_deepseek import get_deepseek_llm
+from llm_deepseek import get_gpt5_nano_llm
 
 PERSIST_DIR = "./chroma_laptop_db"
 COLLECTION_NAME = "laptop_rag"
@@ -30,6 +31,41 @@ def get_retriever():
 def build_rag_chain():
     retriever = get_retriever()
     llm = get_deepseek_llm()
+
+    template = """
+Kamu adalah asisten yang menjawab berdasarkan informasi produk laptop.
+
+Gunakan hanya KONTEN berikut sebagai konteks:
+{context}
+
+Pertanyaan pengguna:
+{question}
+
+Berikan jawaban yang:
+- spesifik berdasarkan title, deskripsi, dan harga produk
+- jangan mengarang jika data tidak cukup (jawab: "maaf, datanya belum cukup")
+
+Jawaban:
+"""
+
+    prompt = PromptTemplate(
+        template=template,
+        input_variables=["context", "question"],
+    )
+
+    qa_chain = RetrievalQA.from_chain_type(
+        llm=llm,
+        chain_type="stuff",
+        retriever=retriever,
+        return_source_documents=True,
+        chain_type_kwargs={"prompt": prompt},
+    )
+
+    return qa_chain
+
+def build_rag_chain_gpt():
+    retriever = get_retriever()
+    llm = get_gpt5_nano_llm()
 
     template = """
 Kamu adalah asisten yang menjawab berdasarkan informasi produk laptop.
