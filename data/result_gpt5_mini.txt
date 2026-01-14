@@ -1,0 +1,20 @@
+Statistik latency & metrik (GPT-5 mini):
+       latency_sec  precision_at_k  recall_at_k
+count   100.000000         100.000      100.000
+mean     31.326136           0.002        0.005
+std      10.567260           0.020        0.050
+min      10.032110           0.000        0.000
+25%      25.029791           0.000        0.000
+50%      30.062006           0.000        0.000
+75%      35.840630           0.000        0.000
+max      80.153712           0.200        0.500
+
+Statistik token & biaya (sum/mean) GPT-5 mini:
+      input_tokens  output_tokens  total_tokens  cost_input_usd  cost_output_usd  cost_total_usd
+sum      225238.00       49502.00      274740.0        0.056309         0.099004        0.155313
+mean       2252.38         495.02        2747.4        0.000563         0.000990        0.001553
+
+Catatan:
+- Harga input per 1M token  (USD): 0.25
+- Harga output per 1M token (USD): 2.0
+- Estimasi token: 1 token ≈ 4 karakter.

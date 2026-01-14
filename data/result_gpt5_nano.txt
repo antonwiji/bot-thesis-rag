@@ -1,0 +1,20 @@
+Statistik latency & metrik (GPT-5 nano):
+       latency_sec  precision_at_k  recall_at_k
+count   100.000000         100.000      100.000
+mean     37.573568           0.002        0.005
+std      14.301360           0.020        0.050
+min       6.626810           0.000        0.000
+25%      29.650950           0.000        0.000
+50%      35.552648           0.000        0.000
+75%      45.971117           0.000        0.000
+max      94.810293           0.200        0.500
+
+Statistik token & biaya (sum/mean) GPT-5 nano:
+      input_tokens  output_tokens  total_tokens  cost_input_usd  cost_output_usd  cost_total_usd
+sum      225111.00       36607.00     261718.00        0.011256         0.014643        0.025898
+mean       2251.11         366.07       2617.18        0.000113         0.000146        0.000259
+
+Catatan:
+- Harga input per 1M token  (USD): 0.05
+- Harga output per 1M token (USD): 0.4
+- Estimasi token: 1 token ≈ 4 karakter.
