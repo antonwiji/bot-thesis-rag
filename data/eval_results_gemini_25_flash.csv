@@ -1,0 +1,1301 @@
+question_id;question;llm_name;relevant_ids;retrieved_ids;precision_at_k;recall_at_k;latency_sec;answer;top_k;input_tokens;output_tokens;total_tokens;cost_input_usd;cost_output_usd;cost_total_usd
+Q1;Laptop apa yang cocok untuk gaming budget 15 juta dengan RAM minimal 16GB?;gemini-2.5-flash;5;1843|413|322|420|1222;0.0;0.0;9.351201665122062;"Maaf, datanya belum cukup.
+
+Dari informasi produk yang tersedia, tidak ada laptop yang memenuhi semua kriteria:
+*   Berada dalam budget maksimal Rp15.000.000
+*   Memiliki RAM minimal 16GB
+*   Secara spesifik cocok untuk gaming (dengan GPU dedicated yang kuat).
+
+*   **Asus Vivobook F1504ZA** memiliki RAM 16GB dan harga Rp9.699.000 (sesuai budget), namun grafisnya Intel Iris X Graphics dan deskripsinya lebih mengarah ke penggunaan harian/kerja, bukan laptop gaming utama.
+*   **Lenovo IdeaPad 3 15IAH7** adalah laptop gaming dengan RTX 3050 dan harga Rp13.800.000 (sesuai budget), namun RAM-nya hanya 8GB.
+*   **Lenovo LOQ 15APH8** adalah laptop gaming dengan RTX 3050, namun RAM-nya hanya 8GB dan harganya Rp15.499.000 (sedikit melebihi budget Rp15 juta).";5;2126;189;2315;0.0006377999999999999;0.00047250000000000005;0.0011102999999999998
+Q2;Laptop ringan untuk kuliah, RAM minimal 8GB;gemini-2.5-flash;10;2|214|1499|742|1713;0.0;0.0;14.44186965469271;"Berikut adalah pilihan laptop yang ringan untuk kuliah dengan RAM minimal 8GB, berdasarkan informasi yang tersedia:
+
+**1. LAPTOP ACER ASPIRE LITE AL14-31P- C6DD**
+*   **Ringan:** Ya, deskripsi menyebutkan ""Super Tipis, dan Ringan (1.3kg)"".
+*   **RAM:** 8 GB DDR5 Memory (memenuhi syarat minimal 8GB).
+*   **Cocok untuk kuliah:** Desain yang super tipis dan ringan sangat mendukung mobilitas untuk aktivitas perkuliahan. Dilengkapi Windows 11 Home dan Microsoft Office Home and Student 2021.
+*   **Spesifikasi lain:** Processor Intel N100, Storage 512 GB SSD NVMe, Layar 14"" WUXGA 1920 x 1200 IPS.
+*   **Harga:** Rp6.499.000
+
+**2. Lenovo Ideapad slim 1 ATHLON 7120**
+*   **Ringan:** Ya, berat ""Starting at 1.38 kg"".
+*   **RAM:** 8GB Soldered LPDDR5-5500 (memenuhi syarat minimal 8GB).
+*   **Cocok untuk kuliah:** Deskripsi produk menyebutkan ""Laptop Buat Sekolah-nya"", yang menunjukkan kesesuaian untuk kebutuhan pelajar/mahasiswa. Dilengkapi Win11+OHS.
+*   **Spesifikasi lain:** Processor AMD Athlon Silver 7120U, Storage 256GB SSD M.2 2242 PCIe 4.0x4 NVMe, Layar 14.0 HD Resolusi Layar (1366x768) TN.
+*   **Harga:** Rp5.137.000
+
+**3. Laptop SPC Ryzen 5 3500U**
+*   **Ringan:** Maaf, datanya belum cukup (berat tidak disebutkan dalam deskripsi).
+*   **RAM:** 8GB DDR4 (memenuhi syarat minimal 8GB).
+*   **Cocok untuk kuliah:** Deskripsi produk secara spesifik menyebutkan ""Cocok Kerja & Kuliah"".
+*   **Spesifikasi lain:** Processor AMD Ryzen 5 3500U, Storage 256GB SSD NVME, Layar 14” FHD IPS.
+*   **Harga:** Rp4.529.000
+
+Untuk laptop Lenovo Ideapad Slim 1 14IGL7 N4500 dan Lenovo IdeaPad Slim 3 14IAU7 CVID CUID Core i3-1215U, informasi mengenai berat spesifik tidak tersedia dalam deskripsi, sehingga tidak dapat dikonfirmasi apakah keduanya termasuk kategori ""ringan"" berdasarkan data yang ada.";5;2301;449;2750;0.0006903;0.0011225;0.0018128
+Q3;Saya punya budget 8 juta, laptop apa yang paling worth it untuk kuliah dan nonton film?;gemini-2.5-flash;27|41;811|21|1481|1347|1843;0.0;0.0;16.456129050813615;"Dengan budget 8 juta, berikut adalah rekomendasi laptop yang paling worth it untuk kuliah dan nonton film berdasarkan informasi yang tersedia:
+
+**Rekomendasi Utama (Sedikit Melebihi Budget, Tapi Paling Worth It):**
+
+*   **Asus Vivobook 14 A1404VA intel I5 gen 1334 8GB 512GB W11+OHS+M365B 14.0FHD**
+    *   **Harga:** Rp8.432.000 (sedikit melebihi budget, namun sangat direkomendasikan karena kelengkapan dan performa).
+    *   **Prosesor:** Intel Core i5-1334U Processor (Gen 13), sangat bertenaga untuk kebutuhan kuliah dan multitasking.
+    *   **RAM:** 8GB DDR4 (cukup untuk kuliah dan nonton film).
+    *   **Storage:** 512GB M.2 NVMe PCIe 4.0 SSD (kapasitas besar dan cepat, sangat ideal untuk menyimpan banyak film dan file kuliah).
+    *   **Layar:** 14.0-inch, FHD (1920 x 1080) IPS-level Panel, Anti-glare (sangat baik untuk nonton film dengan kualitas gambar yang jernih dan nyaman untuk belajar).
+    *   **Sistem Operasi & Software:** Sudah termasuk Windows 11 Home dan Office Home & Student 2021 (OHS), jadi siap langsung pakai untuk tugas kuliah tanpa perlu membeli lisensi tambahan.
+    *   **Fitur Tambahan:** Keyboard Backlit Chiclet + Fingerprint (nyaman untuk mengetik di kondisi minim cahaya), Wi-Fi 6E, Bluetooth 5.3, HDMI, USB-C, Webcam HD dengan privacy shutter, sudah termasuk Backpack gratis.
+    *   **Garansi & Asuransi:** Garansi Resmi Asus 2 Tahun dan tambahan asuransi 1 TAHUN CERMATI PROTECT FREE (melindungi dari kemalingan, cairan, accident, kebakaran, bencana) yang sangat berharga untuk mahasiswa.
+
+**Alternatif (Jika Budget 8 Juta Harus Sangat Ketat):**
+
+*   **LAPTOP I5 GEN 11 / 10 DAN RYZEN 5/ 7 HIGH GEN TERMURAH ! LENOVO THINKPAD L15 SIAP GAMING & EDITING**
+    *   **Harga:** Rp3.699.999 (jauh di bawah budget, memberikan sisa budget untuk upgrade atau keperluan lain).
+    *   **Prosesor:** Pilihan Intel Core i5 Gen 10/11 atau AMD Ryzen 5 Pro 4000/5000 series (performa yang sangat baik untuk kuliah dan multimedia).
+    *   **RAM:** 8GB (cukup untuk kuliah dan nonton film, dan bisa di-upgrade hingga 64GB).
+    *   **Storage:** NVME 128GB (ini adalah kelemahan utamanya, sangat terbatas untuk menyimpan banyak film. Anda mungkin perlu mempertimbangkan upgrade storage atau menggunakan harddisk eksternal).
+    *   **Layar:** 15 inci (layar lebih besar, nyaman untuk nonton film dan produktivitas).
+    *   **Grafis:** Intel Iris Xe atau RX Vega 7 (sangat mumpuni untuk multimedia dan bahkan gaming ringan, baik untuk pengalaman nonton film).
+    *   **Fitur Tambahan:** Ada numerik pad (berguna untuk kuliah jurusan tertentu), HDMI, Micro SD slot, Ethernet.
+
+**Kesimpulan:**
+
+Meskipun **Asus Vivobook 14 A1404VA** sedikit melebihi budget, kelengkapan (OS, Office, storage besar), performa prosesor generasi terbaru, kualitas layar IPS, dan paket garansi serta asuransi yang ditawarkan membuatnya **paling worth it** dan siap pakai untuk kebutuhan kuliah dan nonton film Anda.
+
+Jika Anda benar-benar tidak bisa melebihi budget 8 juta, **Lenovo ThinkPad L15** adalah pilihan yang sangat menarik dari segi performa prosesor dan grafis dengan harga yang sangat terjangkau, namun Anda harus mempertimbangkan keterbatasan kapasitas penyimpanan 128GB NVME.";5;2841;798;3639;0.0008523000000000001;0.001995;0.0028472999999999997
+Q4;Lebih baik pilih laptop dengan SSD 512GB atau 256GB jika saya sering install banyak aplikasi dan game?;gemini-2.5-flash;88|102;1051|543|525|1049|527;0.0;0.0;8.509568687994033;"Untuk kebutuhan menginstal banyak aplikasi dan game, lebih baik memilih laptop dengan **SSD 512GB** daripada 256GB. Kapasitas 512GB akan memberikan lebih banyak ruang penyimpanan sehingga Anda tidak cepat kehabisan tempat.
+
+Berdasarkan informasi produk yang tersedia, laptop yang menawarkan SSD 512GB adalah:
+
+*   **Acer Aspire Lite AL14-32P-C9VS N150 8GB DDR5 512GB SSD UMA 14"" WUXGA IPS W11H OH24 - 8GB/512GB SSD** (secara default memiliki 512GB SSD).
+*   **ADVAN Ai Gen Amd Ryzen 7 8845HS RAM32GB SSD1TB 14'' Ips Windows 11** (menawarkan opsi upgrade hingga 512GB atau lebih).
+*   **ADVAN AI GEN Intel Ultra 5 125H RAM16GB SSD2TB 14'' Ips 100% Srgb Windows 11** (memiliki Memory 512GB SSD PCIe4.0).
+*   **ADVAN Laptop WORKPLUS i5 12600H /24GB/512GB SSD** (menawarkan opsi upgrade hingga 512GB atau lebih).
+*   **ADVAN AI GEN Amd Ryzen 7 8845HS RAM16GB SSD2TB 14'' Ips Windows 11** (menawarkan opsi upgrade hingga 512GB atau lebih).";5;1506;233;1739;0.0004518;0.0005825;0.0010343
+Q5;Laptop apa yang cocok untuk kerja kantoran full Microsoft Office dengan budget maksimal 7 juta?;gemini-2.5-flash;63|119;1440|316|1381|1432|747;0.0;0.0;8.129294993821532;"Untuk kerja kantoran full Microsoft Office dengan budget maksimal 7 juta, laptop yang cocok adalah:
+
+**Laptop HP 14 Intel Core i3 1315 RAM 8 GB SSD 512 GB Windows 11 + Office Home Student 14"" FHD Blit Copilot - W11, UNIT ONLY.**
+*   **Harga:** Rp6.499.000 (sesuai budget maksimal 7 juta)
+*   **Spesifikasi:**
+    *   **Processor:** Intel Core i3-1315 (cukup untuk kerja kantoran dan Microsoft Office)
+    *   **RAM:** 8 GB DDR4-3200 MHz (memadai untuk multitasking Office)
+    *   **Penyimpanan:** 512 GB PCIe NVMe M.2 SSD (cepat dan cukup besar)
+    *   **Sistem Operasi:** Windows 11 Home
+    *   **Software Tambahan:** Office Home Student / M365 (sudah termasuk untuk kebutuhan Microsoft Office)
+    *   **Layar:** 14″ FHD IPS (1920 x 1080) anti-glare
+    *   **Keyboard:** Full-size, backlit (nyaman untuk mengetik di kondisi minim cahaya)
+    *   **Webcam:** HP True Vision 1080p FHD camera (baik untuk video conference)
+*   **Garansi:** Resmi 2 Tahun.";5;1926;239;2165;0.0005778;0.0005975;0.0011753
+Q6;Saya butuh laptop untuk gaming casual dan tugas kampus, budget sekitar 10 juta, rekomendasi yang seimbang apa?;gemini-2.5-flash;150|178;1843|413|465|742|21;0.0;0.0;13.643399263732135;"Berdasarkan kebutuhan Anda untuk laptop gaming casual dan tugas kampus dengan budget sekitar 10 juta, rekomendasi yang paling seimbang adalah:
+
+**LAPTOP I5 GEN 11 / 10 DAN RYZEN 5/ 7 HIGH GEN TERMURAH ! LENOVO THINKPAD L15 SIAP GAMING & EDITING**
+*   **Harga:** Rp3.699.999
+*   **Alasan:**
+    *   **Gaming Casual:** Deskripsi secara spesifik menyebutkan kemampuan gaming. Untuk varian dengan prosesor **AMD Ryzen**, disebutkan ""RX VEGA 7 UP TO 4GB DEDICATED VRAM !! SIAP GENSHIN MENTOK KANAN !"". Sedangkan untuk **i5 Gen 11**, disebutkan ""INTEL IRIS XE !!! 80EUs !!! SIAP BUAT MAIN GAME ONLINE JAMAN SKRG !!"". Ini menunjukkan kapabilitas yang kuat untuk gaming casual.
+    *   **Tugas Kampus:** Laptop ini dilengkapi layar besar 15 inci, memiliki numerik pad (berguna untuk tugas yang melibatkan angka), dan dideskripsikan cocok untuk ""KERJA OFFICE, DESAIN, EDITING"". Pilihan prosesor seperti Intel Core i5 Gen 11 atau AMD Ryzen 5 Pro (gen 4000/5000) sangat mumpuni untuk tugas kampus.
+    *   **Spesifikasi Umum:** Tersedia pilihan prosesor Intel Core i5 Gen 10/11 atau AMD Ryzen 5 Pro 4650U/5650U/5675U. RAM 8GB (bisa di-upgrade hingga 64GB DDR4 dengan 2 soket) dan penyimpanan NVME 128GB (varian Ryzen NVME 4.0 compatible).
+    *   **Budget:** Dengan harga Rp3.699.999, laptop ini jauh di bawah budget 10 juta Anda, memberikan sisa dana yang besar untuk upgrade RAM atau penyimpanan jika diperlukan, atau untuk membeli aksesori lainnya.";5;2609;360;2969;0.0007827;0.0009000000000000001;0.0016827
+Q7;Laptop mana yang lebih cocok untuk saya jika prioritasnya layar 15.6 inci dan keyboard dengan numpad?;gemini-2.5-flash;54|211;413|465|1795|214|525;0.0;0.0;6.350255316123366;"Berdasarkan prioritas layar 15.6 inci, hanya **Asus Vivobook F1504ZA Touch I7 1255 Ram 16GB / 512GB W11 15.6FHD IPS** yang memenuhi kriteria tersebut dengan layar 15.6-inch FHD (1920 x 1080). Laptop ini memiliki harga Rp9.699.000.
+
+Namun, untuk kriteria keyboard dengan numpad, data pada deskripsi produk Asus Vivobook F1504ZA hanya menyebutkan 'Chiclet Keyboard' dan 'Precision touchpad' tanpa secara spesifik menyatakan adanya numpad. Oleh karena itu, maaf, datanya belum cukup untuk mengkonfirmasi keberadaan numpad pada laptop ini.";5;2178;133;2311;0.0006533999999999999;0.0003325;0.0009859
+Q8;Untuk pembelian laptop baru, lebih baik pilih RAM 8GB yang bisa di-upgrade atau 16GB yang tidak bisa di-upgrade?;gemini-2.5-flash;92|301;1106|543|527|1678|146;0.0;0.0;8.274665417615324;"Berdasarkan informasi produk yang diberikan:
+
+Untuk pilihan RAM 8GB yang bisa di-upgrade, Anda bisa mempertimbangkan:
+*   **ADVAN Ai Gen Amd Ryzen 7 8845HS RAM32GB SSD1TB 14'' Ips Windows 11 - 256GB, 8Gb** (Harga: Rp8.799.000). Deskripsi menyebutkan RAM DDR5 8GB yang bisa di-upgrade hingga 32GB.
+
+Untuk pilihan RAM 16GB yang tidak bisa di-upgrade, maaf, datanya belum cukup. Produk laptop dengan RAM 16GB yang tersedia (seperti ADVAN AI GEN Amd Ryzen 7 8845HS RAM16GB SSD2TB) justru disebutkan bisa di-upgrade. Untuk Laptop Tecno MegaBook K16S yang memiliki varian RAM 16GB, tidak ada informasi apakah RAM tersebut dapat di-upgrade atau tidak.";5;1789;161;1950;0.0005367;0.0004025;0.0009392000000000001
+Q9;Laptop apa yang cocok untuk programmer pemula dengan budget 9 juta, RAM minimal 16GB?;gemini-2.5-flash;77|243;811|1843|527|338|742;0.0;0.0;9.124505007173866;"Maaf, datanya belum cukup. Dari informasi produk yang tersedia, tidak ada laptop yang secara spesifik mencantumkan varian dengan RAM minimal 16GB dan harga di bawah atau sama dengan 9 juta.
+
+*   **LENOVO THINKPAD X280** memiliki opsi 16GB untuk varian i7 Gen 8, namun harga spesifik untuk varian 16GB tidak disebutkan secara jelas (hanya ""3 jutaan"" untuk i5/i7 Gen 8, tanpa detail RAM).
+*   **ADVAN AI GEN** menyebutkan opsi RAM 16GB, tetapi varian yang harganya Rp8.799.000 adalah dengan RAM 8GB. Harga untuk varian 16GB tidak dicantumkan.
+*   **Acer Swift Go Touch SFG14** memiliki RAM 32GB, tetapi harganya jauh melebihi budget (Rp15.999.000).
+*   **LENOVO THINKPAD L15** dan **Laptop SPC Ryzen 5 3500U** yang tercantum memiliki RAM 8GB dan tidak memenuhi kriteria minimal 16GB.";5;2160;195;2355;0.000648;0.0004875;0.0011355
+Q10;Saya sering edit video pendek untuk TikTok, laptop apa yang pas di budget 12 juta?;gemini-2.5-flash;134|199;1843|21|1189|1479|1381;0.0;0.0;15.506006609648466;"Untuk edit video pendek TikTok dengan budget Rp12 juta, laptop **Asus Vivobook 14 A1404VA intel I5 gen 1334** atau **Asus A1404VAP VIPS5851M** bisa menjadi pilihan yang pas.
+
+Kedua laptop ini memiliki spesifikasi yang cocok untuk kebutuhan Anda:
+
+*   **Asus Vivobook 14 A1404VA intel I5 gen 1334** (Harga: Rp8.432.000)
+    *   **Processor:** Intel Core i5-1334U (10 cores, 12 Threads, up to 4.6 GHz) yang modern dan bertenaga.
+    *   **RAM:** 8GB DDR4 (on board, upgradable) cukup untuk editing video pendek.
+    *   **Storage:** 512GB M.2 NVMe PCIe 4.0 SSD, sangat penting untuk menyimpan file video dan memastikan kecepatan kerja.
+    *   **Grafis:** Intel UHD Graphics (Intel Iris Xe Graphics eligible) yang cukup baik untuk editing ringan dan multitasking.
+    *   **Display:** 14.0-inch FHD (1920 x 1080) IPS-level Panel.
+
+*   **Asus A1404VAP VIPS5851M** (Harga: Rp8.294.900)
+    *   **Processor:** Intel Core 5 Processor 120U (10 cores, 12 Threads, up to 5.0 GHz) yang juga sangat bertenaga dan modern.
+    *   **RAM:** 8GB DDR4 (on board, upgradable).
+    *   **Storage:** 512GB M.2 NVMe PCIe 4.0 SSD.
+    *   **Grafis:** Intel Graphics (kemungkinan Iris Xe jika RAM dual channel).
+    *   **Display:** 14.0-inch FHD (1920 x 1080) IPS-level Panel dengan 45% NTSC color gamut.
+
+Kedua pilihan Asus ini menawarkan kombinasi prosesor yang kuat, SSD yang lega, dan grafis terintegrasi yang memadai untuk editing video pendek TikTok, serta masih jauh di bawah budget Rp12 juta Anda.";5;2802;371;3173;0.0008405999999999999;0.0009275;0.0017680999999999999
+Q11;Laptop apa yang bagus untuk kerja WFH dan meeting online tiap hari, kamera dan mikrofon harus oke?;gemini-2.5-flash;45|286;1381|1963|1440|1189|747;0.0;0.0;8.404304281808436;"Untuk kebutuhan kerja WFH dan meeting online tiap hari dengan kamera dan mikrofon yang oke, laptop-laptop HP berikut sangat direkomendasikan karena spesifikasinya yang jelas menyebutkan kualitas kamera dan mikrofon yang baik:
+
+1.  **Laptop HP 14 Intel Core i3 1315 RAM 8 GB SSD 512 GB Windows 11 + Office Home Student 14"" FHD Blit Copilot - W11, UNIT ONLY.**
+    *   **Kamera & Mikrofon:** Dilengkapi dengan ""HP True Vision 1080p FHD camera with temporal noise reduction and integrated dual array digital microphones"". Resolusi 1080p FHD dengan fitur pengurangan noise temporal dan mikrofon dual array digital menunjukkan kualitas yang baik untuk meeting online.
+    *   **Harga:** Rp6.499.000
+
+2.  **Laptop HP 14 Intel Core Core 5 120U RAM 8 GB SSD 512 GB Windows 11 + Office Home Student 14"" Full HD Backlight CoPilot - 8/512 W11, UNIT ONLY.**
+    *   **Kamera & Mikrofon:** Dilengkapi dengan ""HP True Vision 1080p FHD camera with temporal noise reduction and integrated dual array digital microphones"". Resolusi 1080p FHD dengan fitur pengurangan noise temporal dan mikrofon dual array digital menunjukkan kualitas yang baik untuk meeting online.
+    *   **Harga:** Rp8.349.000
+
+3.  **LAPTOP HP 14 CORE i5 120U 16GB 512GB W11+OHS+M365B 14.0FHD COPILOT 2Yr - HARGA TERBAIK, 8GB/512SSD.**
+    *   **Kamera & Mikrofon:** Dilengkapi dengan ""HP True Vision 1080p FHD camera with temporal noise reduction and integrated dual array digital microphones"". Resolusi 1080p FHD dengan fitur pengurangan noise temporal dan mikrofon dual array digital menunjukkan kualitas yang baik untuk meeting online.
+    *   **Harga:** Rp8.389.000
+
+Ketiga laptop HP ini secara spesifik menyebutkan kamera 1080p FHD dengan *temporal noise reduction* dan *integrated dual array digital microphones*, yang sangat mendukung kebutuhan kamera dan mikrofon yang ""oke"" untuk meeting online setiap hari.";5;2376;467;2843;0.0007128;0.0011675000000000001;0.0018803000000000001
+Q12;Kalau saya ingin membeli laptop tipis untuk sering dibawa naik transportasi umum, berat maksimal 1.3 kg, ada saran?;gemini-2.5-flash;61|305;502|1481|214|1051|1511;0.0;0.0;10.115263964049518;"Untuk laptop tipis dengan berat maksimal 1.3 kg yang cocok untuk sering dibawa naik transportasi umum, berikut adalah beberapa pilihan berdasarkan informasi produk yang tersedia:
+
+1.  **HANYA 7 ONS ! FUJITSU U9310 LAPTOP CORE i7 | i5 GEN 10 TERTIPIS DI DUNIA ! - i5-10th, 8GB, NO STORAGE**
+    *   **Deskripsi:** Laptop ini memiliki berat hanya 754 gram (sekitar 0.754 kg) dan tebal hanya 1.5 cm, menjadikannya ""LAPTOP TERTIPIS DI DUNIA"". Deskripsi menekankan keringanannya dengan perbandingan ""SEBERAT IKAN DORI AJA !"" dan ""SUPER TIPISSS"".
+    *   **Harga:** Rp3.149.999
+
+2.  **Acer Aspire Lite AL14-32P-C9VS N150 8GB DDR5 512GB SSD UMA 14"" WUXGA IPS W11H OH24 - 8GB/512GB SSD**
+    *   **Deskripsi:** Laptop ini memiliki berat 1.2 Kg. Disebutkan ""Dengan ukuran compact, Semakin nyaman di bawa kemanapun"" dan ""Paling ringan dengan desain terbaru"".
+    *   **Harga:** Rp5.199.000
+
+3.  **Laptop ACER Aspire Lite AL14-31P-C6DD [Intel Core N100 / RAM 8GB / Storage 512GB SSD / Intel UHD Graphics / 14"" WUXGA / Windows 11]**
+    *   **Deskripsi:** Laptop ini memiliki ""Desain Baru yang Modis, Super Tipis, dan Ringan (1.3kg)"". Didesain untuk pengguna yang membutuhkan perangkat yang efisien dan portabel.
+    *   **Harga:** Rp4.999.000
+
+4.  **LAPTOP ACER ASPIRE LITE AL14-31P- C6DD : INTEL N100/ 8GB DDR5/ 5512SSD/ 14 INCH IPS W11 OHS21 (BACKPACK) - LAPTOP ONLY**
+    *   **Deskripsi:** Laptop ini memiliki ""Desain Baru yang Modis, Super Tipis, dan Ringan (1.3kg)"".
+    *   **Harga:** Rp6.499.000";5;1728;373;2101;0.0005183999999999999;0.0009325000000000001;0.0014509
+Q13;Laptop apa yang cocok untuk gaming FPS dengan refresh rate minimal 144Hz dan budget 15 juta?;gemini-2.5-flash;170|221;413|1222|32|1194|1290;0.0;0.0;5.583110596053302;"Berdasarkan informasi produk yang tersedia, laptop yang cocok untuk gaming FPS dengan refresh rate minimal 144Hz dan budget 15 juta adalah:
+
+*   **Lenovo LOQ 15IRX9-ASID**
+    *   Harga: Rp12.999.000
+    *   Refresh Rate Layar: 144Hz
+    *   Graphics: NVIDIA GeForce RTX 3050 6GB
+
+*   **MSI Thin 15 B12UCX 2413**
+    *   Harga: Rp10.799.000
+    *   Refresh Rate Layar: 144Hz
+    *   Graphics: NVIDIA GeForce RTX 2050 4GB";5;1919;105;2024;0.0005757;0.00026250000000000004;0.0008382
+Q14;Saya butuh laptop untuk desain grafis ringan di Canva dan Photoshop, RAM minimal 16GB dan layar IPS, saran?;gemini-2.5-flash;89|260;742|525|527|543|413;0.0;0.0;9.122801956254989;"Berdasarkan kebutuhan Anda untuk desain grafis ringan di Canva dan Photoshop dengan RAM minimal 16GB dan layar IPS, berikut adalah beberapa saran laptop dari konten yang tersedia:
+
+1.  **ADVAN AI GEN Intel Ultra 5 125H**
+    *   **RAM:** 16GB LPDDR5x onboard
+    *   **Layar:** 14'' 16:10 1920*1200 FHD IPS 100% sRGB
+    *   **Processor:** Intel Ultra 5 125H
+    *   **Penyimpanan:** 512GB SSD PCIe4.0 (judul mencantumkan SSD2TB tapi deskripsi 512GB, ini adalah varian)
+    *   **Sistem Operasi:** Windows 11 Permanen Lifetime
+    *   **Harga:** Rp8.649.000
+
+2.  **ADVAN AI GEN Amd Ryzen 7 8845HS (varian RAM 16GB)**
+    *   **RAM:** DDR5 16GB
+    *   **Layar:** 14'' 16:10 FHD IPS
+    *   **Processor:** AMD Ryzen 7 8845HS
+    *   **Penyimpanan:** SSD 2TB (sesuai judul)
+    *   **Sistem Operasi:** Windows 11 Original
+    *   **Harga:** Rp8.799.000
+
+3.  **ADVAN Ai Gen Amd Ryzen 7 8845HS (varian RAM 32GB)**
+    *   **RAM:** DDR5 32GB
+    *   **Layar:** 14'' 16:10 FHD IPS
+    *   **Processor:** AMD Ryzen 7 8845HS
+    *   **Penyimpanan:** SSD 1TB (sesuai judul)
+    *   **Sistem Operasi:** Windows 11 Original
+    *   **Harga:** Rp8.799.000
+
+4.  **Asus Vivobook F1504ZA Touch I7 1255**
+    *   **RAM:** 8GB DDR4 on board + 8GB SO-DIMM (total 16GB)
+    *   **Layar:** 15.6-inch, FHD (1920 x 1080) 16:9 aspect ratio, 60Hz refresh rate, 250nits, 45% NTSC color gamut (judul menyebutkan IPS)
+    *   **Processor:** Intel Core i5-1235U
+    *   **Penyimpanan:** 512GB M.2 NVMe PCIe 3.0 SSD
+    *   **Sistem Operasi:** Windows 11 Home
+    *   **Harga:** Rp9.699.000";5;1768;390;2158;0.0005304;0.000975;0.0015054
+Q15;Untuk pembelian laptop kerja, lebih penting prosesor i7 atau RAM 16GB jika budget terbatas?;gemini-2.5-flash;116|312;811|42|170|1106|1198;0.0;0.0;15.287134998012334;"Berdasarkan informasi produk yang tersedia, jika budget terbatas untuk pembelian laptop kerja, Anda dapat mempertimbangkan Lenovo ThinkPad X280.
+
+Produk Lenovo ThinkPad X280 menawarkan pilihan prosesor Intel i7 8th Gen 8550U dengan varian RAM 8GB atau 16GB, dan deskripsinya menyebutkan harga untuk i5/i7 Gen 8 adalah ""3 jutaan"". Ini adalah satu-satunya laptop dengan prosesor i7 dan opsi RAM 16GB yang masuk dalam kategori ""budget terbatas"" dari produk yang diberikan, mengingat laptop i7/16GB lainnya berharga di atas 11 juta rupiah.
+
+Mengenai mana yang lebih penting antara prosesor i7 atau RAM 16GB untuk laptop kerja dengan budget terbatas:
+*   **Prosesor:** Deskripsi Lenovo ThinkPad X280 sangat menekankan pentingnya generasi prosesor yang lebih tinggi (""beda otak, beda kelasss!""). Bahkan i3 Gen 8 disebut mampu mengalahkan i5 Gen 6 dan i7 Gen 7, menunjukkan bahwa prosesor generasi tinggi memberikan lompatan performa yang signifikan. Untuk pekerjaan yang membutuhkan pemrosesan data kompleks atau aplikasi berat, prosesor yang kuat (seperti i7 Gen 8) akan sangat penting.
+*   **RAM:** Deskripsi produk ""Laptop Upgrade RAM"" menjelaskan bahwa RAM penting untuk ""Membantu Penggunaan Multitasking Dalam Komputer"" dan ""Mempercepat Kinerja Pemrosesan Informasi dari Komputer"". Untuk pekerjaan yang melibatkan banyak aplikasi dibuka secara bersamaan atau sering berpindah antar tugas, RAM 16GB akan sangat membantu kelancaran dan responsivitas sistem.
+
+Pada kasus Lenovo ThinkPad X280, Anda bisa mendapatkan kombinasi i7 Gen 8 dengan pilihan RAM 8GB atau 16GB di kisaran harga ""3 jutaan"". Ini akan memberikan keseimbangan yang baik antara prosesor yang bertenaga dan RAM yang cukup untuk multitasking.
+
+Jika Anda harus memilih salah satu dari nol dan tidak ada opsi untuk keduanya dalam budget yang sama, informasi yang tersedia cenderung menekankan bahwa ""beda otak, beda kelasss!"" (prosesor generasi tinggi) memberikan fondasi performa yang lebih baik secara keseluruhan, sementara RAM mendukung kelancaran multitasking di atas fondasi tersebut.";5;1713;512;2225;0.0005139;0.0012799999999999999;0.0017938999999999997
+Q16;Laptop apa yang cocok untuk mahasiswa informatika yang sering pakai VS Code dan beberapa container Docker?;gemini-2.5-flash;140|356;742|1189|1033|413|1082;0.0;0.0;10.39386926498264;"Untuk mahasiswa informatika yang sering menggunakan VS Code dan beberapa container Docker, **Asus Vivobook F1504ZA Touch I7 1255 Ram 16GB / 512GB W11 15.6FHD IPS** adalah pilihan yang paling cocok.
+
+Alasan:
+*   **RAM 16GB:** Laptop ini memiliki RAM 16GB (8GB DDR4 on board + 8GB SO-DIMM), yang sangat ideal untuk menjalankan beberapa container Docker secara bersamaan tanpa mengalami penurunan performa signifikan, serta mendukung multitasking dan penggunaan VS Code yang lancar.
+*   **Processor Intel Core i5-1235U:** Meskipun judul menyebut i7, deskripsi spesifikasi produk menyatakan menggunakan Intel Core i5-1235U Processor (1.3 GHz, up to 4.4 GHz, 10 cores). Prosesor ini cukup powerful untuk kebutuhan komputasi dan manajemen container Docker.
+*   **SSD 512GB M.2 NVMe PCIe 3.0:** Kapasitas SSD 512GB memberikan ruang penyimpanan yang cukup untuk sistem operasi, aplikasi, proyek-proyek coding, dan image Docker, serta menjamin kecepatan baca/tulis yang baik.
+*   **Harga:** Rp9.699.000
+
+Laptop lain seperti Asus A1404VAP (dengan 8GB RAM) mungkin akan terasa kurang optimal jika harus menjalankan *beberapa* container Docker secara bersamaan, meskipun memiliki slot RAM yang bisa di-upgrade. Laptop SPC Ryzen 5 3500U dan Lenovo IdeaPad IP3-14IAN8-62ID dengan processor Intel N100, serta RAM 8GB, kurang direkomendasikan untuk beban kerja tersebut.";5;1721;338;2059;0.0005163;0.0008449999999999999;0.0013613
+Q17;Saya ingin membeli laptop untuk orang tua, hanya dipakai browsing, YouTube, dan WhatsApp Web, budget 6 juta, pilih yang mana?;gemini-2.5-flash;72|184;21|1189|1477|1481|413;0.0;0.0;9.704092185012996;"Maaf, datanya belum cukup. Dari daftar produk yang tersedia, tidak ada laptop lengkap dan siap pakai yang sesuai dengan anggaran Rp6.000.000.
+
+Laptop Fujitsu U9310 memiliki harga di bawah Rp6.000.000 (Rp3.149.999), namun deskripsinya menyatakan ""NO STORAGE"" yang berarti tidak dilengkapi dengan penyimpanan dan tidak dapat langsung digunakan untuk browsing, YouTube, atau WhatsApp Web tanpa penambahan komponen. Semua laptop Asus Vivobook yang tersedia harganya di atas Rp8.000.000.";5;2790;120;2910;0.000837;0.00030000000000000003;0.001137
+Q18;Laptop mana yang paling cocok untuk editing foto RAW dengan anggaran 13 juta dan layar akurat warna?;gemini-2.5-flash;201|233;1316|1139|1347|525|1343;0.0;0.0;17.73357548378408;"Untuk anggaran Rp13.000.000 dan kebutuhan editing foto RAW dengan layar akurat warna (yang idealnya mencakup gamut DCI-P3 dan panel OLED), tidak ada laptop yang sepenuhnya memenuhi semua kriteria dari pilihan yang tersedia.
+
+Laptop yang berada dalam anggaran dan paling mendekati adalah **ADVAN AI GEN Intel Ultra 5 125H**:
+
+*   **Harga:** Rp8.649.000 (sesuai anggaran)
+*   **Processor:** Intel Ultra 5 125H (cukup baik untuk editing, namun tidak sekuat Intel Core Ultra 7)
+*   **RAM:** 16GB LPDDR5x (memadai untuk editing foto)
+*   **Storage:** 512GB SSD PCIe4.0 (memadai, namun pada judul produk disebutkan 2TB SSD, disarankan untuk mengonfirmasi varian yang dimaksud)
+*   **Graphics:** Intel Integrated Graphics (bukan Intel Arc Graphics)
+*   **Layar:** 14'' IPS FHD 100% sRGB. Layar ini akurat dalam gamut sRGB, namun untuk editing foto RAW profesional yang membutuhkan gamut warna lebih luas seperti DCI-P3 dan panel OLED, laptop ini kurang optimal dibandingkan dengan pilihan lain yang lebih mahal.
+
+Laptop lain yang memiliki layar 100% DCI-P3 OLED dan spesifikasi lebih tinggi (Intel Core Ultra 7 dengan Intel Arc Graphics) yang sangat cocok untuk editing foto RAW, namun harganya di atas anggaran Rp13.000.000 adalah:
+
+*   **ASUS ZENBOOK 14 OLED Q425MA/UX3405MA TOUCH CORE ULTRA 7 155H**: Rp14.899.000 (layar 14.0-inch FHD OLED 100% DCI-P3)
+*   **ASUS VIVOBOOK S14 OLED S5406SA ULTRA 7 258V**: Rp14.699.000 (layar 14.0-inch WUXGA OLED 100% DCI-P3)
+*   **LENOVO IDEAPAD SLIM 5 14 OLED ULTRA 7 255H**: Rp14.699.000 (layar 14"" WUXGA OLED 100% DCI-P3)";5;2240;388;2628;0.000672;0.0009699999999999999;0.0016419999999999998
+Q19;Saya butuh laptop untuk kuliah kedokteran, sering buka PDF berat dan Zoom, baterai harus awet, saran?;gemini-2.5-flash;128|264;742|21|1541|1570|214;0.0;0.0;12.774605466984212;"Berdasarkan kebutuhan Anda untuk kuliah kedokteran yang sering membuka PDF berat dan Zoom, serta prioritas pada daya tahan baterai yang awet, saya menyarankan **Laptop Ringan ASUS Zenbook 14 OLED UM3406KA AMD Ryzen AI 7 350**.
+
+Berikut alasannya berdasarkan informasi produk:
+*   **Performa:** Dilengkapi dengan prosesor AMD Ryzen AI 7 350 dan RAM 32GB LPDDR5X, laptop ini memiliki performa yang sangat mumpuni untuk menangani PDF berat dan panggilan Zoom secara bersamaan tanpa kendala.
+*   **Penyimpanan:** SSD 1TB M.2 NVMe PCIe 4.0 memberikan ruang penyimpanan yang sangat luas untuk semua materi kuliah Anda.
+*   **Layar:** Layar 14.0-inch 3K (2880 x 1800) OLED dengan refresh rate 120Hz dan 100% DCI-P3 color gamut akan sangat nyaman untuk membaca PDF dengan detail yang tajam.
+*   **Baterai Awet:** Laptop ini memiliki kapasitas baterai 75WHrs, 4S1P, 4-cell Li-ion, yang merupakan kapasitas sangat besar dan mengindikasikan daya tahan baterai yang sangat awet, sesuai dengan kebutuhan Anda.
+*   **Portabilitas:** Dengan berat 1.20 kg dan disebut ""Laptop Ringan"" dalam judul, laptop ini mudah dibawa kemanapun.
+
+Alternatif lain yang memiliki performa baik adalah Asus Vivobook 14 A1404VA intel I5 gen 1334, dengan prosesor Intel Core i5-1334U dan RAM 8GB serta SSD 512GB. Namun, kapasitas baterainya 42WHrs, yang mungkin tidak seawet Zenbook 14 OLED.";5;2718;338;3056;0.0008154;0.0008449999999999999;0.0016603999999999998
+Q20;Laptop apa yang cocok untuk gaming AAA di setting medium dengan GPU setara RTX 4050 dan RAM 16GB?;gemini-2.5-flash;345|367;322|1222|420|1843|831;0.0;0.0;5.659164995886385;"Untuk kebutuhan gaming AAA di setting medium dengan GPU setara RTX 4050 dan RAM 16GB, laptop yang cocok adalah:
+
+*   **ACER HELIOS NEO 16 PHN16-72-74Z8 I7 14700HX 16GB 512GB SSD RTX 4050 6GB GDDR6 (MGP 140W) 16"" IPS WUXGA 180Hz sRGB 100% W11 OHS21 BLACK**
+    *   **GPU:** NVIDIA GeForce RTX 4050 with 6 GB GDDR6 VRAM (MGP 140W)
+    *   **RAM:** 16GB (2x8 GB of DDR5 5600Mhz), upgradable to 32 GB
+    *   **Processor:** Intel Core i7-14700HX processor
+    *   **Display:** 16"" WUXGA (500nits) 180Hz, sRGB 100%
+    *   **Harga:** Rp20.529.000";5;2098;135;2233;0.0006294;0.0003375;0.0009669
+Q21;Kalau fokus saya kerja kantoran dan sedikit desain PowerPoint, apakah cukup dengan i5 dan 8GB RAM?;gemini-2.5-flash;44|193;605|1214|1307|1254|1517;0.0;0.0;9.22381147602573;"Ya, untuk kerja kantoran dan sedikit desain PowerPoint, spesifikasi Intel Core i5 dan 8GB RAM umumnya sudah cukup.
+
+Berdasarkan konten yang diberikan, berikut adalah produk yang memenuhi kriteria tersebut:
+
+*   **ASUS ExpertCenter P500 [P500MV-585018WS]**
+    *   **Spesifikasi:** Intel Core I5-13420H Processor dan 8GB DDR5 SO-DIMM Memory.
+    *   **Catatan:** Ini adalah PC desktop mini tower, bukan laptop.
+    *   **Harga:** Rp9.149.000
+
+*   **Laptop ASUS Expertbook P3 P3405CVA**
+    *   **Spesifikasi:** Intel Core I5 13420H Processor dan 8 GB DDR5 SO-DIMM RAM.
+    *   **Catatan:** Ini adalah laptop dengan layar 14"" WUXGA.
+    *   **Harga:** Rp10.549.000
+
+Kedua perangkat tersebut memiliki prosesor i5 generasi ke-13 yang modern dan RAM DDR5 8GB, yang memadai untuk menjalankan aplikasi perkantoran dan desain PowerPoint ringan dengan lancar.";5;2193;212;2405;0.0006579;0.00053;0.0011879
+Q22;Laptop apa yang cocok untuk mahasiswa desain interior yang sesekali pakai SketchUp, budget 11 juta?;gemini-2.5-flash;209|278;21|38|1131|87|1189;0.0;0.0;13.720823322888464;"Berdasarkan informasi produk yang tersedia dan budget Rp11.000.000, laptop yang cocok untuk mahasiswa desain interior yang sesekali memakai SketchUp adalah:
+
+**Asus A1404VAP Vivobook 14 (Model VIPS5851M, VIPS5852M, atau VIPS5853M)**
+
+*   **Harga:** Rp8.294.900 (masuk dalam budget)
+*   **Processor:** Intel Core 5 Processor 120U (10 cores, 12 Threads, up to 5.0 GHz) – Cukup baik untuk SketchUp.
+*   **Memory:** 8GB DDR4 on board, dan memiliki 1x DDR4 SO-DIMM slot, yang berarti RAM dapat di-upgrade jika dibutuhkan performa lebih untuk SketchUp.
+*   **Storage:** 512GB M.2 NVMe PCIe 4.0 SSD – Cepat dan cukup besar untuk file desain.
+*   **Graphics:** Intel Graphics (terintegrasi, cukup untuk penggunaan SketchUp sesekali).
+*   **Display:** 14.0-inch, FHD (1920 x 1080) IPS-level Panel, Anti-glare display – Baik untuk visualisasi desain.
+*   **Sistem Operasi:** Windows 11 Home + Microsoft Office Home 2024 + Microsoft 365 Basic.
+*   **Garansi:** Resmi Asus 2 Tahun.";5;2423;242;2665;0.0007268999999999999;0.000605;0.0013319
+Q23;Saya ingin membeli laptop 2-in-1 yang bisa dilipat jadi tablet untuk catatan kuliah, saran model seperti apa?;gemini-2.5-flash;132|318;1892|1491|1131|640|921;0.0;0.0;9.241931712254882;"Berdasarkan informasi produk yang tersedia, berikut adalah beberapa model laptop 2-in-1 yang bisa dilipat/detachable menjadi tablet dan dilengkapi stylus untuk catatan kuliah:
+
+1.  **ADVAN Laptop 2 in 1 13"" Touch Screen Detachable**
+    *   **Model:** ADVAN EVO-X 13
+    *   **Fitur untuk catatan:** Laptop ini memiliki desain *detachable* (dapat dilepas) sehingga bisa berfungsi sebagai tablet, dilengkapi dengan *Magnetic Keyboard* dan *Stylus*. Layarnya 13"" IPS 2K Touch.
+    *   **Harga:** Rp6.399.000
+
+2.  **ASUS VIVOBOOK FLIP TP3402VA-VIPS5151TM**
+    *   **Model:** ASUS VIVOBOOK FLIP TP3402VA-VIPS5151TM
+    *   **Fitur untuk catatan:** Merupakan laptop ""Flip"" yang berarti bisa dilipat menjadi tablet, memiliki layar sentuh 14.0-inch WUXGA IPS-level Panel, dan sudah termasuk Stylus (Active stylus SA200H-MPP1.51 support).
+    *   **Harga:** Rp12.399.000
+
+3.  **Lenovo Ideapad Duet 3i 11 TOUCH Intel N200**
+    *   **Model:** Lenovo Ideapad Duet 3i 11 TOUCH
+    *   **Fitur untuk catatan:** Laptop ini memiliki desain ""Duet"" yang umumnya detachable (dapat dilepas) seperti tablet, dilengkapi layar sentuh 11.5"" 2K IPS, dan sudah termasuk Lenovo Digital Pen 3.
+    *   **Harga:** Rp9.199.000
+
+4.  **NOTEBOOK LENOVO IDEAPAD 5 2IN1 14IAL10 38ID**
+    *   **Model:** LENOVO IDEAPAD 5 2IN1 14IAL10 38ID
+    *   **Fitur untuk catatan:** Laptop 2-in-1 dengan layar sentuh 14"" WUXGA IPS dan sudah termasuk Lenovo Digital Pen 2.
+    *   **Harga:** Rp12.428.000
+
+5.  **Lenovo IP5 2in1 0YID 10ID i5-13420H/16GB/512GB SSD/14"" Flip Touch**
+    *   **Model:** Lenovo IP5 2in1 (SKU: 83KX000YID / 83KX0010ID)
+    *   **Fitur untuk catatan:** Memiliki desain ""Flip Touch"" yang bisa dilipat menjadi tablet, dilengkapi layar sentuh 14"" WUXGA IPS, dan sudah termasuk Lenovo Digital Pen.
+    *   **Harga:** Rp11.450.000";5;2146;451;2597;0.0006437999999999999;0.0011275;0.0017713
+Q24;Laptop apa yang rekomended untuk trading saham dan crypto, butuh layar lebar dan bisa sambung dua monitor?;gemini-2.5-flash;96|289;413|1208|1343|1347|1474;0.0;0.0;24.206059803254902;"Untuk kebutuhan trading saham dan crypto yang membutuhkan kemampuan sambung dua monitor eksternal, laptop-laptop berikut memiliki port yang mendukung konfigurasi tersebut:
+
+1.  **Lenovo Yoga Slim 7 14 Touch OLED Evo Ultra 7 258V Ram 32GB 1TB SSD Win 11+OHS 14"" 2.8K 120Hz**
+    *   **Layar Internal**: 14"" 2.8K WQXGA+ OLED (2880x1800). Meskipun bukan 15.6 inci, layar ini memiliki resolusi sangat tinggi dan kualitas OLED yang superior.
+    *   **Sambung Dua Monitor**: Ya, laptop ini memiliki 1x HDMI 2.1 dan 2x USB-C (Thunderbolt 4 / USB4 40Gbps) yang mendukung DisplayPort 2.1. Ini memungkinkan Anda menyambungkan dua monitor eksternal sekaligus dengan mudah.
+    *   **Spesifikasi untuk Trading**: Ditenagai oleh Intel Core Ultra 7 258V, RAM 32GB, dan SSD 1TB, sangat mumpuni untuk multitasking dan aplikasi trading yang intensif.
+    *   **Harga**: Rp19.899.000
+
+2.  **LENOVO IDEAPAD SLIM 5 14 OLED ULTRA 7 255H 16GB 512GB W11+OHS+M365B 14.0WUXG**
+    *   **Layar Internal**: 14"" WUXGA (1920x1200) OLED. Kualitas layar OLED yang tajam, meskipun ukurannya 14 inci.
+    *   **Sambung Dua Monitor**: Ya, laptop ini memiliki 1x HDMI 2.1 dan 2x USB-C (USB 10Gbps / USB 3.2 Gen 2) yang mendukung DisplayPort 1.4. Ini memungkinkan Anda menyambungkan dua monitor eksternal.
+    *   **Spesifikasi untuk Trading**: Dengan Intel Core Ultra 7 255H, RAM 16GB (dapat di-upgrade hingga 24GB), dan SSD 512GB, laptop ini sangat cocok untuk kebutuhan trading.
+    *   **Harga**: Rp14.699.000
+
+3.  **ASUS VIVOBOOK S14 OLED S5406SA ULTRA 7 258V Ram 32GB 1TB W11 14.0 3K**
+    *   **Layar Internal**: 14.0-inch, WUXGA (1920 x 1200) OLED. Layar OLED berkualitas tinggi, berukuran 14 inci.
+    *   **Sambung Dua Monitor**: Ya, laptop ini memiliki 1x HDMI 2.1 TMDS dan 2x Thunderbolt™ 4 yang mendukung display. Ini sangat ideal untuk menyambungkan dua monitor eksternal.
+    *   **Spesifikasi untuk Trading**: Ditenagai oleh Intel Core Ultra 7 Processor 256V, RAM 32GB, dan SSD 1TB, memberikan performa tinggi untuk trading.
+    *   **Harga**: Rp14.699.000
+
+4.  **LENOVO IDEAPAD SLIM 5 14 OLED ULTRA 5 225H Ram 16GB 512GB W11+OHS 14.0""WUXGA**
+    *   **Layar Internal**: 14"" WUXGA (1920x1200) OLED. Layar OLED berkualitas tinggi, berukuran 14 inci.
+    *   **Sambung Dua Monitor**: Ya, laptop ini memiliki 1x HDMI 2.1 dan 2x USB-C (USB 10Gbps / USB 3.2 Gen 2) yang mendukung DisplayPort 1.4. Ini memungkinkan Anda menyambungkan dua monitor eksternal.
+    *   **Spesifikasi untuk Trading**: Dengan Intel Core ULTRA 5 225H, RAM 16GB (dapat di-upgrade hingga 24GB), dan SSD 512GB, laptop ini menawarkan performa yang solid untuk trading dengan harga lebih terjangkau.
+    *   **Harga**: Rp12.599.000
+
+Meskipun keempat rekomendasi di atas memiliki layar internal berukuran 14 inci (bukan 15.6 inci seperti yang mungkin Anda harapkan dari ""layar lebar""), kemampuan mereka untuk menyambungkan dua monitor eksternal sangat baik, yang seringkali lebih krusial untuk trading saham dan crypto.
+
+Laptop **Asus Vivobook F1504ZA Touch I7 1255 Ram 16GB / 512GB W11 15.6FHD IPS** memiliki layar 15.6 inci, namun hanya memiliki 1x HDMI 1.4 dan 1x USB 3.2 Gen 1 Type-C yang tidak secara spesifik disebutkan mendukung DisplayPort, sehingga tidak dapat direkomendasikan untuk menyambungkan dua monitor eksternal secara langsung.";5;2958;822;3780;0.0008874;0.002055;0.0029424
+Q25;Kalau saya lebih sering main game MOBA ringan, apakah laptop dengan i5 dan iGPU terbaru sudah cukup?;gemini-2.5-flash;58|331;1843|831|32|815|322;0.0;0.0;7.443463176954538;"Ya, berdasarkan informasi produk, laptop Lenovo ThinkPad L15 dengan prosesor Intel Core i5 Gen 11 (i5 1135G7) yang dilengkapi grafis Intel Iris Xe (80EUs) sudah disebut ""SIAP BUAT MAIN GAME ONLINE JAMAN SKRG !!"". Begitu pula varian i5 Gen 10 dengan Intel UHD 620 juga disebut ""SIAP BUAT MAIN GAME ONLINE JAMAN SKRG !!"".
+
+Jadi, untuk kebutuhan main game MOBA ringan, laptop Lenovo ThinkPad L15 dengan pilihan i5 Gen 10 atau Gen 11 dan iGPU-nya sudah dianggap cukup.
+
+Harga laptop Lenovo ThinkPad L15 adalah Rp3.699.999.";5;2473;129;2602;0.0007419;0.0003225;0.0010644
+Q26;Laptop apa yang cocok untuk content creator YouTube pemula dengan budget 14 juta dan SSD minimal 1TB?;gemini-2.5-flash;176|412;21|247|988|1189|1499;0.0;0.0;6.336224734783173;Maaf, datanya belum cukup. Tidak ada laptop dalam konten yang disediakan yang memiliki SSD minimal 1TB. Semua laptop yang terdaftar memiliki SSD 512GB.;5;2628;37;2665;0.0007884;9.25e-05;0.0008809
+Q27;Saya ingin membeli laptop untuk keperluan kantor dan sesekali edit foto keluarga, budget 9 juta, pilih yang mana?;gemini-2.5-flash;122|225;1843|21|338|1481|1440;0.0;0.0;14.336175055708736;"Berdasarkan kebutuhan Anda untuk keperluan kantor dan sesekali edit foto keluarga dengan budget 9 juta, saya merekomendasikan **Asus Vivobook 14 A1404VA intel I5 gen 1334 8GB 512GB W11+OHS+M365B 14.0FHD**.
+
+Berikut alasannya:
+
+*   **Harga:** Rp8.432.000, sangat sesuai dengan budget 9 juta Anda.
+*   **Processor:** Intel Core i5-1334U Processor (10 cores, 12 Threads, up to 4.6 GHz). Ini adalah prosesor generasi terbaru yang sangat mumpuni untuk pekerjaan kantor sehari-hari dan cukup kuat untuk editing foto keluarga sesekali.
+*   **RAM:** 8GB DDR4 on board, dan dapat di-upgrade (ada 1x DDR4 SO-DIMM slot). 8GB cukup untuk multitasking kantor dan editing foto ringan.
+*   **Storage:** 512GB M.2 NVMe PCIe 4.0 SSD. Kapasitas ini sangat memadai untuk menyimpan banyak dokumen kantor, aplikasi editing, dan juga file foto keluarga Anda. Kecepatan NVMe PCIe 4.0 akan memastikan kinerja yang cepat.
+*   **Grafis:** Intel UHD Graphics (Intel Iris Xe Graphics eligible). Jika RAM bekerja dalam mode dual channel, grafis ini akan berfungsi sebagai Intel Iris Xe yang jauh lebih baik untuk editing foto dibandingkan Intel UHD biasa.
+*   **Layar:** 14.0-inch, FHD (1920 x 1080) IPS-level Panel, Anti-glare. Layar IPS-level memberikan kualitas gambar yang baik dan sudut pandang luas, penting untuk kenyamanan bekerja dan akurasi warna saat editing foto.
+*   **Sistem Operasi dan Software:** Sudah termasuk Windows 11 Home dan Office Home & Student 2021, jadi Anda tidak perlu membeli lisensi tambahan untuk software esensial kantor.
+*   **Fitur Lain:** Backlit Chiclet Keyboard, Fingerprint, Wi-Fi 6E, dan berbagai port konektivitas yang lengkap.
+
+Pilihan lain seperti **Laptop HP 14 Intel Core Core 5 120U RAM 8 GB SSD 512 GB** juga masuk budget dan spesifikasinya mirip, namun Asus Vivobook 14 A1404VA memiliki prosesor generasi yang sedikit lebih baru (i5-1334U vs Core 5 120U) dan grafis yang berpotensi lebih baik (Iris Xe eligible vs Intel UHD Graphics), serta layar IPS-level yang seringkali lebih baik untuk editing foto.
+
+**LENOVO THINKPAD L15** meskipun murah, memiliki kapasitas penyimpanan NVME 128GB yang terlalu kecil untuk kebutuhan editing foto dan penggunaan jangka panjang.
+**FUJITSU U9310** tidak memiliki penyimpanan (NO STORAGE) sehingga tidak siap pakai.
+**Acer Swift Go Touch SFG14** melebihi budget Anda.";5;2700;580;3280;0.0008100000000000001;0.00145;0.00226
+Q28;Laptop apa yang cocok untuk mahasiswa yang sering multitasking banyak tab browser dan aplikasi catatan?;gemini-2.5-flash;104|317;1189|214|38|1507|1511;0.0;0.0;12.868964821100235;"Untuk mahasiswa yang sering multitasking banyak tab browser dan aplikasi catatan, laptop yang paling cocok adalah yang memiliki prosesor mumpuni dan RAM yang cukup. Berdasarkan konten yang diberikan:
+
+1.  **Asus A1404VAP Vivobook 14**
+    *   **Prosesor:** Intel Core 5 Processor 120U (10 cores, 12 Threads, up to 5.0 GHz) menawarkan performa yang kuat dan efisien untuk menangani banyak tugas sekaligus.
+    *   **RAM:** 8GB DDR4 on board, dan pentingnya, terdapat **1x DDR4 SO-DIMM slot** yang berarti RAM-nya dapat di-upgrade di kemudian hari jika kebutuhan multitasking semakin meningkat.
+    *   **Penyimpanan:** 512GB M.2 NVMe PCIe 4.0 SSD yang cepat akan memastikan aplikasi dan tab browser dimuat dengan responsif.
+    *   **Sistem Operasi:** Dilengkapi Windows 11 Home, Microsoft Office Home 2024, dan Microsoft 365 Basic, siap untuk produktivitas.
+    *   **Harga:** Rp8.294.900.
+
+2.  **ASUS ZENBOOK A14 UX3407QA**
+    *   Jika anggaran memungkinkan, laptop ini adalah pilihan yang sangat unggul untuk multitasking intensif.
+    *   **RAM:** Dilengkapi dengan 16GB LPDDR5X On Board, ini adalah jumlah RAM yang ideal untuk menjalankan banyak tab browser dan aplikasi catatan secara bersamaan tanpa hambatan.
+    *   **Prosesor:** Snapdragon X X1 26 100 Processor (8Cores, 8 Threads) yang modern dan kuat.
+    *   **Penyimpanan:** 512GB SSD M.2 NVMe PCIe 4.0 yang sangat cepat.
+    *   **Sistem Operasi:** Dilengkapi Windows 11 Home, Office Home & Student 2021, dan Microsoft 365 Basic.
+    *   **Harga:** Rp15.021.000.
+
+**Rekomendasi Utama:**
+**Asus A1404VAP Vivobook 14** adalah pilihan yang sangat baik karena kombinasi prosesor Core 5 120U yang kuat, RAM 8GB yang dapat di-upgrade, dan SSD cepat pada harga yang lebih terjangkau, sangat cocok untuk kebutuhan multitasking mahasiswa. Jika Anda mencari performa multitasking terbaik tanpa batasan anggaran, **ASUS ZENBOOK A14 UX3407QA** dengan 16GB RAM-nya adalah pilihan yang lebih superior.";5;2179;488;2667;0.0006537;0.00122;0.0018736999999999998
+Q29;Untuk pembelian laptop gaming, lebih baik fokus ke GPU kuat atau RAM besar dulu jika dana terbatas?;gemini-2.5-flash;161|388;1843|1106|527|543|742;0.0;0.0;5.166054051369429;Maaf, datanya belum cukup. Informasi produk yang tersedia tidak memberikan rekomendasi spesifik mengenai prioritas antara GPU kuat atau RAM besar untuk pembelian laptop gaming dengan dana terbatas.;5;1730;49;1779;0.0005189999999999999;0.0001225;0.0006414999999999999
+Q30;Saya ingin laptop untuk streaming Netflix 4K dan nonton film, layar harus bagus dan speaker oke, rekomendasi?;gemini-2.5-flash;73|249;681|1413|413|1347|461;0.0;0.0;9.74932495225221;"Berdasarkan kebutuhan Anda untuk streaming Netflix 4K dan menonton film dengan layar bagus serta speaker yang oke, saya merekomendasikan:
+
+**ASUS VIVOBOOK S15 OLED S5506MA ULTRA 7 155H Ram 16GB 1TB W11 15.6"" QHD IPS 3K 120HZ**
+Harga: Rp11.940.000
+
+Alasan rekomendasi:
+*   **Layar Bagus:** Memiliki layar 15.6” 3K OLED (2880 x 1620) 16:9 dengan refresh rate 120Hz, NanoEdge display, 100% RGB color gamut, dan 500 nits peak brightness. Spesifikasi ini sangat cocok untuk menikmati konten 4K dan film dengan kualitas visual yang tajam dan warna yang kaya.
+*   **Speaker Oke:** Dilengkapi dengan ""Audio Sound by Harman/Kardon and Dolby Atmos, built-in speakers, built-in array microphone"", yang menunjukkan kualitas audio yang mumpuni untuk pengalaman menonton film yang imersif.";5;2164;193;2357;0.0006492000000000001;0.0004825;0.0011317
+Q31;Laptop apa yang cocok untuk dosen yang sering presentasi dan pakai aplikasi konferensi, desainnya juga profesional?;gemini-2.5-flash;91|333;1026|1189|742|214|199;0.0;0.0;16.1367987729609;"Berikut adalah beberapa rekomendasi laptop yang cocok untuk dosen yang sering presentasi dan menggunakan aplikasi konferensi, dengan desain profesional, berdasarkan konten yang diberikan:
+
+1.  **ADVAN Laptop Workpro Intel i5 12450H (Harga: Rp6.499.000)**
+    *   **Presentasi:** Laptop ini sangat cocok karena ""dapat di buka 175° sehingga dapat digunakan untuk berbagai aktifitas seperti presentasi dengan mudah dengan rekan kerja anda di dalam 1 meja.""
+    *   **Konferensi:** Dilengkapi dengan ""Camera: Yes"" dan ""2x box speakers 4Ω 2W"" untuk mendukung aplikasi konferensi.
+    *   **Desain Profesional:** Menggunakan ""material METAL dan memiliki tebal hanya 16.8mm"", serta ""berat 1.2 Kg"" membuatnya ringan dan nyaman untuk mobilitas, yang mendukung kesan profesional.
+    *   **Spesifikasi:** Processor Intel i5-12450H, RAM 8GB (upgradable), 512GB SSD (upgradable), Layar 14'' FHD IPS 16:10.
+
+2.  **LAPTOP ACER ASPIRE LITE AL14-31P- C6DD (Harga: Rp6.499.000)**
+    *   **Presentasi:** Fitur ""180 Degree Open Design"" sangat mendukung untuk presentasi.
+    *   **Konferensi:** Walaupun tidak disebutkan detail kamera atau mikrofon, laptop ini memiliki spesifikasi dasar yang cukup untuk penggunaan umum.
+    *   **Desain Profesional:** Memiliki ""Desain Baru yang Modis, Super Tipis, dan Ringan (1.3kg)"" serta panel ""IPS dengan resolusi tinggi"" untuk visual yang nyaman.
+    *   **Spesifikasi:** Processor Intel N100, 8GB DDR5 Memory (Replaceable up to 16 GB), 512 GB SSD NVMe, Layar 14"" WUXGA 1920 x 1200 IPS.
+
+3.  **Asus A1404VAP VIPS5851M (Harga: Rp8.294.900)**
+    *   **Presentasi:** Memiliki port ""1x HDMI 1.4"" untuk koneksi ke proyektor atau layar eksternal. Desainnya ""kompak"" dan ""stylish"" cocok untuk penggunaan sehari-hari termasuk presentasi.
+    *   **Konferensi:** Sangat baik untuk konferensi dengan ""720p HD camera With privacy shutter"" dan ""SonicMaster Built-in speaker Built-in array microphone, with Cortana and Alexa voice-recognition support"".
+    *   **Desain Profesional:** ""Desain yang kompak"" dan ""stylish"" cocok untuk pekerjaan.
+    *   **Spesifikasi:** Processor Intel Core 5 Processor 120U, RAM 8GB DDR4, 512GB M.2 NVMe PCIe 4.0 SSD, Layar 14.0-inch FHD IPS-level Panel.
+
+**Kesimpulan:**
+*   Untuk dosen yang sangat mementingkan **fleksibilitas saat presentasi di meja** dan desain profesional, **ADVAN Workpro** atau **Acer Aspire Lite** adalah pilihan terbaik karena fitur engsel 175°/180°.
+*   Jika **kualitas konferensi video dan audio** adalah prioritas utama bersama dengan desain profesional, **Asus A1404VAP** akan sangat cocok.";5;2303;640;2943;0.0006908999999999999;0.0016;0.0022909000000000002
+Q32;Saya punya budget 5 juta, apakah masih bisa dapat laptop yang layak untuk tugas kuliah dan browsing?;gemini-2.5-flash;52|187;21|1033|742|413|1189;0.0;0.0;3.9433252438902855;"Ya, dengan budget 5 juta, Anda masih bisa mendapatkan laptop yang layak untuk tugas kuliah dan browsing.
+
+Berdasarkan informasi produk yang tersedia, Anda bisa mempertimbangkan **Laptop SPC Ryzen 5 3500U | 8GB RAM | 256GB SSD | Layar 14” FHD | Cocok Kerja & Kuliah -DOS** dengan harga Rp4.529.000.
+
+Deskripsinya secara spesifik menyatakan ""Cocok Kerja & Kuliah"", yang sesuai dengan kebutuhan Anda untuk tugas kuliah dan browsing. Spesifikasinya meliputi AMD RYZEN 5 3500, RAM 8GB DDR4, SSD 256GB NVME, dan Layar 14"" FHD IPS.";5;2272;131;2403;0.0006816;0.00032750000000000005;0.0010091
+Q33;Laptop apa yang cocok untuk editing video vertikal untuk Reels dengan timeline FHD, RAM minimal 16GB?;gemini-2.5-flash;139|310;413|1630|42|132|1499;0.0;0.0;15.260759774129838;"Berdasarkan kebutuhan RAM minimal 16GB dan editing video vertikal FHD untuk Reels, berikut adalah pilihan laptop yang tersedia dalam konteks yang diberikan:
+
+1.  **Asus Vivobook F1504ZA Touch I7 1255 Ram 16GB / 512GB W11 15.6FHD IPS**
+    *   **Processor:** Intel Core i5-1235U Processor (1.3 GHz, up to 4.4 GHz, 10 cores)
+    *   **Graphics:** Intel Iris X Graphics
+    *   **Memory:** 16GB DDR4 (8GB on board + 8GB SO-DIMM)
+    *   **Display:** 15.6-inch, FHD (1920 x 1080) IPS
+    *   **Harga:** Rp9.699.000
+    *   *Laptop ini memenuhi persyaratan RAM minimal 16GB dan memiliki prosesor yang cukup untuk editing video FHD Reels dasar.*
+
+2.  **Laptop HP 14S intel Core i7-1360P Ram 16GB 512GB W11+OHS 14.0 FHD IPS**
+    *   **Processor:** Intel Core i7-1360P (up to 5.0 GHz, 12 cores, 16 threads)
+    *   **Graphics:** Intel Iris Xe Graphic
+    *   **Memory:** 16 GB DDR4-3200 MHz RAM (2 x 8 GB)
+    *   **Display:** 14.0-inch diagonal, FHD (1920 x 1080), IPS
+    *   **Harga:** Rp12.996.000
+    *   *Laptop ini memiliki performa prosesor yang lebih tinggi (Intel Core i7-1360P generasi ke-13) dibandingkan Asus Vivobook di atas, sehingga akan lebih optimal dan memberikan pengalaman yang lebih lancar untuk kebutuhan editing video FHD.*
+
+Untuk ASUS VIVOBOOK F1504ZA yang disebutkan memiliki RAM 40GB, datanya belum cukup spesifik untuk mengaitkan varian RAM 40GB dengan harga yang tercantum (Rp7.399.000) yang mana terkait dengan varian RAM 8GB.";5;2184;362;2546;0.0006552;0.000905;0.0015601999999999999
+Q34;Kalau saya ingin beli laptop awet 4–5 tahun ke depan, lebih baik pilih generasi prosesor terbaru atau RAM besar?;gemini-2.5-flash;106|276;1106|543|527|547|525;0.0;0.0;6.195874309167266;Maaf, datanya belum cukup untuk memberikan rekomendasi apakah lebih baik memilih generasi prosesor terbaru atau RAM besar untuk keawetan laptop 4-5 tahun ke depan. Informasi produk hanya menyediakan spesifikasi prosesor dan RAM yang tersedia pada masing-masing laptop, tanpa perbandingan langsung mengenai faktor-faktor tersebut terhadap umur pakai performa jangka panjang.;5;1488;93;1581;0.00044639999999999995;0.00023249999999999999;0.0006789
+Q35;Laptop apa yang cocok untuk penulis konten yang banyak mengetik dan membutuhkan keyboard nyaman?;gemini-2.5-flash;83|258;413|1215|1189|247|465;0.0;0.0;10.969779067672789;"Untuk penulis konten yang banyak mengetik dan membutuhkan keyboard nyaman, beberapa pilihan laptop yang disebutkan dalam konteks memiliki detail spesifik mengenai keyboard:
+
+1.  **ASUS EXPERTBOOK B3 FLIP B3402FVA 2IN1 TOUCH i7 1355U Ram 16GB 512GB W11 14.0""FHD IPS (BAG + MOUSE + STYLUS)**
+    *   **Keyboard:** ""Spill-resistant Backlit Chiclet Keyboard with 1.5mm key travel – Designed for comfortable and safe business use.""
+    *   **Keterangan:** Laptop ini secara eksplisit menyebutkan keyboardnya ""Designed for comfortable... business use"" dengan key travel 1.5mm, yang merupakan indikator kenyamanan mengetik.
+    *   **Harga:** Rp12.399.000
+
+2.  **ASUS ExpertBook P1403CVA-S65150WS Intel I5-13420H 16GB 512SSD W11H+OHS+M365 14.0""VIPS FHD**
+    *   **Keyboard:** ""Chiclet Keyboard, 1.35mm Key-travel, Spill-resistant Keyboard, Fingerprint.""
+    *   **Keterangan:** Laptop ini menawarkan key travel 1.35mm dan keyboard yang tahan tumpahan (spill-resistant), yang juga berkontribusi pada pengalaman mengetik yang baik dan aman.
+    *   **Harga:** Rp8.850.000
+
+3.  **Asus Vivobook F1504ZA Touch I7 1255 Ram 16GB / 512GB W11 15.6FHD IPS - LAPTOP, BLACK**
+    *   **Keyboard:** ""Chiclet Keyboard, 1.4mm Key-travel, Precision touchpad.""
+    *   **Keterangan:** Laptop ini memiliki key travel 1.4mm, yang juga cukup baik untuk kenyamanan mengetik.
+    *   **Harga:** Rp9.699.000
+
+Berdasarkan deskripsi, **ASUS EXPERTBOOK B3 FLIP B3402FVA** adalah yang paling secara langsung menyatakan keyboardnya ""Designed for comfortable... business use"" dengan key travel 1.5mm. Namun, **ASUS ExpertBook P1403CVA-S65150WS** dan **Asus Vivobook F1504ZA** juga menawarkan key travel yang spesifik (1.35mm dan 1.4mm) yang umumnya dianggap nyaman untuk mengetik.";5;2483;436;2919;0.0007449;0.00109;0.0018349
+Q36;Saya ingin laptop untuk kuliah sistem informasi, banyak pakai Excel dan sedikit coding, budget 9 juta, saran?;gemini-2.5-flash;118|247;21|1481|1554|1483|703;0.0;0.0;16.200413008220494;"Untuk kebutuhan kuliah Sistem Informasi Anda dengan banyak menggunakan Excel dan sedikit coding, serta budget Rp 9 juta, saya merekomendasikan:
+
+**Asus Vivobook 14 A1404VA**
+*   **Harga:** Rp 8.432.000
+*   **Processor:** Intel Core i5-1334U Processor (generasi ke-13), yang sangat baik untuk multitasking dan komputasi yang lebih intensif seperti Excel dan coding.
+*   **RAM:** 8GB DDR4, cukup memadai untuk menjalankan Excel dan lingkungan coding ringan secara bersamaan.
+*   **Storage:** 512GB M.2 NVMe PCIe 4.0 SSD, menawarkan kecepatan dan kapasitas penyimpanan yang lega.
+*   **Layar:** 14.0"" FHD IPS, memberikan tampilan yang jernih dan nyaman untuk bekerja.
+*   **OS & Software:** Sudah termasuk Windows 11 Home dan Office Home & Student 2021 (OHS 2021) serta Microsoft 365 Basic, sangat cocok untuk kebutuhan perkuliahan.
+*   **Bonus Spesial:** Termasuk asuransi 1 TAHUN CERMATI PROTECT FREE (meliputi KEMALINGAN - CAIRAN - ACCIDENT - KEBAKARAN - BENCANA), yang merupakan nilai tambah signifikan untuk perlindungan laptop Anda.
+*   **Garansi:** Resmi Asus 2 Tahun.
+
+Pilihan lain yang juga bisa dipertimbangkan dan masih dalam budget Anda adalah:
+
+**Laptop ASUS Expertbook P1403CVA**
+*   **Harga:** Rp 6.649.000
+*   **Processor:** Intel Core i3-1315U Processor (generasi ke-13).
+*   **RAM:** 8GB DDR5 SO-DIMM, RAM lebih baru dan cepat.
+*   **Storage:** 512GB M.2 2280 NVMe PCIe 4.0 SSD.
+*   **Layar:** 14.0"" FHD, Anti-glare display, 300nits.
+*   **OS & Software:** Windows 11 Home + Microsoft Office Home 2021 + Microsoft 365.
+*   **Garansi:** Resmi Asus Indonesia 3 Tahun (termasuk 1 Year Accidental Damage Protection). Meskipun menggunakan i3, RAM DDR5 dan garansi yang lebih panjang dengan ADP bisa menjadi pertimbangan kuat.
+
+**HP 14 Series Intel I3 1315U (dengan RAM 8GB)**
+*   **Harga:** Rp 6.129.000
+*   **Processor:** Intel Core i3-1315U Processor (generasi ke-13).
+*   **RAM:** 8GB DDR4-3200 MHz RAM.
+*   **Storage:** 512 GB PCIe Gen4 NVMe M.2 SSD.
+*   **Layar:** 14″ FHD Anti-Glare SVA 250 nits.
+*   **OS & Software:** Windows 11 + Office.
+*   **Garansi:** Resmi 2 Tahun. Ini adalah pilihan yang paling hemat biaya dengan spesifikasi yang memadai untuk kebutuhan Anda.
+
+Fujitsu U9310 tidak disarankan karena tidak menyertakan storage (NO STORAGE) sehingga memerlukan biaya dan instalasi tambahan yang tidak ideal untuk langsung digunakan oleh mahasiswa.";5;2545;592;3137;0.0007635;0.00148;0.0022435
+Q37;Laptop apa yang cocok untuk anak SMA yang baru pertama kali punya laptop, budget maksimal 6.5 juta?;gemini-2.5-flash;69|214;214|21|1033|465|1051;0.2;0.5;10.598275313153863;"Berdasarkan informasi produk yang diberikan dan budget maksimal Rp6.5 juta, berikut adalah laptop yang cocok untuk anak SMA yang baru pertama kali punya laptop:
+
+1.  **LAPTOP ACER ASPIRE LITE AL14-31P- C6DD (Harga: Rp6.499.000)**
+    *   **Processor:** Intel N100 Processor (4 Cores, 3.4 GHz), diklaim 3.8X performa lebih cepat (vs N4020) yang cukup untuk kebutuhan sekolah.
+    *   **Memory:** 8 GB DDR5 Memory (dapat di-upgrade hingga 16 GB), baik untuk multitasking.
+    *   **Storage:** 512 GB SSD NVMe, penyimpanan cepat dan cukup besar.
+    *   **Display:** 14"" WUXGA 1920 x 1200, IPS, Acer ComfyView, menawarkan visual dari sudut pandang yang luas dengan resolusi tinggi.
+    *   **OS & Software:** Windows 11 Home + Microsoft Office Home and Student 2021, sangat penting untuk kebutuhan belajar dan tugas sekolah.
+    *   **Desain:** Desain baru yang modis, super tipis, dan ringan (1.3kg), mudah dibawa ke sekolah.
+    *   **Fitur Tambahan:** 180 Degree Open Design, dan dilengkapi dengan **BACKPACK**.
+
+2.  **Acer Aspire Lite AL14-32P-C9VS N150 (Harga: Rp5.199.000)**
+    *   **Processor:** Intel processor N150 Processor, cocok untuk kebutuhan komputasi dasar hingga menengah.
+    *   **Memory:** OB 8GB LPDDR5 RAM, memori cepat untuk multitasking.
+    *   **Storage:** 512GB PCIe SSD, penyimpanan cepat.
+    *   **Display:** 14"" 16:10 WUXGA (1920x1200) IPS Display, layar cerah di segala sudut.
+    *   **OS & Software:** Windows 11 Home (64-bit) + OH24 (Office Home Student), sangat berguna untuk tugas sekolah.
+    *   **Desain:** Paling ringan dengan desain terbaru (1.2 Kg) dan ukuran compact, sangat nyaman dibawa kemanapun.
+    *   **Fitur Tambahan:** Port terlengkap 2X Type C, dilengkapi dengan Slevecase.
+
+Kedua laptop tersebut memiliki spesifikasi yang memadai untuk anak SMA (prosesor entry-level yang cukup, RAM 8GB DDR5, SSD 512GB, layar IPS resolusi tinggi, Windows 11 + Office), serta ringan dan mudah dibawa. Acer Aspire Lite AL14-31P- C6DD sedikit lebih mahal tetapi sudah termasuk backpack, sementara Acer Aspire Lite AL14-32P-C9VS N150 lebih terjangkau dan sedikit lebih ringan.";5;2224;527;2751;0.0006672;0.0013175;0.0019847
+Q38;Saya butuh laptop untuk desain grafis sosial media, prioritas layar IPS 14 inci dan SSD 512GB, rekomendasi?;gemini-2.5-flash;143|304;413|1082|214|42|525;0.0;0.0;11.960854776203632;"Berdasarkan kebutuhan Anda untuk desain grafis sosial media dengan prioritas layar IPS 14 inci dan SSD 512GB, rekomendasi terbaik adalah:
+
+**ADVAN AI GEN Intel Ultra 5 125H RAM16GB SSD2TB 14'' Ips 100% Srgb Windows 11 - 256GB**
+*   **Layar:** 14'' 16:10 1920*1200 FHD IPS 100% sRGB (memenuhi kriteria 14 inci IPS dan sangat cocok untuk desain grafis karena 100% sRGB).
+*   **Penyimpanan:** 512GB SSD PCIe4.0 (memenuhi kriteria SSD 512GB).
+*   **RAM:** 16GB RAM LPDDR5x onboard (memadai untuk desain grafis).
+*   **Processor:** Intel Ultra 5 125H (prosesor modern dan bertenaga).
+*   **Harga:** Rp8.649.000
+
+Pilihan lain yang juga memenuhi kriteria layar 14 inci IPS dan SSD 512GB dengan performa tinggi adalah:
+
+**Laptop HP 14S intel Core i7-1360P Ram 16GB 512GB W11+OHS 14.0 FHD IPS - Laptop**
+*   **Layar:** 14.0-inch diagonal, FHD (1920 x 1080), IPS (memenuhi kriteria 14 inci IPS).
+*   **Penyimpanan:** 512 GB PCIe NVMe SSD (memenuhi kriteria SSD 512GB).
+*   **RAM:** 16 GB DDR4-3200 MHz RAM (memadai untuk desain grafis).
+*   **Processor:** Intel Core i7-1360P (prosesor performa tinggi).
+*   **Harga:** Rp12.996.000
+
+LAPTOP ACER ASPIRE LITE AL14-31P- C6DD juga memiliki layar 14 INCH IPS dan 512GB SSD, namun dengan prosesor Intel N100 dan 8GB DDR5 RAM, mungkin kurang optimal untuk kebutuhan desain grafis yang lebih berat dibandingkan Advan Ai Gen atau HP 14S.";5;1930;342;2272;0.000579;0.0008550000000000001;0.001434
+Q39;Laptop apa yang cocok untuk gaming open world, saya rela turunkan setting asal tetap smooth, budget 13 juta?;gemini-2.5-flash;192|339;1843|413|32|465|317;0.0;0.0;8.31362316571176;"Untuk kebutuhan gaming open world dengan budget sekitar 13 juta dan kesediaan menurunkan setting agar tetap smooth, **Lenovo LOQ 15IRX9-ASID** adalah pilihan yang paling sesuai.
+
+Laptop ini dilengkapi dengan:
+*   **Prosesor:** Intel Core i5-13450HX
+*   **Grafis:** NVIDIA GeForce RTX 3050 6GB GDDR6, Boost Clock 1732MHz, TGP 95W. Kartu grafis dedicated ini sangat mumpuni untuk menjalankan game open world, bahkan jika Anda perlu menurunkan setting untuk performa yang lebih smooth.
+*   **Layar:** 15.6"" FHD (1920x1080) IPS 300nits Anti-glare, 100% sRGB, 144Hz, G-SYNC, yang cocok untuk gaming.
+*   **Harga:** Rp12.999.000, sangat pas dengan batas anggaran Anda.
+
+Deskripsi produk juga secara spesifik menyebutkan ""LENOVO Gaming LOQ"" yang mengindikasikan peruntukannya untuk gaming.";5;2685;195;2880;0.0008054999999999999;0.0004875;0.0012929999999999999
+Q40;Kalau fokus saya kerja Excel file besar, apa perlu RAM 16GB atau 8GB sudah cukup?;gemini-2.5-flash;79|270;1106|811|562|1203|500;0.0;0.0;4.3178658853285015;Maaf, datanya belum cukup untuk menentukan apakah RAM 16GB atau 8GB sudah cukup untuk pekerjaan Excel dengan file besar. Konten yang tersedia menjelaskan fungsi umum RAM seperti membantu penggunaan multitasking dan mempercepat kinerja pemrosesan informasi, serta menyebutkan ketersediaan RAM 4GB, 8GB, dan 16GB untuk upgrade, tetapi tidak secara spesifik membahas kebutuhan RAM untuk aplikasi Excel dengan file besar.;5;1379;104;1483;0.00041369999999999997;0.00026;0.0006737
+Q41;Laptop apa yang cocok untuk mahasiswa arsitektur yang akan mulai memakai software 3D, budget 16 juta?;gemini-2.5-flash;221|402;1721|21|1198|1525|214;0.0;0.0;8.047742276918143;"Untuk mahasiswa arsitektur yang akan mulai memakai software 3D dengan budget 16 juta, laptop yang cocok adalah:
+
+**Asus Vivobook K16 K3605VC-I735B6T-HM**
+*   **Harga:** Rp12.449.000 (masuk dalam budget)
+*   **Processor:** Intel Core i7-13620H (10 cores, 16 Threads, up to 4.9 GHz) – Sangat baik untuk software 3D.
+*   **Graphics:** NVIDIA Geforce RTX 3050 4GB Laptop GPU 4GB GDDR6 – GPU dedicated yang mampu menangani software 3D.
+*   **Memory:** 16GB DDR4 – Cukup untuk multitasking dan menjalankan software 3D.
+*   **Storage:** 512GB M.2 NVMe PCIe 4.0 SSD – Cepat untuk loading aplikasi dan file.
+*   **Display:** 16.0-inch WUXGA (1920 x 1200) 16:10 aspect ratio, IPS-level Panel, 144Hz refresh rate, Anti-glare display – Layar besar dengan resolusi tinggi dan refresh rate yang baik untuk desain.
+*   **Operating System:** Windows 11 Home + Microsoft Office Home 2024 + Microsoft 365 Basic (1 Year).";5;2610;225;2835;0.000783;0.0005625;0.0013455
+Q42;Saya ingin laptop untuk kerja di kafe, harus tipis, ringan, dan baterai tahan seharian, rekomendasi?;gemini-2.5-flash;101|328;413|1177|700|1481|1026;0.0;0.0;23.2759541971609;"Untuk kebutuhan laptop yang tipis, ringan, dan baterai tahan seharian untuk kerja di kafe, berikut adalah rekomendasi berdasarkan konten yang tersedia:
+
+**ADVAN WORKMATE I3-1215U 8GB 256GB WINDOWS 11**
+Laptop ini memiliki beberapa keunggulan yang sesuai dengan kriteria Anda:
+*   **Ringan:** ""Berat ADVAN Workmate ini hanya kurang dari 1.4kg. Untuk kamu yang butuh fleksibilitas penggunaan tidak perlu lagi terbebani dengan beratnya laptop. Laptop ini ringan dan mudah dibawa kemanapun kapanpun.""
+*   **Baterai Tahan Lama:** ""Superior Baterry Life. ADVAN Workmate memiliki kapasitas baterai 6000mAH 7.6V. Dengan kapasitas baterai yang besar membuat pemakaian perangkat lebih lama tanpa perlu khawatir terlalu sering mengisi daya baterai laptop."" Klaim ini menunjukkan baterai yang tahan lama, cocok untuk pemakaian seharian.
+*   **Tipis:** Meskipun tidak disebutkan secara spesifik ukuran ketebalannya, bobotnya yang ringan dan penekanan pada ""fleksibilitas penggunaan"" serta ""mudah dibawa kemanapun kapanpun"" mengindikasikan desain yang ringkas dan portabel.
+
+**Harga:** Rp5.299.000
+
+---
+
+**ADVAN Laptop Workpro Intel i5 12450H 14'' FHD IPS 8GB 512GB Win 11** juga bisa dipertimbangkan karena secara eksplisit disebutkan tipis dan ringan:
+*   **Tipis:** ""Advan Workpro memakai material METAL dan memiliki tebal hanya 16.8mm.""
+*   **Ringan:** ""Advan Workpro memiliki berat 1.2 Kg membuat laptop ini ringan dan sangat nyaman Ketika digunakan mobile.""
+*   **Baterai Tahan Seharian:** Untuk kriteria baterai tahan seharian, deskripsi hanya menyebutkan kapasitas baterai Polymer 6600 mAh, 50.16Wh, tanpa klaim eksplisit ""superior battery life"" atau ""pemakaian lebih lama"" seperti pada Advan Workmate.
+
+**Harga:** Rp6.499.000
+
+Berdasarkan klaim ""Superior Battery Life"" yang lebih kuat untuk durasi penggunaan, **ADVAN WORKMATE** lebih relevan untuk kebutuhan ""baterai tahan seharian"".";5;2163;469;2632;0.0006489;0.0011725;0.0018214
+Q43;Laptop apa yang cocok untuk belajar pemrograman web dan mobile dengan budget 10 juta?;gemini-2.5-flash;115|263;1511|742|465|214|1131;0.0;0.0;17.14431751985103;"Maaf, datanya belum cukup untuk merekomendasikan laptop yang cocok untuk belajar pemrograman web dan mobile. Sebagian besar laptop yang tersedia dalam konteks ini memiliki prosesor kelas entry-level seperti Intel N100, Intel N200, atau Intel Core 3-N355, yang mungkin kurang bertenaga untuk menjalankan lingkungan pengembangan (IDE), emulator, atau server lokal yang sering digunakan dalam pemrograman web dan mobile.
+
+Laptop SPC Ryzen 5 3500U memiliki prosesor yang lebih baik, namun deskripsinya menunjukkan bahwa laptop tersebut dijual tanpa sistem operasi (DOS), sehingga pengguna perlu menginstal sistem operasi secara mandiri.";5;2106;158;2264;0.0006318;0.00039499999999999995;0.0010268
+Q44;Kalau saya sering rendering video, lebih baik pilih laptop dengan banyak core CPU atau GPU yang lebih kuat?;gemini-2.5-flash;173|395;1843|811|1198|1203|540;0.0;0.0;13.739612741861492;"Berdasarkan informasi produk yang tersedia:
+
+Untuk aktivitas rendering video, laptop-laptop dengan kombinasi CPU yang memiliki banyak core dan GPU yang kuat akan lebih baik.
+
+*   **ASUS V16 V3607VH** (Rp16.999.000) menawarkan **Intel Core 7 Processor 240H (10 cores, 16 Threads)** dan **NVIDIA GeForce RTX 5050 8GB GDDR7 Laptop GPU**. Kombinasi ini sangat kuat untuk rendering.
+*   **AXIOO Pongo 775** (Rp20.492.010) memiliki **Intel Core i7-13620H (10 Cores, 16 Threads)** dan **INVIDIA GeForce RTX 5070 Laptop GPU 8GB GDDR7**. Ini juga merupakan kombinasi yang sangat powerful untuk rendering.
+*   **IBox Apple Macbook Pro 16 M4 Max** (Rp80.000.000) dilengkapi dengan **14 - 16 Core CPU** dan **32 Core GPU**. Ini adalah spesifikasi kelas atas yang sangat mumpuni untuk rendering.
+
+Untuk pilihan yang lebih terjangkau, **LENOVO THINKPAD L15** (Rp3.699.999) dengan varian **AMD RYZEN 5 PRO 4650U / 5650U / 5675U (6 CORE 12 THREAD)** dan **RX VEGA 7 UP TO 4GB DEDICATED VRAM** disebutkan ""SIAP GAMING & EDITING"" dan ""BUAT EDITING, GAMING"". Dalam konteks harga tersebut, Ryzen dengan 6 core dan GPU RX Vega 7 dianggap sangat baik untuk editing.
+
+Secara umum, produk-produk yang disebutkan cocok untuk rendering video cenderung menawarkan **kedua komponen tersebut (CPU dengan banyak core dan GPU yang kuat)**.";5;2034;327;2361;0.0006101999999999999;0.0008175;0.0014276999999999998
+Q45;Laptop apa yang cocok untuk sekadar browsing, Zoom, dan Office, tapi saya ingin build quality yang bagus?;gemini-2.5-flash;68|241;21|1189|1477|552|161;0.0;0.0;12.516916663851589;"Untuk kebutuhan browsing, Zoom, dan Office dengan preferensi build quality yang bagus, laptop **Asus A1404VAP VIPS5851M VIPS5852M VIPS5853M Core 5 120U/8GB/512GB SSD/14"" FHD/W11 Vivobook 14** dengan harga **Rp8.294.900** cocok untuk Anda.
+
+**Alasan:**
+*   **Performa Optimal untuk Kebutuhan Dasar:** Dilengkapi dengan Processor Intel Core 5 120U, RAM 8GB DDR4, dan Storage 512GB M.2 NVMe PCIe 4.0 SSD, laptop ini lebih dari cukup untuk menjalankan browsing, aplikasi Zoom, dan Office dengan lancar.
+*   **Layar Jernih:** Memiliki layar 14.0-inch, FHD (1920 x 1080) IPS-level Panel yang nyaman untuk digunakan berjam-jam.
+*   **Office Bawaan:** Sudah termasuk Windows 11 Home dan Microsoft Office Home 2024 + Microsoft 365 Basic.
+*   **Indikasi Build Quality:** Deskripsi produk menyebutkan ""Dengan desain yang kompak, laptop ini cocok untuk penggunaan sehari-hari. Tidak hanya fungsional, tetapi juga stylish."" dan ""Dirancang untuk keandalan dan efisiensi."" Hal ini memberikan gambaran tentang perhatian pada desain dan kualitas produk.";5;2620;259;2879;0.0007859999999999999;0.0006475000000000001;0.0014334999999999999
+Q46;Saya ingin beli laptop yang bisa dipakai main game dan desain poster, budget 11 juta, saran kombinasi spek?;gemini-2.5-flash;137|319;1843|413|42|527|543;0.0;0.0;27.142807336058468;"Untuk kebutuhan main game dan desain poster dengan budget Rp11.000.000, berikut adalah kombinasi spesifikasi yang bisa dipertimbangkan berdasarkan produk yang tersedia:
+
+**Rekomendasi Utama: ADVAN AI GEN**
+
+*   **Produk:** ADVAN AI GEN Amd Ryzen 7 8845HS RAM16GB SSD2TB 14'' Ips Windows 11 (varian dasar 8GB, 256GB)
+*   **Harga Dasar:** Rp8.799.000 (untuk varian 8GB RAM, 256GB SSD)
+*   **Kombinasi Spek yang Disarankan:**
+    *   **Processor:** AMD Ryzen 7 8845HS (8 Core, 16 Thread, Speed up to 5.1Ghz)
+    *   **Grafis:** AMD Radeon 780M
+    *   **RAM:** DDR5 16GB (tersedia varian 16GB, 24GB, atau 32GB berdasarkan deskripsi)
+    *   **Storage:** SSD 512GB atau 1TB (tersedia varian 512GB, 1TB, 1.5TB, 2TB berdasarkan deskripsi)
+    *   **Layar:** 14 inci 16:10 FHD IPS
+    *   **Operating System:** Windows 11 Original
+
+**Alasan:**
+Kombinasi AMD Ryzen 7 8845HS dengan grafis AMD Radeon 780M ini sangat kuat untuk kebutuhan gaming modern (terutama game online dan beberapa game AAA dengan pengaturan moderat) serta desain poster berkat performa CPU dan GPU terintegrasi yang tinggi. Meskipun harga Rp8.799.000 adalah untuk varian dasar 8GB RAM dan 256GB SSD, deskripsi menyebutkan ketersediaan varian RAM hingga 32GB dan SSD hingga 2TB. Dengan budget Rp11.000.000, Anda masih memiliki sisa dana untuk mendapatkan varian dengan RAM 16GB dan SSD 512GB atau 1TB yang akan sangat optimal untuk kebutuhan Anda.
+
+---
+
+**Alternatif Lain (Siap Pakai dalam Budget): Asus Vivobook F1504ZA**
+
+*   **Produk:** Asus Vivobook F1504ZA Touch I7 1255 Ram 16GB / 512GB W11 15.6FHD IPS
+*   **Harga:** Rp9.699.000
+*   **Kombinasi Spek:**
+    *   **Processor:** Intel Core i5-1235U (10 cores, up to 4.4 GHz)
+    *   **Grafis:** Intel Iris X Graphics
+    *   **RAM:** 16GB DDR4 (8GB on board + 8GB SO-DIMM)
+    *   **Storage:** 512GB M.2 NVMe PCIe 3.0 SSD
+    *   **Layar:** 15.6-inch, FHD (1920 x 1080) IPS, 60Hz
+    *   **Operating System:** Windows 11 Home
+
+**Alasan:**
+Asus Vivobook ini menawarkan paket lengkap dengan RAM 16GB dan SSD 512GB langsung di harga Rp9.699.000, yang masih di bawah budget Anda. Prosesor Intel Core i5-1235U dengan grafis Intel Iris X Graphics cukup mumpuni untuk desain poster dan game online.";5;2110;551;2661;0.000633;0.0013774999999999998;0.0020104999999999997
+Q47;Laptop apa yang cocok untuk developer backend yang menjalankan database lokal dan beberapa service, RAM 32GB?;gemini-2.5-flash;187|361;742|543|527|2|71;0.0;0.0;4.79857420315966;"Berdasarkan informasi yang tersedia, laptop yang cocok untuk developer backend yang menjalankan database lokal dan beberapa service dengan RAM 32GB adalah:
+
+*   **ADVAN Ai Gen Amd Ryzen 7 8845HS RAM32GB SSD1TB 14'' Ips Windows 11**
+    *   **RAM:** 32GB DDR5 (sesuai varian)
+    *   **Processor:** AMD Ryzen 7 8845HS (8 Core, 16 Thread, Speed up to 5.1Ghz)
+    *   **Penyimpanan:** 1TB SSD
+    *   **Harga:** Rp8.799.000";5;1984;105;2089;0.0005952;0.00026250000000000004;0.0008577000000000001
+Q48;Kalau saya sering commute naik motor, laptop apa yang aman dibawa karena bobot ringan dan bodi kokoh?;gemini-2.5-flash;97|255;502|214|220|1511|21;0.0;0.0;5.444896328728646;"Berdasarkan informasi yang tersedia:
+
+Untuk bobot ringan:
+*   **LAPTOP ACER ASPIRE LITE AL14-32P- C8PX** (Rp5.099.000) dengan bobot hanya 1,17 kg, yang disebutkan ""memungkinkan bepergian dengan sangat mudah.""
+*   **LAPTOP ACER ASPIRE LITE AL14-31P- C6DD** (Rp6.499.000 dan Rp4.999.000) dengan bobot 1,3 kg, yang disebutkan ""Super Tipis, dan Ringan.""
+
+Namun, untuk kriteria ""bodi kokoh"" atau ""sturdy body,"" maaf, datanya belum cukup karena tidak ada deskripsi produk yang secara spesifik menyebutkan ketahanan atau kekokohan bodi laptop.";5;2177;134;2311;0.0006531;0.000335;0.0009881
+Q49;Laptop apa yang cocok untuk editing foto untuk jualan online di marketplace, budget 8 juta?;gemini-2.5-flash;112|236;133|1843|314|21|1495;0.0;0.0;12.43270363798365;"Untuk editing foto dan jualan online di marketplace dengan budget sekitar Rp8.000.000, **Asus Vivobook 14 A1404VA intel I5 gen 1334** adalah pilihan yang paling cocok, meskipun sedikit di atas budget.
+
+Berikut alasannya:
+
+*   **Processor:** Intel Core i5-1334U (10 cores, 12 threads, up to 4.6 GHz) sangat mumpuni untuk tugas editing foto, menawarkan performa yang jauh lebih baik dibandingkan Intel Celeron N100 atau Intel Core i3 Gen 10.
+*   **RAM:** 8GB DDR4 (dapat diupgrade) adalah kapasitas standar yang cukup untuk memulai editing foto.
+*   **Storage:** 512GB M.2 NVMe PCIe 4.0 SSD menyediakan ruang penyimpanan yang lega dan kecepatan akses data yang tinggi, penting untuk menyimpan banyak file foto dan mempercepat proses kerja.
+*   **Display:** 14.0-inch, FHD (1920 x 1080) IPS-level Panel, Anti-glare. Panel IPS-level penting untuk akurasi warna dan sudut pandang yang luas, krusial saat mengedit foto agar warna yang ditampilkan konsisten.
+*   **Graphics:** Intel UHD Graphics (Intel Iris Xe Graphics eligible) cukup baik untuk mendukung editing foto.
+*   **Harga:** Rp8.432.000. Meskipun sedikit di atas budget Rp8.000.000, peningkatan performa dan kualitas layar yang ditawarkan sangat sepadan untuk kebutuhan editing foto.
+
+**LENOVO THINKPAD L15** (harga Rp3.699.999) memiliki pilihan prosesor yang kuat (i5 Gen 11 atau Ryzen 5 Pro) dan grafis yang baik (Iris Xe atau RX Vega 7), yang sangat cocok untuk editing. Namun, **storage dasar 128GB NVME** sangat kecil untuk kebutuhan editing foto dan akan membutuhkan upgrade segera, yang akan menambah biaya.
+
+**Lenovo Ideapad Slim 3 14 N100** (harga Rp4.799.000) dengan processor Intel Celeron N100 dan Intel UHD Graphics 600 tidak direkomendasikan karena spesifikasinya terlalu rendah untuk editing foto.
+
+**HP PAVILION X360 14 TOUCH CORE I3 100U** (harga Rp9.489.000) dan **Lenovo Ideapad Slim 5 14IRL8 Oled I5 13420H** (harga Rp11.699.000) melebihi budget yang Anda sebutkan.";5;3017;484;3501;0.0009051;0.00121;0.0021151
+Q50;Saya ingin laptop gaming entry-level yang masih bisa dipakai 3 tahun ke depan, GPU minimal GTX/RTX entry, saran?;gemini-2.5-flash;152|298;322|1843|831|1222|972;0.0;0.0;16.199832178186625;"Berdasarkan informasi produk yang tersedia, berikut adalah beberapa saran laptop gaming entry-level yang memenuhi kriteria Anda dan masih bisa digunakan 3 tahun ke depan:
+
+1.  **Laptop Lenovo LOQ Essential 15IAX9E B7ID**
+    *   **GPU:** NVIDIA GeForce RTX 3050 6GB GDDR6 (memenuhi kriteria GPU minimal RTX entry).
+    *   **Processor:** Intel Core i5-12450HX (generasi ke-12 yang cukup modern untuk 3 tahun ke depan).
+    *   **RAM:** 12GB SO-DIMM DDR5-4800.
+    *   **Penyimpanan:** 512GB SSD M.2 2242 PCIe 4.0x4 NVMe.
+    *   **Layar:** 15.6"" FHD (1920x1080) IPS 300nits Anti-glare, 100% sRGB, 144Hz.
+    *   **Harga:** Rp10.899.000.
+    *   **Mengapa ini cocok:** Dengan harga di bawah 11 juta, laptop ini menawarkan RTX 3050 6GB yang lebih baik dari versi 4GB, serta prosesor Intel Core i5 generasi ke-12, menjadikannya pilihan yang sangat baik untuk gaming entry-level dan memiliki performa yang relevan untuk 3 tahun ke depan.
+
+2.  **Lenovo IdeaPad 3 15IAH7 GeForce RTX3050**
+    *   **GPU:** NVIDIA GeForce RTX 3050 4GB GDDR6 (memenuhi kriteria GPU minimal RTX entry).
+    *   **Processor:** Intel Core i5-12500H (generasi ke-12 yang cukup modern).
+    *   **RAM:** 1x 8GB SO-DIMM DDR4-3200 (bisa di-upgrade karena dual-channel capable).
+    *   **Penyimpanan:** 512GB SSD M.2 2242 PCIe 4.0x4 NVMe.
+    *   **Layar:** 15.6"" FHD (1920x1080) IPS 300nits Anti-glare, 100% sRGB, 165Hz.
+    *   **Harga:** Rp13.800.000.
+    *   **Mengapa ini cocok:** Menawarkan GPU RTX 3050 dan prosesor i5 generasi ke-12, yang merupakan kombinasi solid untuk gaming entry-level dan masih relevan dalam 3 tahun ke depan, terutama jika RAM ditingkatkan.
+
+Jika Anda memiliki anggaran lebih untuk performa yang lebih baik dan *future-proofing* yang lebih kuat, Anda bisa mempertimbangkan:
+
+3.  **ACER HELIOS NEO 16 PHN16-72-74Z8 I7 14700HX 16GB 512GB SSD RTX 4050 6GB GDDR6** (dan varian dengan harga Rp18.529.000)
+    *   **GPU:** NVIDIA GeForce RTX 4050 6GB GDDR6 (MGP 140W) (ini adalah GPU RTX entry-level generasi terbaru yang jauh lebih bertenaga dari RTX 3050 dan sangat baik untuk 3+ tahun ke depan).
+    *   **Processor:** Intel Core i7-14700HX (prosesor generasi ke-14 yang sangat bertenaga dan terbaru).
+    *   **RAM:** 16GB (2x8 GB of DDR5 5600Mhz), upgradable to 32 GB.
+    *   **Penyimpanan:** 512GB SSD NVMe GEN4.
+    *   **Layar:** 16"" WUXGA (500nits) 180Hz, sRGB 100%.
+    *   **Harga:** Rp20.529.000 (atau Rp18.529.000 untuk varian lain).
+    *   **Mengapa ini cocok:** Meskipun harganya lebih tinggi dan mungkin sedikit di atas kategori ""entry-level"" secara umum, laptop ini menawarkan kombinasi GPU RTX 4050 dan prosesor i7 generasi ke-14 yang akan memberikan performa luar biasa dan sangat terjamin untuk penggunaan gaming selama 3 tahun atau lebih.
+
+Lenovo ThinkPad L15 tidak memenuhi kriteria GPU minimal GTX/RTX entry karena menggunakan grafis terintegrasi (Intel Iris Xe, Intel UHD 620, RX Vega 7).";5;2217;726;2943;0.0006651;0.001815;0.0024801
+Q51;Laptop apa yang cocok untuk pengusaha kecil yang mengelola keuangan dan stok dengan software sederhana?;gemini-2.5-flash;126|281;742|1511|1172|214|1555;0.0;0.0;12.591134458780289;"Untuk pengusaha kecil yang mengelola keuangan dan stok dengan software sederhana, laptop yang cocok adalah:
+
+**Laptop ACER Aspire Lite AL14-31P-C6DD**
+*   **Harga:** Rp4.999.000
+*   **Processor:** Intel Core N100 (4 Cores, 3.4 GHz), yang efisien untuk rutinitas digital dan 3.8X performa lebih cepat (vs N4020). Ini cukup untuk menjalankan software sederhana.
+*   **RAM:** 8GB DDR5 Memory (dapat di-upgrade hingga 16GB), sangat baik untuk multitasking.
+*   **Penyimpanan:** 512GB SSD NVMe, kapasitas besar untuk menyimpan data keuangan dan stok.
+*   **Layar:** 14"" WUXGA 1920 x 1200, IPS. Resolusi tinggi dan sudut pandang luas memudahkan melihat data dan spreadsheet.
+*   **Sistem Operasi:** Windows 11 Home, siap pakai.
+*   **Bonus:** Free Office Home & Student 2021, yang sangat berguna untuk pengelolaan keuangan (Excel) dan dokumen lainnya.
+*   **Deskripsi:** Dirancang untuk pengguna yang membutuhkan perangkat yang efisien dan portabel, cocok untuk mobilitas pengusaha kecil.";5;1849;245;2094;0.0005547;0.0006125;0.0011672
+Q52;Kalau saya ingin beli laptop dengan layar OLED untuk kerja dan nonton, apa ada pilihan di kisaran 15 juta?;gemini-2.5-flash;204|347;681|1909|1294|1210|1413;0.0;0.0;12.849130529910326;"Ya, ada beberapa pilihan laptop dengan layar OLED di kisaran harga Rp15.000.000 yang cocok untuk kerja dan nonton berdasarkan informasi produk yang Anda berikan:
+
+1.  **ASUS Vivobook S15 OLED S5506MA Ultra 7 155H 16GB 1TB 15.6"" 3K 120HZ**
+    *   **Harga:** Rp11.950.000 (atau Rp11.940.000 untuk varian lain yang serupa).
+    *   **Layar:** 15.6-inch, 3K (2880 x 1620) OLED 16:9, 120Hz refresh rate, 400nits (600nits HDR peak brightness), 100% DCI-P3, Glossy display. Sangat cocok untuk menonton dengan kualitas visual tinggi dan refresh rate yang halus.
+    *   **Processor:** Intel Core Ultra 7 Processor 155H (16 cores, 22 Threads) dengan Intel AI Boost NPU, sangat mumpuni untuk berbagai pekerjaan.
+    *   **Memori:** 16GB LPDDR5X on board.
+    *   **Penyimpanan:** 1TB M.2 NVMe PCIe 4.0 SSD.
+
+2.  **Lenovo Ideapad 5 2IN1 14 OLED Core 7 150U Ram 16Gb 512Gb W11+OHS 14.0 WUXGA**
+    *   **Harga:** Rp14.299.000.
+    *   **Layar:** 14"" WUXGA (1920x1200) OLED 400nits Glossy, 100% DCI-P3, 60Hz, Touch. Layar OLED sentuh ini menawarkan pengalaman visual yang baik untuk menonton dan fleksibilitas 2-in-1 untuk kerja.
+    *   **Processor:** Intel Core 7 150U (10 Cores, 12 Threads), cukup baik untuk pekerjaan sehari-hari.
+    *   **Memori:** 16GB Soldered LPDDR5x-5200.
+    *   **Penyimpanan:** 512GB SSD M.2 2242 PCIe 4.0x4 NVMe.
+
+3.  **HP PAVILION PLUS 14 OLED I7 1355 16GB 1TB OHS+W11 14.0 2.8K 120HZ**
+    *   **Harga:** Rp14.999.000.
+    *   **Layar:** 14"" diagonal, 2.8K (2880 x 1800) OLED, 48-120 Hz, SDR 400 nits, HDR 500 nits. Resolusi tinggi dan refresh rate adaptif sangat bagus untuk menonton dan memberikan pengalaman visual yang tajam untuk kerja.
+    *   **Processor:** Intel Core i7-1355U (10 cores, 12 threads), cocok untuk berbagai aplikasi kerja.
+    *   **Memori:** 16 GB LPDDR5X.
+    *   **Penyimpanan:** 1 TB PCIe NVMe M.2 SSD (4x4 SSD).
+
+Ketiga pilihan di atas memiliki layar OLED dan berada dalam kisaran harga yang Anda sebutkan, serta spesifikasi yang memadai untuk kebutuhan kerja dan menonton.";5;2319;505;2824;0.0006956999999999999;0.0012625000000000002;0.0019582000000000002
+Q53;Laptop apa yang cocok untuk mahasiswa kedokteran gigi yang banyak pakai aplikasi e-learning dan PDF berat?;gemini-2.5-flash;131|322;214|1189|38|21|1511;0.0;0.0;17.325532651040703;"Untuk mahasiswa kedokteran gigi yang banyak menggunakan aplikasi e-learning dan PDF berat, **Asus Vivobook 14 A1404VA intel I5 gen 1334** adalah pilihan yang paling cocok berdasarkan informasi yang diberikan.
+
+Berikut alasannya:
+
+1.  **Processor Kuat:** Dilengkapi dengan **Intel Core i5-1334U Processor (10 cores, 12 Threads, up to 4.6 GHz)**. Prosesor ini jauh lebih bertenaga dibandingkan Intel N100 pada Acer Aspire Lite, sehingga sangat mampu menangani PDF berat dan aplikasi e-learning yang mungkin membutuhkan lebih banyak daya komputasi agar berjalan lancar tanpa lag.
+2.  **RAM & Storage Cukup:** Memiliki **8GB DDR4 RAM (on board, upgradable)** dan **512GB M.2 NVMe PCIe 4.0 SSD**. Kombinasi ini memastikan multitasking yang mulus dan kecepatan baca/tulis data yang cepat untuk membuka file PDF besar atau memuat aplikasi e-learning. Opsi upgrade RAM juga memberikan fleksibilitas di masa depan.
+3.  **Layar yang Baik:** Layar **14.0-inch, FHD (1920 x 1080) IPS-level Panel, Anti-glare display** memberikan visual yang jernih dan nyaman untuk membaca dalam waktu lama, penting untuk materi perkuliahan.
+4.  **Fitur Penunjang:** Dilengkapi dengan **Backlit Chiclet Keyboard** yang sangat berguna saat belajar di tempat minim cahaya, serta **Fingerprint (integrated with Touchpad)** untuk keamanan dan kemudahan login.
+5.  **Sistem Operasi dan Software:** Sudah termasuk **Windows 11 Home + OHS 2021**, yang merupakan bundling esensial untuk kebutuhan perkuliahan.
+6.  **Harga:** Dengan harga **Rp8.432.000**, laptop ini menawarkan performa yang solid dan fitur lengkap untuk kebutuhan mahasiswa kedokteran gigi.
+
+Meskipun **Acer Aspire Lite AL14-31P-C6DD (Rp4.999.000)** memiliki layar WUXGA IPS yang bagus dan ringan, prosesor Intel N100-nya mungkin kurang optimal untuk ""PDF berat"" yang kompleks. Sedangkan **ASUS ZENBOOK A14 UX3407QA (Rp15.021.000)** dengan Snapdragon X X1, meskipun sangat ringan dan RAM besar, harganya jauh lebih tinggi dan ada potensi masalah kompatibilitas aplikasi Windows dengan arsitektur ARM, yang bisa menjadi risiko bagi mahasiswa yang mungkin perlu menggunakan software khusus.";5;2534;529;3063;0.0007601999999999999;0.0013224999999999999;0.0020827
+Q54;Saya ingin laptop untuk belajar data science tingkat pemula, RAM minimal 16GB, GPU tidak wajib, saran?;gemini-2.5-flash;167|359;132|742|527|1721|1499;0.0;0.0;8.991729630157351;"Berdasarkan informasi produk yang tersedia, berikut saran laptop yang memenuhi kriteria Anda untuk belajar data science tingkat pemula dengan RAM minimal 16GB dan GPU tidak wajib:
+
+*   **Asus Vivobook K16 K3605VC-I735B6T-HM**
+    *   **RAM:** 16GB DDR4
+    *   **Prosesor:** Intel Core i7-13620H
+    *   **Penyimpanan:** 512GB M.2 NVMe PCIe 4.0 SSD
+    *   **GPU:** NVIDIA Geforce RTX 3050 4GB Laptop GPU (tidak wajib namun tersedia)
+    *   **Layar:** 16.0-inch WUXGA (1920 x 1200) IPS-level Panel, 144Hz
+    *   **Harga:** Rp12.449.000
+
+Laptop ini memiliki RAM 16GB yang sesuai dengan kebutuhan Anda dan dilengkapi dengan prosesor Intel Core i7 generasi terbaru serta GPU dedicated RTX 3050 yang akan sangat mendukung jika nantinya Anda memerlukan komputasi yang lebih intensif untuk data science.";5;2118;199;2317;0.0006354;0.0004975;0.0011329
+Q55;Laptop apa yang cocok untuk desain UI/UX, prioritas layar tajam dan akurasi warna, budget 14 juta?;gemini-2.5-flash;216|336;1316|1376|1343|461|1642;0.0;0.0;6.795785468071699;"Untuk kebutuhan desain UI/UX dengan prioritas layar tajam dan akurasi warna, dan budget 14 juta, berikut adalah pilihan yang paling mendekati dari produk yang tersedia:
+
+**LENOVO IDEAPAD SLIM 5 14 OLED ULTRA 7 255H**
+*   **Harga:** Rp14.699.000
+*   **Layar:** 14"" WUXGA (1920x1200) OLED 400nits Glossy, 100% DCI-P3, DisplayHDR True Black 500. Layar ini sangat cocok untuk akurasi warna dan ketajaman yang dibutuhkan dalam desain UI/UX.
+*   **Processor:** Intel Core Ultra 7 255H
+*   **Memory:** 16GB DDR5-4800
+*   **Storage:** 512GB SSD M.2 2242 PCIe 4.0x4 NVMe
+*   **Sistem Operasi:** Windows 11 Home Single Language, English + Microsoft 365 Basic + Office Home 2024.
+
+Laptop ini sedikit melebihi budget 14 juta Anda, namun merupakan satu-satunya pilihan dalam konteks yang diberikan yang memenuhi kriteria layar tajam dan akurasi warna (OLED WUXGA, 100% DCI-P3) dengan harga yang paling mendekati budget Anda. Laptop lain dengan spesifikasi layar serupa atau lebih tinggi memiliki harga yang jauh di atas 14 juta.";5;1935;253;2188;0.0005805;0.0006325;0.001213
+Q56;Kalau saya membeli laptop untuk presentasi bisnis ke klien, sebaiknya pilih ukuran layar 14 atau 15.6 inci?;gemini-2.5-flash;82|245;502|1795|1172|1159|1580;0.0;0.0;3.9965921510010958;"Berdasarkan informasi produk laptop yang diberikan, semua laptop yang tersedia memiliki ukuran layar 14 inci. Tidak ada informasi mengenai laptop dengan ukuran layar 15.6 inci.
+
+Oleh karena itu, maaf, datanya belum cukup untuk membandingkan atau merekomendasikan ukuran layar 15.6 inci untuk presentasi bisnis.";5;1467;77;1544;0.00044009999999999996;0.00019250000000000002;0.0006326
+Q57;Laptop apa yang cocok untuk anak kuliah yang juga hobi main game casual seperti The Sims dan Minecraft?;gemini-2.5-flash;110|277;1843|413|214|1189|742;0.0;0.0;14.844712123740464;"Untuk anak kuliah yang hobi main game casual seperti The Sims dan Minecraft, **LENOVO THINKPAD L15** adalah pilihan yang sangat cocok.
+
+Berikut alasannya berdasarkan deskripsi produk:
+*   **Siap Gaming & Editing:** Judul produk secara eksplisit menyatakan ""SIAP GAMING & EDITING"".
+*   **Grafis Unggul untuk Gaming:**
+    *   Untuk pilihan prosesor Intel Core i5 Gen 11, dilengkapi dengan **INTEL IRIS XE !!! 80EUs !!! SIAP BUAT MAIN GAME ONLINE JAMAN SKRG !!**.
+    *   Untuk pilihan prosesor AMD Ryzen, dilengkapi dengan **RX VEGA 7 UP TO 4GB DEDICATED VRAM !! SIAP GENSHIN MENTOK KANAN !**. Kedua opsi grafis ini lebih dari cukup untuk menjalankan The Sims dan Minecraft dengan baik.
+*   **Pilihan Prosesor Kuat:** Tersedia pilihan prosesor seperti Intel Core i5 1135G7 (Gen 11) atau AMD Ryzen 5 PRO 4650U/5650U/5675U (Ryzen 4000/5000 series) yang memiliki performa tinggi.
+*   **RAM Cukup:** Dilengkapi RAM 8GB (bisa di-upgrade hingga 64GB DDR4) yang memadai untuk game casual dan multitasking kuliah.
+*   **Layar Besar:** Memiliki layar 15 inci yang nyaman untuk editing maupun gaming.
+*   **Harga Terjangkau:** Disebutkan sebagai ""TERMURAH"" dan harganya Rp3.699.999, yang sangat worthed untuk spesifikasi tersebut.
+
+Produk lain seperti Asus Vivobook F1504ZA juga memiliki Intel Iris X Graphics dan 16GB RAM, yang secara teknis bisa untuk game casual, namun harganya jauh lebih tinggi (Rp9.699.000) dan deskripsinya tidak secara eksplisit menekankan kemampuan gaming untuk model tersebut seperti Lenovo Thinkpad L15. Laptop Acer Aspire Lite AL14-31P dengan Intel N100 dan Intel UHD Graphics kurang cocok untuk gaming. Laptop SPC Ryzen 5 3500U juga bisa menjadi pilihan, namun deskripsi gamingnya tidak sekuat Lenovo Thinkpad L15 dan kapasitas SSD lebih kecil.";5;2509;440;2949;0.0007526999999999999;0.0011;0.0018527
+Q58;Saya ingin laptop yang kipasnya tidak terlalu berisik untuk kerja di ruang tenang, ada rekomendasi?;gemini-2.5-flash;123|294;413|1189|214|1033|742;0.0;0.0;5.027110021095723;Maaf, datanya belum cukup. Informasi mengenai tingkat kebisingan kipas laptop tidak disebutkan dalam deskripsi produk yang tersedia.;5;2080;33;2113;0.0006239999999999999;8.25e-05;0.0007064999999999999
+Q59;Laptop apa yang cocok untuk editing video vlog traveling dengan penyimpanan besar dan bobot tetap ringan?;gemini-2.5-flash;195|341;1189|21|1366|653|1623;0.0;0.0;12.879441396798939;"Berdasarkan informasi produk yang tersedia:
+
+Untuk kebutuhan editing video vlog traveling dengan penyimpanan besar dan bobot tetap ringan, **ASUS Vivobook 14 M1405YA-VIPS751** adalah pilihan yang paling cocok.
+
+Berikut alasannya:
+*   **Performa Editing Video:** Dilengkapi dengan prosesor AMD Ryzen 7 7730U dan RAM 16GB DDR4, spesifikasi ini sangat mendukung untuk aktivitas editing video.
+*   **Penyimpanan Besar:** Memiliki 512GB M.2 NVMe PCIe 3.0 SSD yang cukup besar untuk menyimpan file video.
+*   **Bobot Tetap Ringan:** Beratnya 1.60 kg (dengan baterai) untuk layar 14 inci, menjadikannya pilihan yang cukup portabel untuk traveling.
+*   **Harga:** Rp9.765.000
+
+Laptop lain seperti Asus A1404VAP dan Asus Vivobook 14 A1404VA memiliki RAM 8GB yang kurang ideal untuk editing video berat, dan informasi bobotnya tidak tersedia. ASUS VIVOBOOK S16 FLIP TP3604VA memiliki bobot 1.90 kg yang relatif lebih berat, dan varian yang tertera di harga adalah 8GB RAM. ASUS Vivobook Go 14 E1404GA memiliki prosesor Intel Core i3-N305 yang kurang bertenaga untuk editing video.";5;2719;267;2986;0.0008157;0.0006674999999999999;0.0014832
+Q60;Kalau budget saya 20 juta, lebih baik beli laptop gaming high-end atau ultrabook premium untuk kerja?;gemini-2.5-flash;224|396;1802|1843|541|1049|1026;0.0;0.0;7.177066824864596;"Maaf, datanya belum cukup. Informasi produk yang diberikan tidak mencakup laptop yang secara spesifik dikategorikan sebagai ""laptop gaming high-end"" atau ""ultrabook premium"" dengan harga yang dapat dibandingkan dalam budget 20 juta rupiah. Produk yang tersedia lebih mengarah pada laptop serbaguna untuk profesional atau laptop terjangkau dengan kemampuan gaming dasar.";5;2460;92;2552;0.0007379999999999999;0.00023;0.0009679999999999999
+Q61;Laptop apa yang cocok untuk staff administrasi sekolah dengan aplikasi office dan sistem informasi akademik?;gemini-2.5-flash;138|262;214|1609|1332|1451|1172;0.0;0.0;16.857958374079317;"Berikut adalah beberapa pilihan laptop yang cocok untuk staff administrasi sekolah dengan kebutuhan aplikasi office dan sistem informasi akademik, berdasarkan informasi yang diberikan:
+
+1.  **Acer Aspire Lite AL1 Magical Color Intel I3 1215U**
+    *   **Spesifikasi:** Processor Intel Core i3-1215U (6 Cores, 4.4 Ghz), Memory 8 GB DDR4 (Upgradeable), Storage 512GB SSD NVMe Gen3, Display 14.0″ WUXGA 1920 x 1200 IPS, Operating System Windows 11 Home & Office Home & Student + Office Basic (1Year). Memiliki Backlit Keyboard dan Metal Top Cover.
+    *   **Harga:** Rp6.239.000
+    *   **Kesesuaian:** Processor Intel Core i3-1215U sangat mumpuni untuk menjalankan aplikasi office (Word, Excel, PowerPoint) dan sistem informasi akademik dengan lancar. RAM 8GB dan SSD 512GB juga sudah sangat memadai untuk multitasking dan penyimpanan data. Harga yang paling terjangkau di antara pilihan yang direkomendasikan dengan performa yang baik.
+
+2.  **LAPTOP ACER ASPIRE LITE AL14-31P- C6DD**
+    *   **Spesifikasi:** Processor Intel N100 (4 Cores, 3.4 GHz), Memory 8GB DDR5 (Replaceable up to 16 GB), Storage 512GB SSD NVMe, Display 14 INCH IPS WUXGA 1920 x 1200, Operating System W11 OHS21 (Windows 11 Home + Microsoft Office Home and Student 2021). Desain Super Tipis dan Ringan (1.3kg), serta 180 Degree Open Design.
+    *   **Harga:** Rp6.499.000
+    *   **Kesesuaian:** Processor Intel N100 cukup untuk tugas-tugas administrasi dasar, penggunaan aplikasi office ringan, dan sistem informasi akademik berbasis web. RAM 8GB DDR5 dan SSD 512GB memberikan kecepatan dan ruang penyimpanan yang cukup. Sudah termasuk Office Home and Student 2021.
+
+3.  **ACER ASPIRE 14 5296 CORE 5 120U**
+    *   **Spesifikasi:** Processor Intel® Core™ 5 120U (10C/12T, P-core up to 5.0GHz), Memory 16 GB LPDDR5 Dual Channel, Storage 512 GB SSD PCIe Gen4 NVMe, Display 14″ IPS WUXGA 1920 x 1200, Operating System Windows 11 Home + Office Home Student 2021. Memiliki Backlit Keyboard, Thunderbolt 4, dan Wi-Fi 6E.
+    *   **Harga:** Rp8.529.000
+    *   **Kesesuaian:** Jika anggaran lebih fleksibel, laptop ini menawarkan performa yang jauh lebih tinggi dengan Intel Core 5 120U dan RAM 16GB, yang akan menjamin kelancaran maksimal untuk multitasking berat dan penggunaan jangka panjang. Sangat cocok jika staff administrasi juga memiliki kebutuhan yang lebih dari sekadar aplikasi office dasar.";5;2227;591;2818;0.0006680999999999999;0.0014775;0.0021456
+Q62;Saya ingin laptop untuk belajar editing video 4K, minimal RAM 32GB dan GPU menengah, saran?;gemini-2.5-flash;229|373;1843|132|71|1499|1347;0.0;0.0;6.618258096277714;"Berdasarkan informasi produk yang tersedia:
+
+Untuk kebutuhan belajar editing video 4K dengan minimal RAM 32GB dan GPU menengah, saya merekomendasikan:
+
+**ASUS VIVOBOOK S14 OLED S5406SA ULTRA 7 258V Ram 32GB 1TB W11 14.0 3K**
+*   **RAM:** 32GB LPDDR5X Onboard (memenuhi syarat minimal 32GB).
+*   **GPU:** Intel Arc Graphics (dapat dikategorikan sebagai GPU menengah yang lebih mumpuni dibandingkan opsi lain untuk editing video).
+*   **Processor:** Intel Core Ultra 7 Processor 256V, yang juga mendukung performa editing.
+*   **Harga:** Rp14.699.000
+
+Produk lain tidak memenuhi kriteria RAM minimal 32GB.";5;2588;150;2738;0.0007764;0.00037499999999999995;0.0011514
+Q63;Laptop apa yang cocok untuk gamer yang sering main Valorant dan CS2, target FPS tinggi, budget 13 juta?;gemini-2.5-flash;186|352;1843|1222|413|322|972;0.0;0.0;11.403583753854036;"Berdasarkan informasi produk yang tersedia dan anggaran Rp 13.000.000 dengan target FPS tinggi untuk Valorant dan CS2, laptop yang paling mendekati dan cocok adalah:
+
+**Lenovo IdeaPad 3 15IAH7 GeForce RTX3050**
+*   **Harga:** Rp13.800.000 (sedikit di atas anggaran Rp 13 juta Anda)
+*   **Spesifikasi untuk Gaming:**
+    *   **Prosesor:** Intel Core i5-12500H (seri H yang kuat untuk gaming)
+    *   **Grafis:** NVIDIA GeForce RTX 3050 4GB GDDR6 (cocok untuk game seperti Valorant dan CS2 dengan target FPS tinggi)
+    *   **Layar:** 15.6"" FHD (1920x1080) IPS dengan *refresh rate 165Hz*, sangat ideal untuk mendapatkan pengalaman FPS tinggi yang mulus dalam game kompetitif.
+    *   **RAM:** 8GB DDR4 (dapat di-upgrade hingga 64GB)
+    *   **Penyimpanan:** 512GB SSD NVMe
+
+Laptop lain seperti Acer Helios Neo 16 memiliki spesifikasi gaming yang lebih tinggi (RTX 4050, 180Hz display), namun harganya jauh di atas anggaran Anda (Rp20.529.000 dan Rp18.529.000). Sedangkan Lenovo ThinkPad L15 dan Asus Vivobook F1504ZA menggunakan grafis terintegrasi (Intel Iris Xe/UHD, RX Vega) dan/atau refresh rate layar standar (60Hz), sehingga kurang cocok untuk target ""FPS tinggi"" meskipun harganya di bawah anggaran.";5;2248;301;2549;0.0006744;0.0007525;0.0014269
+Q64;Kalau saya sering kerja di pesawat dan kereta, sebaiknya pilih layar 13–14 inci atau 15.6 inci?;gemini-2.5-flash;108|269;974|1026|403|1177|700;0.0;0.0;3.4372241529636085;"Berdasarkan informasi produk yang tersedia, semua laptop yang disebutkan memiliki ukuran layar 14 inci. Tidak ada pilihan layar 13 inci atau 15.6 inci dalam daftar produk ini.
+
+Oleh karena itu, maaf, datanya belum cukup untuk membandingkan dan merekomendasikan antara layar 13-14 inci atau 15.6 inci untuk kebutuhan kerja di pesawat dan kereta.";5;1594;86;1680;0.00047819999999999997;0.00021500000000000002;0.0006931999999999999
+Q65;Laptop apa yang cocok untuk mahasiswa manajemen, fokusnya presentasi dan tugas kelompok online?;gemini-2.5-flash;117|254;1189|214|784|742|1511;0.0;0.0;16.203316299710423;"Untuk mahasiswa manajemen yang fokus pada presentasi dan tugas kelompok online, beberapa laptop berikut cocok berdasarkan spesifikasi yang tersedia:
+
+1.  **ASUS EXPERTBOOK PM1403CDA S65850WS**
+    *   **Mengapa cocok:**
+        *   **Performa Unggul:** Dilengkapi prosesor AMD Ryzen 5 7535HS yang kuat (6 core, 12 threads), sangat baik untuk multitasking, menjalankan aplikasi Office, dan video conference tanpa hambatan saat tugas kelompok online.
+        *   **Layar Jernih:** Layar 14 inci FHD (1920 x 1080) dengan anti-glare nyaman untuk presentasi dan penggunaan jangka panjang.
+        *   **Software Lengkap:** Sudah termasuk Windows 11 Home, Microsoft Office Home & Student 2024, dan Microsoft 365 Basic, sangat penting untuk tugas-tugas mahasiswa.
+        *   **Daya Tahan Tinggi:** Memenuhi standar militer US MIL-STD 810H dan keyboard tahan tumpahan, menjadikannya pilihan yang kokoh untuk penggunaan sehari-hari mahasiswa.
+        *   **Audio & Kamera Baik:** Dilengkapi Dirac Audio dan kamera 720p HD, mendukung kualitas baik untuk presentasi dan rapat online.
+        *   **Portabilitas:** Bobot 1.40 kg dan desain tipis membuatnya mudah dibawa.
+    *   **Harga:** Rp8.499.000
+
+2.  **Asus A1404VAP Vivobook 14**
+    *   **Mengapa cocok:**
+        *   **Performa Handal:** Prosesor Intel Core 5 120U (10 cores, 12 Threads) dengan RAM 8GB dan 512GB SSD menawarkan performa yang luar biasa untuk kebutuhan presentasi dan tugas kelompok online.
+        *   **Layar Jernih:** Layar 14"" FHD (1920 x 1080) IPS-level dengan anti-glare memberikan pengalaman visual yang jernih dan nyaman.
+        *   **Software Lengkap:** Sistem operasi Windows 11 Home dan sudah termasuk Microsoft Office Home 2024 serta Microsoft 365 Basic, sangat mendukung produktivitas mahasiswa.
+        *   **Fitur Komunikasi:** Webcam 720p HD dengan privacy shutter dan audio SonicMaster dengan built-in microphone mendukung tugas kelompok online dan presentasi.
+        *   **Desain Kompak:** Dirancang dengan desain yang kompak dan stylish, cocok untuk penggunaan sehari-hari mahasiswa.
+    *   **Harga:** Rp8.294.900
+
+3.  **Laptop ACER Aspire Lite AL14-31P-C6DD** (ada dua entri yang sama, ambil yang lebih murah)
+    *   **Mengapa cocok:**
+        *   **Sangat Portabel:** Desain super tipis dan ringan (1.3kg) membuatnya sangat mudah dibawa ke kampus atau tempat tugas kelompok.
+        *   **Layar Berkualitas:** Layar 14"" WUXGA (1920 x 1200) IPS memberikan visual yang luas dan jernih, baik untuk presentasi.
+        *   **Software Penting:** Sudah termasuk Windows 11 Home dan Microsoft Office Home & Student 2021.
+        *   **Fitur Kolaborasi:** Desain 180 Degree Open Design memudahkan berbagi layar saat tugas kelompok.
+        *   **Memori Cepat:** Menggunakan 8 GB DDR5 Memory yang dapat di-upgrade hingga 16 GB.
+    *   **Pertimbangan:**
+        *   Prosesor Intel N100 (4 Cores, 3.4 GHz) meskipun diklaim 3.8X lebih cepat dari N4020, mungkin kurang bertenaga dibandingkan Intel Core 5 atau AMD Ryzen 5 untuk multitasking berat atau aplikasi yang lebih menuntut di program manajemen. Namun, untuk presentasi dan tugas online dasar, ini masih memadai.
+    *   **Harga:** Rp4.999.000
+
+**Rekomendasi Terbaik:**
+Untuk kinerja terbaik dan daya tahan ekstra yang sangat bermanfaat bagi mahasiswa, **ASUS EXPERTBOOK PM1403CDA S65850WS** adalah pilihan yang paling cocok. Jika mencari keseimbangan harga dan performa yang sangat baik, **Asus A1404VAP Vivobook 14** adalah alternatif yang kuat. Jika prioritas utama adalah portabilitas ekstrem dengan anggaran yang lebih terbatas, **ACER Aspire Lite AL14-31P-C6DD** bisa menjadi pilihan, dengan catatan prosesornya lebih dasar.";5;2418;916;3334;0.0007254;0.00229;0.0030153999999999997
+Q66;Saya ingin laptop yang tahan lama untuk pemakaian 8 jam kerja nonstop, baterai minimal 60Wh, saran?;gemini-2.5-flash;202|344;1049|1184|811|21|747;0.0;0.0;4.355972073972225;Maaf, berdasarkan informasi produk yang tersedia, tidak ada laptop yang secara spesifik memiliki kapasitas baterai minimal 60Wh.;5;2259;32;2291;0.0006777;7.999999999999999e-05;0.0007577
+Q67;Laptop apa yang cocok untuk content creator TikTok yang rekam, edit, dan upload dari satu perangkat?;gemini-2.5-flash;149|332;745|34|1843|496|465;0.0;0.0;15.591253113001585;"Untuk kebutuhan content creator TikTok yang merekam, mengedit, dan mengunggah dari satu perangkat, laptop yang cocok harus memiliki spesifikasi yang memadai untuk pengolahan video, memori yang cukup, penyimpanan yang cepat, dan layar dengan akurasi warna yang baik.
+
+Berdasarkan konten yang diberikan, dua laptop berikut sangat cocok:
+
+1.  **TECNO MEGABOOK T1-14 CI5 I5 13420H 16GB 512GB SSD 14"" WUXGA IPS 100% sRGB Windows 11 Garansi 2 Tahun Silver Laptop - LAPTOP ONLY**
+    *   **Prosesor:** Intel Core i5-13420H, yang powerful untuk tugas pengeditan video.
+    *   **Memori:** 16GB LPDDR4, sangat ideal untuk multitasking dan pengeditan video yang lancar.
+    *   **Penyimpanan:** SSD 512GB PCIe 3.0 Nvme, menyediakan ruang dan kecepatan yang cukup untuk file video.
+    *   **Layar:** 14 inci WUXGA IPS dengan **100% sRGB**, sangat penting untuk akurasi warna saat mengedit konten. Kecerahan 350 nits juga membantu.
+    *   **Baterai:** 75WH, menawarkan daya tahan baterai yang baik untuk penggunaan mobile.
+    *   **Harga:** Rp8.089.000
+
+2.  **Tecno Megabook T1 14 RYZEN 5 7430 Ram 16GB / 512GB W11 14.0WUXGA 100SRGB 75WH 1.39KG Garansi Resmi 2Y - LAPTOP**
+    *   **Prosesor:** Ryzen 5 7430U, merupakan prosesor yang handal untuk kebutuhan pengeditan video.
+    *   **Memori:** 16GB LPDDR4x, sangat memadai untuk pengeditan dan multitasking.
+    *   **Penyimpanan:** SSD 512 GB PCI-E 4.0x4 M.2 2280, menawarkan kecepatan transfer data yang lebih tinggi untuk file video.
+    *   **Layar:** 14.0WUXGA dengan **100SRGB**, esensial untuk reproduksi warna yang akurat bagi content creator.
+    *   **Baterai:** 65 watt, cukup baik untuk produktivitas saat bepergian.
+    *   **Harga:** Rp6.999.000
+
+Kedua laptop TECNO MEGABOOK ini menonjol karena kombinasi prosesor yang kuat, RAM 16GB, SSD 512GB, dan yang terpenting, layar dengan cakupan **100% sRGB** yang krusial untuk akurasi warna dalam pengeditan video.";5;2159;478;2637;0.0006477;0.001195;0.0018427
+Q68;Kalau saya hanya browsing, streaming, dan Office, apakah lebih baik pilih laptop dengan eGPU kecil atau iGPU saja?;gemini-2.5-flash;93|231;1843|184|1732|1298|1030;0.0;0.0;5.906309152953327;"Untuk aktivitas browsing, streaming, dan Office, iGPU (Integrated Graphics Processing Unit) saja sudah lebih dari cukup.
+
+Berdasarkan informasi produk yang tersedia:
+*   **Lenovo ThinkPad L15** menawarkan pilihan grafis berupa Intel Iris Xe (untuk i5 Gen 11), Intel UHD 620 (untuk i5 Gen 10), atau AMD RX Vega 7 (untuk AMD Ryzen). Semua ini adalah iGPU.
+*   **ASUS Vivobook Go 14 E1404GA** menggunakan Intel UHD Graphics, yang juga merupakan iGPU.
+
+Tidak ada informasi dalam deskripsi produk yang menyebutkan adanya eGPU kecil atau dukungan untuk eGPU.";5;2830;138;2968;0.000849;0.000345;0.001194
+Q69;Laptop apa yang cocok untuk pelajar SMP yang baru mulai belajar komputer dan coding dasar?;gemini-2.5-flash;76|208;214|1511|742|1033|42;0.0;0.0;9.004569747950882;"Untuk pelajar SMP yang baru mulai belajar komputer dan coding dasar, **Laptop ACER Aspire Lite AL14-31P-C6DD** (dengan harga Rp4.999.000) adalah pilihan yang cocok.
+
+Berdasarkan informasi produk:
+*   **Prosesor**: Intel N100 Processor (4 Cores, 3.4 GHz) cukup efisien untuk rutinitas digital dan tugas dasar termasuk belajar coding.
+*   **Memori**: 8 GB DDR5 Memory (dapat di-upgrade hingga 16 GB) memastikan kinerja yang lancar untuk multitasking dan aplikasi belajar.
+*   **Penyimpanan**: 512 GB SSD NVMe memberikan kecepatan dan ruang penyimpanan yang cukup untuk file sekolah dan program.
+*   **Sistem Operasi**: Dilengkapi dengan Windows 11 Home dan Bonus Office Home & Student 2021, sehingga langsung siap digunakan untuk tugas sekolah tanpa perlu instalasi tambahan.
+*   **Desain**: ""Desain Baru yang Modis, Super Tipis, dan Ringan (1.3kg)"" membuatnya mudah dibawa ke sekolah atau tempat belajar.
+*   **Layar**: 14"" WUXGA 1920 x 1200, IPS dengan Acer ComfyView menawarkan visual yang jernih dan nyaman untuk belajar.
+*   **Harga**: Rp4.999.000 merupakan harga yang terjangkau untuk laptop dengan spesifikasi tersebut.
+
+Deskripsi produk juga menyatakan ""Laptop ini dirancang untuk pengguna yang membutuhkan perangkat yang efisien dan portabel,"" yang sangat sesuai dengan kebutuhan pelajar.";5;1821;323;2144;0.0005463;0.0008075;0.0013538
+Q70;Saya ingin laptop untuk desain poster event kampus dan video pendek, budget 10 juta, rekomendasi?;gemini-2.5-flash;154|302;502|1843|413|21|214;0.0;0.0;19.147282749880105;"Berdasarkan kebutuhan Anda untuk desain poster event kampus dan video pendek dengan budget maksimal Rp10 juta, berikut adalah rekomendasi laptop yang paling sesuai dari konteks yang diberikan:
+
+1.  **Asus Vivobook F1504ZA Touch I7 1255 Ram 16GB / 512GB W11 15.6FHD IPS - LAPTOP, BLACK.**
+    *   **Harga:** Rp9.699.000
+    *   **Spesifikasi Utama:**
+        *   **Processor:** Intel Core i5-1235U Processor (12th Gen) yang sangat baik untuk multitasking dan beban kerja desain/editing.
+        *   **Graphics:** Intel Iris X Graphics, mampu menangani desain grafis dan editing video pendek dengan lancar.
+        *   **Memory:** 16GB DDR4 (8GB on board + 8GB SO-DIMM), kapasitas RAM ini sangat ideal untuk menjalankan aplikasi desain (seperti Adobe Photoshop/Illustrator) dan software editing video secara bersamaan tanpa kendala.
+        *   **Storage:** 512GB M.2 NVMe PCIe 3.0 SSD untuk kecepatan booting dan loading aplikasi yang cepat.
+        *   **Display:** Layar 15.6-inch, FHD (1920 x 1080) IPS yang penting untuk akurasi warna dan detail saat mendesain atau mengedit video.
+    *   **Kelebihan:** Laptop ini menawarkan kombinasi spesifikasi yang sangat mumpuni langsung dari kotak untuk kebutuhan Anda, terutama dengan RAM 16GB yang merupakan nilai plus besar untuk editing video.
+
+2.  **LAPTOP I5 GEN 11 / 10 DAN RYZEN 5/ 7 HIGH GEN TERMURAH ! LENOVO THINKPAD L15 SIAP GAMING & EDITING - R5-4650U, 8GB, NVME 128.**
+    *   **Harga:** Rp3.699.999
+    *   **Spesifikasi Utama (contoh varian R5-4650U, 8GB, NVME 128):**
+        *   **Deskripsi:** Secara spesifik disebutkan ""SIAP GAMING & EDITING"" dan ""BUAT EDITING, GAMING"".
+        *   **Processor:** Tersedia pilihan seperti AMD Ryzen 5 PRO 4650U (6 Core 12 Thread) atau Intel Core i5 1135G7, keduanya merupakan prosesor generasi tinggi yang sangat mumpuni.
+        *   **Graphics:** Untuk varian Ryzen, mendapatkan RX VEGA 7 UP TO 4GB DEDICATED VRAM, dan untuk i5 Gen 11 mendapatkan INTEL IRIS XE, keduanya sangat baik untuk desain dan editing video pendek.
+        *   **Memory:** Judul menyebutkan 8GB, namun deskripsi menyatakan ""RAM 2 SOKET UP TO 64GB DDR4"", yang berarti Anda memiliki opsi untuk meng-upgrade RAM di kemudian hari jika 8GB dirasa kurang untuk editing video yang lebih intens.
+        *   **Display:** Layar 15 inci, nyaman untuk pekerjaan desain dan editing.
+    *   **Kelebihan:** Laptop ini menawarkan performa ""gen tinggi"" yang sangat baik untuk editing dan gaming dengan harga yang sangat terjangkau, menyisakan banyak sisa budget Anda untuk upgrade RAM atau pembelian aksesoris lainnya.";5;2344;643;2987;0.0007032000000000001;0.0016075;0.0023107
+Q71;Laptop apa yang cocok untuk pegawai bank yang banyak bekerja dengan spreadsheet dan aplikasi internal?;gemini-2.5-flash;129|291;465|1572|1451|1381|205;0.0;0.0;11.61360475094989;"Berikut adalah beberapa rekomendasi laptop yang cocok untuk pegawai bank yang banyak bekerja dengan spreadsheet dan aplikasi internal, berdasarkan informasi produk yang diberikan:
+
+1.  **Laptop ACER ASPIRE LITE AL14 Intel Core I7 12650H RAM 16GB SSD 1TB Windows 11 + Office Home Student 14"" ips - 16/1 TB W11, UNIT ONLY**
+    *   **Deskripsi**: Laptop ini memiliki Processor Intel Core i7 12650H, Memory 16 GB DDR5, dan SSD 1TB NVMe. Layar 14.0"" IPS WUXGA (1920 x 1200) yang nyaman untuk bekerja lama. Dilengkapi Windows 11 Home + Office Home Student 2021. Kombinasi prosesor bertenaga, RAM besar, dan penyimpanan cepat ini sangat ideal untuk menangani spreadsheet kompleks dan berbagai aplikasi internal secara bersamaan tanpa kendala.
+    *   **Harga**: Rp10.999.000
+
+2.  **Laptop HP 14 Intel Core i3 1315 RAM 8 GB SSD 512 GB Windows 11 + Office Home Student 14"" FHD Blit Copilot - W11, UNIT ONLY**
+    *   **Deskripsi**: Ditenagai Intel Core i3-1315, RAM 8GB DDR4-3200 MHz, dan 512 GB PCIe NVMe M.2 SSD. Layar 14″ FHD IPS (1920 x 1080) anti-glare memberikan tampilan yang jelas. Sudah termasuk Windows 11 Home + Office Home Student. Prosesor Core i3 generasi terbaru dengan 8GB RAM dan 512GB SSD sudah sangat memadai untuk pekerjaan spreadsheet dan aplikasi internal sehari-hari.
+    *   **Harga**: Rp6.499.000
+
+3.  **Acer Aspire Go Spin AGSP14 TOUCH CORE 3 N355 Ram 8GB / 512GB W11+OHS 14.0WUXGA PEN 2IN1 Garansi Resmi 2Y - LAPTOP**
+    *   **Deskripsi**: Laptop ini memiliki Processor Intel Core 3-N355, Memory 8GB, dan Storage 512 GB SSD PCIe Gen4 NVMe. Layar 14.0"" WUXGA (1920 x 1200) Touchscreen dengan Stylus dan fitur 2-in-1. Dilengkapi Windows 11 Home + Office Home Student. Spesifikasi ini cukup baik untuk penggunaan spreadsheet dan aplikasi internal, dengan keuntungan layar sentuh dan stylus jika dibutuhkan.
+    *   **Harga**: Rp8.279.000";5;1964;463;2427;0.0005892;0.0011575;0.0017467
+Q72;Kalau saya sering pindah-pindah meja kerja, pentingkah punya laptop dengan charger kecil dan ringan?;gemini-2.5-flash;85|217;1177|1332|1511|502|214;0.0;0.0;7.938688149210066;"Ya, jika Anda sering berpindah-pindah meja kerja, memiliki laptop dengan charger kecil dan ringan akan sangat penting untuk mendukung fleksibilitas dan kenyamanan Anda.
+
+Berdasarkan konten yang diberikan:
+
+*   **ADVAN WORKMATE I3-1215U** sangat menekankan aspek portabilitas laptopnya dengan deskripsi ""Light Weight. Berat ADVAN Workmate ini hanya kurang dari 1.4kg. Untuk kamu yang butuh fleksibilitas penggunaan tidak perlu lagi terbebani dengan beratnya laptop. Laptop ini ringan dan mudah dibawa kemanapun kapanpun."" Laptop ini juga dilengkapi dengan ""Port Type C Charging"" dan ""Adapter : PD 45W"". Charger Type-C umumnya lebih ringkas dan serbaguna, yang akan sangat mendukung kebutuhan Anda untuk mobilitas tinggi. Port Type C juga disebutkan ""membuat pengguna lebih nyaman dalam penggunaannya"", yang bisa diinterpretasikan termasuk kenyamanan dalam membawa charger.
+
+Untuk produk Acer Aspire Lite AL1 Magical Color dan Acer Aspire Lite AL14-31P-C6DD (Intel N100), deskripsi produk hanya menyebutkan ""Charger"" sebagai kelengkapan tanpa memberikan detail spesifik mengenai ukuran atau berat chargernya. Oleh karena itu, datanya belum cukup untuk menilai apakah chargernya kecil dan ringan.";5;1982;298;2280;0.0005945999999999999;0.000745;0.0013395999999999998
+Q73;Laptop apa yang cocok untuk gaming offline seperti GTA V dan FIFA, budget 12 juta dan ingin smooth?;gemini-2.5-flash;172|320;413|1843|1630|1272|1262;0.0;0.0;21.575383780989796;"Maaf, datanya belum cukup. Informasi produk yang tersedia tidak secara spesifik menyatakan laptop mana yang cocok untuk gaming offline seperti GTA V dan FIFA dengan performa yang mulus (smooth). Semua laptop yang disebutkan menggunakan kartu grafis terintegrasi (Intel Iris X Graphics, Intel UHD Graphics, atau AMD RX Vega 7) yang mungkin tidak optimal untuk menjalankan game-game tersebut dengan lancar pada pengaturan yang diinginkan.
+
+Meskipun ""LAPTOP I5 GEN 11 / 10 DAN RYZEN 5/ 7 HIGH GEN TERMURAH ! LENOVO THINKPAD L15 SIAP GAMING & EDITING"" menyebutkan ""SIAP GAMING & EDITING"" dan ""RX VEGA 7 UP TO 4GB DEDICATED VRAM !! SIAP GENSHIN MENTOK KANAN !"", tidak ada jaminan performa ""smooth"" untuk GTA V dan FIFA. Selain itu, penyimpanan dasar 128GB NVME pada model tersebut juga sangat terbatas untuk game-game modern yang berukuran besar seperti GTA V.";5;2345;213;2558;0.0007034999999999999;0.0005325;0.001236
+Q74;Saya ingin laptop untuk kerja kreatif dan ilustrasi digital, kalau bisa support pen stylus, saran?;gemini-2.5-flash;196|338;34|829|1052|741|1632;0.0;0.0;8.452663868665695;"Berdasarkan informasi produk yang tersedia, laptop **ADVAN 360 Stylus Pro** sangat cocok untuk kebutuhan kerja kreatif dan ilustrasi digital Anda.
+
+Berikut alasannya berdasarkan deskripsi produk:
+
+*   **Dukungan Stylus Pen**: Laptop ini secara khusus dirancang dengan ""Responsive Stylus Pen"" yang ""lebih responsif"" dan sudah menggunakan ""sistem pengisian daya Type-C"". Beberapa deskripsi juga menyatakan Stylus Pen sudah termasuk dalam kemasan.
+*   **Layar Sentuh & Desain 2-in-1**: Memiliki ""Layar sentuh"" dan desain ""2-in-1 display"" yang ""dapat membentuk tampilan laptop dan tablet"", sehingga sangat fleksibel dan nyaman untuk menggambar, mendesain, atau membuat sketsa.
+*   **Display Ideal untuk Kreatif**: Dibekali ""Layar 14.0"" FHD IPS 1920x1200 16:10"" dengan fitur ""Anti Glare"" yang ""membuat tampilan lebih sempurna jika bekerja di bawah sinar yang terang"", sangat nyaman digunakan saat menggambar atau desain.
+*   **Performa Cukup untuk Produktivitas**: Ditenagai prosesor ""Intel Core i3-1215U (Gen 12)"" dan ""RAM 8GB DDR4"", yang disebut ""mampu memenuhi produktifitas pengguna sehari-hari"" dan ""Cocok digunakan untuk pelajar, pekerja, dan desainer, editor, dan lainnya"".
+*   **Penyimpanan**: Dilengkapi ""256GB SSD"" (beberapa deskripsi menyebut PCIe 3.0), dan beberapa varian juga menyebut ""Upgradable Storage"" dengan ""dual-slot SSD"" atau ""single-slot SSD"" jika Anda membutuhkan kapasitas lebih besar di kemudian hari.
+*   **Portabilitas**: Desainnya ""Slim, Sleek, and Stylish"" dengan berat ""≤1.5kg"", membuatnya nyaman dibawa kemanapun.
+
+**Harga**: Laptop ADVAN 360 Stylus Pro ini memiliki rentang harga sekitar Rp6.339.000 hingga Rp6.589.000 tergantung varian dan kelengkapan bundelnya.";5;3883;422;4305;0.0011649;0.001055;0.0022199
+Q75;Laptop apa yang cocok untuk dosen yang sering mengoreksi tugas dan mengajar lewat Zoom?;gemini-2.5-flash;121|292;742|21|1189|1659|1721;0.0;0.0;18.724470337852836;"Untuk dosen yang sering mengoreksi tugas dan mengajar lewat Zoom, berikut adalah beberapa pilihan laptop yang cocok berdasarkan informasi produk yang diberikan:
+
+1.  **Asus UM3406HA OLED753 R7 8840HS/16GB/512GB SSD/14"" WUXGA/W11 Zenbook 14**
+    *   **Spesifikasi:** Processor AMD Ryzen 7 8840HS, RAM 16GB LPDDR5X, Storage 512GB M.2 NVMe PCIe 4.0 SSD.
+    *   **Layar:** 14.0-inch WUXGA (1920 x 1200) OLED dengan 100% DCI-P3 color gamut, Glossy display, dan 70% less harmful blue light. Layar OLED ini sangat cocok untuk mengoreksi tugas karena memberikan kejernihan visual yang tinggi dan dapat mengurangi kelelahan mata.
+    *   **Fitur Zoom:** Dilengkapi FHD camera with IR function (mendukung Windows Hello) dan privacy shutter, serta audio harman/kardon (Premium) dengan dukungan Cortana voice-recognition. Ini sangat ideal untuk mengajar via Zoom dengan kualitas gambar dan suara yang superior.
+    *   **Keyboard:** Backlit Chiclet Keyboard, memudahkan kerja di berbagai kondisi pencahayaan.
+    *   **Harga:** Rp15.499.000
+    *   **Garansi:** Resmi Asus 3 Tahun.
+    *   **Kesimpulan:** Pilihan terbaik jika anggaran memungkinkan, dengan layar premium untuk koreksi tugas dan spesifikasi mumpuni untuk Zoom.
+
+2.  **Asus A1404VAP VIPS5851M VIPS5852M VIPS5853M Core 5 120U/8GB/512GB SSD/14"" FHD/W11 Vivobook 14**
+    *   **Spesifikasi:** Processor Intel Core 5 Processor 120U, RAM 8GB DDR4, Storage 512GB M.2 NVMe PCIe 4.0 SSD.
+    *   **Layar:** 14.0-inch, FHD (1920 x 1080) IPS-level Panel, Anti-glare display. Layar ini nyaman untuk mengoreksi tugas.
+    *   **Fitur Zoom:** Dilengkapi 720p HD camera With privacy shutter dan audio SonicMaster Built-in speaker Built-in array microphone. Cukup memadai untuk kebutuhan Zoom.
+    *   **Keyboard:** Backlit Chiclet Keyboard + Fingerprint (integrated with Touchpad).
+    *   **Software:** Dilengkapi Windows 11 Home + Microsoft Office Home 2024 + Microsoft 365 Basic. Sangat berguna untuk produktivitas dosen.
+    *   **Harga:** Rp8.294.900
+    *   **Garansi:** Resmi Asus 2 Tahun.
+    *   **Kesimpulan:** Pilihan yang sangat baik dan seimbang dengan harga menengah, cocok untuk pekerjaan dan hiburan, serta dilengkapi Office terbaru.
+
+3.  **Asus Vivobook 14 A1404VA intel I5 gen 1334 8GB 512GB W11+OHS+M365B 14.0FHD**
+    *   **Spesifikasi:** Processor Intel Core i5-1334U, RAM 8GB DDR4, Storage 512GB M.2 NVMe PCIe 4.0 SSD.
+    *   **Layar:** 14.0-inch, FHD (1920 x 1080) IPS-level Panel, Anti-glare display. Layar yang baik untuk mengoreksi tugas.
+    *   **Fitur Zoom:** Dilengkapi 720p HD camera dan audio SonicMaster Built-in speaker Built-in array microphone.
+    *   **Keyboard:** Backlit Chiclet Keyboard + Fingerprint.
+    *   **Software:** Dilengkapi Windows 11 Home + OHS 2021 + M365B.
+    *   **Harga:** Rp8.432.000
+    *   **Garansi:** Resmi Asus 2 Tahun.
+    *   **Kesimpulan:** Mirip dengan A1404VAP, juga merupakan pilihan bagus dengan spesifikasi yang memadai untuk dosen.
+
+4.  **Laptop SPC Ryzen 5 3500U | 8GB RAM | 256GB SSD | Layar 14” FHD**
+    *   **Spesifikasi:** Processor AMD RYZEN 5 3500, RAM 8GB DDR4, SSD 256GB NVME.
+    *   **Layar:** 14"" FHD IPS. Layar yang baik untuk mengoreksi tugas.
+    *   **Fitur Zoom:** Dilengkapi BACKLIT KEYBOARD. Informasi spesifik tentang webcam dan audio tidak disebutkan secara detail, namun umumnya laptop modern memiliki fitur dasar yang mendukung Zoom.
+    *   **Kecocokan:** Deskripsi produk menyatakan ""Cocok Kerja & Kuliah"".
+    *   **Harga:** Rp4.529.000
+    *   **Garansi:** 2 Tahun Garansi Resmi Pabrik, 7 Hari Garansi Toko.
+    *   **Kesimpulan:** Pilihan paling ekonomis yang disebutkan ""Cocok Kerja & Kuliah"". Processor dan RAM 8GB cukup untuk Zoom dan mengoreksi tugas, namun kapasitas SSD 256GB mungkin perlu dipertimbangkan jika banyak file besar yang disimpan.
+
+**Rekomendasi Terbaik:**
+Jika anggaran bukan kendala utama, **Asus UM3406HA OLED753 Zenbook 14** adalah pilihan terbaik karena layar OLED WUXGA-nya yang superior untuk mengoreksi tugas dan fitur audio/webcam yang premium untuk Zoom.
+
+Jika mencari keseimbangan antara fitur dan harga, **Asus A1404VAP Vivobook 14** atau **Asus Vivobook 14 A1404VA** adalah pilihan yang sangat solid dengan spesifikasi yang memadai dan sudah dilengkapi Office.";5;2497;1059;3556;0.0007491;0.0026475;0.0033966
+Q76;Kalau saya punya budget 9 juta, lebih baik beli laptop dengan SSD 256GB+HDD 1TB atau SSD 512GB saja?;gemini-2.5-flash;146|283;1051|1049|1572|811|247;0.0;0.0;6.580838853027672;"Berdasarkan informasi produk yang tersedia, tidak ada laptop yang menawarkan konfigurasi SSD 256GB + HDD 1TB.
+
+Namun, jika Anda memiliki budget 9 juta dan ingin membeli laptop dengan SSD 512GB, beberapa pilihan yang tersedia adalah:
+
+*   **Acer Aspire Lite AL14-32P-C9VS** dengan 512GB PCIe SSD seharga Rp5.199.000.
+*   **ADVAN Laptop WORKPLUS i5 12600H** yang memiliki varian SSD 512GB seharga Rp7.779.000.
+*   **Laptop Acer Aspire Go Spin AGSP14** dengan 512 GB SSD PCIe Gen4 NVMe seharga Rp8.279.000.
+*   **ASUS ExpertBook P1403CVA-S65150WS** dengan 512GB M.2 2280 NVMe PCIe 4.0 SSD seharga Rp8.850.000.
+
+Untuk opsi SSD 256GB + HDD 1TB, maaf, datanya belum cukup.";5;1826;166;1992;0.0005478;0.000415;0.0009628
+Q77;Laptop apa yang cocok untuk mahasiswa teknik informatika yang ingin belajar machine learning dasar?;gemini-2.5-flash;180|357;214|413|21|170|511;0.0;0.0;15.188673137687147;"Untuk mahasiswa teknik informatika yang ingin belajar machine learning dasar, beberapa pilihan laptop yang cocok berdasarkan spesifikasi adalah:
+
+1.  **Laptop Lenovo IDEAPAD Slim 3 14 intel i7-13620H Ram 16GB 512GB W11+OHS 14.0 FHD IPS**
+    *   **Harga:** Rp11.149.000
+    *   **Processor:** Intel Core i7-13620H (10 Cores, 16 Threads, P-core 2.4 / 4.9GHz), yang menawarkan performa tinggi dan sangat cocok untuk komputasi yang intensif seperti machine learning.
+    *   **Memory:** 16GB Soldered LPDDR5-5200, kapasitas RAM yang besar dan cepat, ideal untuk menangani dataset dan model machine learning.
+    *   **Storage:** 512GB SSD M.2 2242 PCIe 4.0x4 NVMe, penyimpanan cepat dan cukup untuk sistem operasi, aplikasi, dan data.
+
+2.  **Asus Vivobook F1504ZA Touch I7 1255 Ram 16GB / 512GB W11 15.6FHD IPS**
+    *   **Harga:** Rp9.699.000
+    *   **Processor:** Intel Core i5-1235U Processor (10 cores, up to 4.4 GHz), meskipun judul menyebut i7, deskripsi spesifikasinya adalah i5-1235U yang merupakan prosesor yang cukup kuat untuk kebutuhan machine learning dasar.
+    *   **Memory:** 16GB (8GB DDR4 on board + 8GB SO-DIMM), kapasitas RAM yang sangat baik untuk menjalankan aplikasi machine learning.
+    *   **Storage:** 512GB M.2 NVMe PCIe 3.0 SSD, penyimpanan cepat yang memadai.
+
+3.  **Asus Vivobook 14 A1404VA intel I5 gen 1334 8GB 512GB W11+OHS+M365B 14.0FHD**
+    *   **Harga:** Rp8.432.000
+    *   **Processor:** Intel Core i5-1334U Processor (10 cores, up to 4.6 GHz), prosesor generasi terbaru yang baik untuk komputasi.
+    *   **Memory:** 8GB DDR4 on board (Upgradable), meskipun 8GB cukup untuk memulai, disarankan untuk mempertimbangkan upgrade ke 16GB untuk performa machine learning yang lebih optimal.
+    *   **Storage:** 512GB M.2 NVMe PCIe 4.0 SSD, penyimpanan cepat dan cukup.
+
+Laptop Acer Aspire Lite AL14-31P- C6DD dengan Intel N100 dan Laptop Lenovo Ideapad Slim 3 Intel i3 Ram 8GB SSD 256GB W11 Office Ori kurang direkomendasikan karena prosesornya cenderung kurang bertenaga untuk kebutuhan komputasi machine learning, meskipun untuk tingkat dasar.";5;2607;519;3126;0.0007821;0.0012975;0.0020796
+Q78;Saya ingin laptop untuk nonton drama Korea dan film, layar harus cerah dan sudut pandang lebar, saran?;gemini-2.5-flash;113|248;681|1208|461|1413|1316;0.0;0.0;13.886464826297015;"Untuk kebutuhan nonton drama Korea dan film dengan layar cerah dan sudut pandang lebar, saya merekomendasikan beberapa pilihan berikut berdasarkan informasi yang tersedia:
+
+1.  **Lenovo Yoga Slim 7 14 Touch OLED Evo Ultra 7 258V:**
+    *   Layar: 14"" 2.8K WQXGA+ (2880x1800) OLED.
+    *   Kecerahan: Sangat cerah dengan 1100nits (peak) dan 500nits (typical).
+    *   Warna: 100% DCI-P3.
+    *   Fitur lain: Dolby Vision, DisplayHDR True Black 1000, Touchscreen, dan panel OLED secara inheren memiliki sudut pandang lebar.
+    *   Harga: Rp19.899.000
+
+2.  **ASUS Vivobook S15 OLED S5506MA Ultra 7 155H (pertama):**
+    *   Layar: 15.6-inch, 3K (2880 x 1620) OLED.
+    *   Kecerahan: 400nits (typical) dan 600nits HDR peak brightness.
+    *   Warna: 100% DCI-P3.
+    *   Fitur lain: Panel OLED secara inheren memiliki sudut pandang lebar.
+    *   Harga: Rp11.950.000
+
+3.  **ACER SWIFT EDGE 14 SFE14-51T-77WL:**
+    *   Layar: 14.0"" Touchscreen OLED dengan anti-glare (Corning Gorilla Glass Matte Pro), 3K (2880 x 1800).
+    *   Kecerahan: High-brightness (400 nits).
+    *   Warna: Color gamut DCI-P3 100%.
+    *   Sudut Pandang: Secara eksplisit disebutkan memiliki ""Wide viewing angle up to 170 degree"".
+    *   Harga: Rp25.999.000
+
+Model **Asus Zenbook S14 OLED 3K touch UX5406SA** tidak memiliki informasi spesifik mengenai tingkat kecerahan (nits) dan sudut pandang lebar.
+
+Model **ASUS VIVOBOOK S15 OLED S5506MA ULTRA 7 155H Ram 16GB 1TB W11 15.6"" QHD IPS 3K 120HZ - NON AKSESORIS** hanya menyebutkan 500 nits peak brightness dan 100% RGB color gamut (bukan DCI-P3 yang lebih umum untuk media), serta tidak ada detail sudut pandang spesifik.";5;2249;411;2660;0.0006747;0.0010275;0.0017022
+Q79;Laptop apa yang cocok untuk admin gudang dengan aplikasi stok barang, tidak perlu GPU kuat?;gemini-2.5-flash;120|267;742|525|527|1843|540;0.0;0.0;12.07944848574698;"Berdasarkan kebutuhan Anda untuk admin gudang dengan aplikasi stok barang dan tidak memerlukan GPU kuat, berikut adalah rekomendasi laptop yang cocok:
+
+1.  **Laptop SPC Ryzen 5 3500U | 8GB RAM | 256GB SSD | Layar 14” FHD | Cocok Kerja & Kuliah -DOS**
+    *   **Spesifikasi relevan**: Dilengkapi prosesor AMD Ryzen 5 3500U dan RAM 8GB, serta SSD 256GB NVME yang cukup untuk aplikasi stok barang dan sistem operasi. Deskripsi produk secara eksplisit menyebutkan ""Cocok Kerja & Kuliah"", yang mengindikasikan kemampuannya untuk tugas-tugas administratif. GPU yang digunakan adalah terintegrasi dengan prosesor Ryzen 5, sehingga tidak termasuk kategori GPU kuat.
+    *   **Harga**: Rp4.529.000
+
+2.  **LAPTOP I5 GEN 11 / 10 DAN RYZEN 5/ 7 HIGH GEN TERMURAH ! LENOVO THINKPAD L15 SIAP GAMING & EDITING - R5-4650U, 8GB, NVME 128**
+    *   **Spesifikasi relevan**: Varian dengan AMD RYZEN 5 PRO 4650U, RAM 8GB, dan NVME 128GB. Prosesor ini sangat mumpuni untuk pekerjaan kantor. Deskripsi produk menyebutkan ""BUAT KERJA OFFICE"", yang sangat sesuai untuk admin gudang. Laptop ini juga memiliki layar 15 inci dan numeric pad yang dapat mempermudah entri data. GPU yang digunakan adalah RX VEGA 7 yang terintegrasi, bukan GPU kuat.
+    *   **Harga**: Rp3.699.999";5;2007;312;2319;0.0006021;0.00078;0.0013821
+Q80;Kalau saya ingin beli laptop gaming tapi juga dipakai editing foto, apa ada model seimbang di budget 14 juta?;gemini-2.5-flash;205|371;413|21|1347|465|132;0.0;0.0;9.02649663714692;"Untuk kebutuhan laptop gaming yang juga digunakan untuk editing foto dengan budget 14 juta, maaf, datanya belum cukup untuk merekomendasikan model yang seimbang untuk kedua kebutuhan tersebut.
+
+Dari produk yang tersedia, tidak ada yang secara spesifik diiklankan sebagai laptop gaming dengan spesifikasi yang mendukung performa gaming tinggi, sekaligus memiliki keseimbangan untuk editing foto dalam budget yang Anda sebutkan.";5;2758;106;2864;0.0008273999999999999;0.000265;0.0010923999999999999
+Q81;Laptop apa yang cocok untuk mahasiswa psikologi yang banyak baca jurnal dan ikut kuliah online?;gemini-2.5-flash;107|259;742|214|784|21|1189;0.0;0.0;19.687613104004413;"Untuk mahasiswa psikologi yang banyak membaca jurnal dan mengikuti kuliah online, berikut adalah beberapa rekomendasi laptop berdasarkan kebutuhan tersebut:
+
+1.  **LAPTOP ACER ASPIRE LITE AL14-31P- C6DD**
+    *   **Spesifikasi Penting**: Memiliki layar 14"" WUXGA (1920 x 1200) IPS Acer ComfyView, yang sangat baik untuk membaca jurnal karena resolusinya lebih tinggi dan panel IPS memberikan sudut pandang yang luas. RAM 8GB DDR5 dan 512GB SSD NVMe cukup untuk multitasking dan menyimpan banyak dokumen. Dilengkapi Windows 11 Home dan Microsoft Office Home and Student 2021, sehingga siap pakai untuk tugas kuliah.
+    *   **Keunggulan Tambahan**: Desain super tipis dan ringan (1.3kg) membuatnya mudah dibawa-bawa.
+    *   **Harga**: Rp6.499.000
+
+2.  **ASUS EXPERTBOOK PM1403CDA S65850WS**
+    *   **Spesifikasi Penting**: Layar 14 inci FHD (1920 x 1080) anti-glare nyaman untuk membaca di berbagai kondisi cahaya. RAM 8GB DDR5 dan 512GB SSD cukup untuk kebutuhan mahasiswa. Dilengkapi Windows 11 Home, OHS24, dan M365.
+    *   **Keunggulan Tambahan**: Laptop ini dirancang dengan fokus pada kehandalan dan kinerja, memenuhi standar militer US MIL-STD 810H, dan memiliki keypad yang tahan tumpahan. Fitur ini sangat cocok untuk mahasiswa yang sering menggunakan laptop di berbagai tempat dan kondisi. Memiliki kamera HD 720p untuk kuliah online.
+    *   **Harga**: Rp8.499.000
+
+3.  **Asus A1404VAP Core 5 120U**
+    *   **Spesifikasi Penting**: Layar 14.0-inch FHD (1920 x 1080) IPS-level Panel dengan anti-glare sangat baik untuk membaca jurnal. Dilengkapi dengan prosesor Intel Core 5 120U yang bertenaga, RAM 8GB DDR4, dan 512GB M.2 NVMe PCIe 4.0 SSD yang cepat dan lega. Sudah termasuk Windows 11 Home dan Microsoft Office Home 2024 + Microsoft 365 Basic.
+    *   **Keunggulan Tambahan**: Memiliki Backlit Chiclet Keyboard (berguna saat kondisi gelap) dan fingerprint. Dilengkapi 720p HD camera dengan privacy shutter. Gratis Backpack.
+    *   **Harga**: Rp8.294.900
+
+Ketiga laptop di atas memiliki layar yang nyaman untuk membaca jurnal, spesifikasi yang memadai untuk kuliah online, dan sudah dilengkapi dengan sistem operasi serta perangkat lunak Office yang esensial. Pilihan terbaik tergantung pada prioritas Anda antara harga, portabilitas, dan ketahanan.";5;2834;566;3400;0.0008502000000000001;0.001415;0.0022652
+Q82;Saya ingin laptop dengan keyboard backlit karena sering kerja malam, budget 8 juta, ada rekomendasi?;gemini-2.5-flash;99|226;413|1332|464|465|21;0.0;0.0;4.50653962418437;"Berdasarkan informasi produk yang tersedia, berikut rekomendasi laptop dengan keyboard backlit dan harga di bawah Rp8.000.000:
+
+*   **Acer Aspire Lite AL1 Magical Color Intel I3 1215U Ram 16GB 512SSD Windows 11 + Office 14.0"" WUXGA IPS Backlight**
+    *   **Fitur Keyboard:** Backlit Keyboard
+    *   **Harga:** Rp6.239.000";5;2494;80;2574;0.0007482;0.0002;0.0009482
+Q83;Laptop apa yang cocok untuk streamer pemula yang main game ringan dan live di platform seperti Twitch?;gemini-2.5-flash;174|327;1843|742|638|214|317;0.0;0.0;10.49175089597702;"Untuk streamer pemula yang main game ringan dan live di platform seperti Twitch, laptop yang paling cocok berdasarkan konteks yang diberikan adalah:
+
+**LENOVO THINKPAD L15 SIAP GAMING & EDITING - R5-4650U, 8GB, NVME 128 (Harga: Rp3.699.999)**
+
+Alasannya:
+*   **Siap Gaming & Editing:** Deskripsi produk secara eksplisit menyatakan ""SIAP GAMING & EDITING"" dan ""SIAP BUAT MAIN GAME ONLINE JAMAN SKRG !!"" serta ""SIAP GENSHIN MENTOK KANAN !"", menunjukkan kemampuannya untuk menjalankan game dan tugas berat seperti streaming.
+*   **Pilihan Prosesor Kuat:** Tersedia pilihan prosesor Intel Core i5 Gen 11 (4 core 8 thread) atau AMD Ryzen 5 Pro 4650U/5650U/5675U (6 core 12 thread), yang sangat baik untuk multitasking seperti bermain game sambil melakukan encoding streaming.
+*   **Grafis Mumpuni:** Untuk varian i5 Gen 11 dilengkapi Intel Iris Xe (80EUs) dan varian AMD Ryzen dengan RX Vega 7 (up to 4GB dedicated VRAM), keduanya disebutkan mampu untuk game online zaman sekarang dan bahkan ""Genshin Mentok Kanan"" (untuk RX Vega 7), yang cukup untuk game ringan dan streaming.
+*   **RAM Cukup:** Dilengkapi 8GB RAM DDR4 (bisa diupgrade hingga 64GB) yang memadai untuk gaming ringan dan streaming.
+*   **Harga Termurah:** Dengan harga Rp3.699.999, ini adalah pilihan paling terjangkau di antara laptop yang disebutkan, sangat sesuai untuk ""streamer pemula"" atau ""harga anak kos"".";5;2412;343;2755;0.0007236;0.0008575;0.0015811
+Q84;Kalau saya lebih sering gunakan laptop di luar ruangan, pentingkah brightness layar tinggi dan anti-glare?;gemini-2.5-flash;111|253;525|711|710|1316|553;0.0;0.0;7.0176380896009505;"Ya, jika Anda sering menggunakan laptop di luar ruangan, brightness layar yang tinggi dan fitur anti-glare sangat penting untuk memastikan tampilan layar tetap jelas dan nyaman dilihat tanpa pantulan cahaya yang mengganggu.
+
+Berikut adalah informasi dari produk yang tersedia:
+
+*   **ACER SWIFT EDGE 14 SFE14-51T-77WL (Rp25.999.000)**:
+    *   Memiliki layar OLED dengan fitur **anti-glare (Corning Gorilla Glass Matte Pro)**.
+    *   Memiliki brightness tinggi **400 nits**.
+    Ini adalah pilihan yang sangat baik untuk penggunaan di luar ruangan karena kombinasi brightness tinggi dan teknologi anti-glare yang canggih.
+
+*   **Laptop ASUS A1404VA FHD i3-1315U (Rp6.789.000)**:
+    *   Memiliki layar dengan brightness **250nits**.
+    *   Dilengkapi dengan **Anti-glare display**.
+
+*   **Asus Vivobook Go E1404FA Amd Ryzen 3 7320U (Rp5.699.000)**:
+    *   Memiliki layar dengan brightness **250nits**.
+    *   Dilengkapi dengan **Anti-glare display**.
+
+Untuk produk **ADVAN AI GEN Intel Ultra 5 125H (Rp8.649.000)** dan **ADVAN WORKPLUS R5 Ryzen 5 6600H (Rp6.999.000)**, maaf, datanya belum cukup untuk spesifikasi brightness layar (nits) dan fitur anti-glare.";5;2697;290;2987;0.0008091;0.000725;0.0015341
+Q85;Laptop apa yang cocok untuk mahasiswa akutansi yang sering pakai Excel dan software akuntansi?;gemini-2.5-flash;135|284;214|1451|802|1554|1511;0.0;0.0;13.827318172901869;"Untuk mahasiswa akuntansi yang sering menggunakan Excel dan software akuntansi, performa prosesor yang baik akan sangat membantu kelancaran kerja. Berikut adalah beberapa pilihan yang cocok dari informasi produk yang diberikan:
+
+1.  **Laptop ASUS Expertbook P1403CVA Intel Core i3 1315 RAM 8 GB SSD 512 GB (Rp6.649.000)**
+    *   **Prosesor:** Intel Core i3-1315U (generasi ke-13) dengan 6 core dan 8 thread (hingga 4.5 GHz) akan memberikan performa yang cukup kuat dan responsif untuk menjalankan Excel dan software akuntansi dengan lancar.
+    *   **RAM:** 8GB DDR5 yang dapat di-upgrade hingga 64GB, sangat baik untuk multitasking dan kebutuhan jangka panjang.
+    *   **Penyimpanan:** 512GB M.2 NVMe PCIe 4.0 SSD yang cepat.
+    *   **Layar:** 14"" Full HD (1920 x 1080) IPS, nyaman untuk bekerja dalam waktu lama.
+    *   **Sistem Operasi & Software:** Sudah termasuk Windows 11 Home dan Microsoft Office Home 2021 + Microsoft 365.
+    *   **Keunggulan lain:** Keyboard spill-resistant dan fingerprint sensor.
+
+2.  **EXPERTBOOK P1403CVA S63850WS 3Y I3 1315U 8GB 512 W11 OHS24 (Rp7.470.000)**
+    *   Memiliki spesifikasi yang hampir identik dengan ASUS Expertbook P1403CVA di atas (Intel Core i3-1315U, 8GB DDR5, 512GB SSD, 14"" FHD IPS).
+    *   **Sistem Operasi & Software:** Windows 11 Home + Microsoft Office Home 2021 + Microsoft 365.
+    *   **Garansi:** Garansi resmi Asus Indonesia 3 tahun (termasuk 1 Year Accidental Damage Protection).
+
+3.  **Laptop ACER ASPIRE LITE AL14 Intel Core I7 12650H RAM 16GB SSD 1TB (Rp10.999.000)**
+    *   **Prosesor:** Intel Core i7 12650H Processor, merupakan pilihan paling bertenaga di daftar ini, sangat cocok untuk penggunaan Excel yang sangat kompleks atau software akuntansi yang berat.
+    *   **RAM:** 16GB DDR5, ideal untuk multitasking intensif.
+    *   **Penyimpanan:** 1TB SSD NVMe, kapasitas besar dan sangat cepat.
+    *   **Layar:** 14.0"" WUXGA 1920 x 1200 IPS, memberikan visual yang tajam dan luas.
+    *   **Sistem Operasi & Software:** Windows 11 Home + Office Home Student 2021.
+    *   **Portabilitas:** Ringan (1.35 kg).
+
+**Rekomendasi:**
+
+*   Untuk keseimbangan performa dan harga yang sangat baik, **Laptop ASUS Expertbook P1403CVA Intel Core i3 1315 RAM 8 GB SSD 512 GB (Rp6.649.000)** adalah pilihan yang sangat direkomendasikan. Prosesor Intel Core i3-1315U sudah lebih dari cukup untuk kebutuhan mahasiswa akuntansi, dan RAM yang bisa di-upgrade adalah nilai tambah.
+*   Jika anggaran memungkinkan dan Anda membutuhkan performa tertinggi untuk tugas-tugas yang sangat berat, **Laptop ACER ASPIRE LITE AL14 Intel Core I7 12650H RAM 16GB SSD 1TB (Rp10.999.000)** adalah pilihan terbaik dengan prosesor i7, RAM 16GB, dan SSD 1TB.
+*   Laptop dengan Intel N100 (seperti Acer Aspire Lite AL14-31P) mungkin kurang optimal untuk ""sering pakai Excel dan software akuntansi"" karena prosesornya yang entry-level bisa terasa lambat untuk beban kerja tersebut.";5;2455;729;3184;0.0007365000000000001;0.0018225000000000001;0.002559
+Q86;Saya ingin laptop untuk editing foto wedding dan prewedding, layar harus akurat warna, budget 18 juta, saran?;gemini-2.5-flash;214|369;1163|1347|525|1049|1495;0.0;0.0;10.815190641209483;"Untuk kebutuhan editing foto wedding dan prewedding dengan prioritas layar akurat warna dan budget maksimal Rp 18.000.000, saya merekomendasikan:
+
+**ASUS VIVOBOOK S14 OLED S5406SA ULTRA 7 258V Ram 32GB 1TB W11 14.0 3K**
+*   **Harga:** Rp14.699.000 (masuk dalam budget Rp 18 juta)
+*   **Layar Akurat Warna:** Memiliki layar 14.0-inch OLED WUXGA (1920 x 1200) dengan 100% DCI-P3 color gamut dan VESA CERTIFIED Display HDR True Black 600, yang sangat cocok untuk akurasi warna dalam editing foto.
+*   **Performa:** Ditenagai oleh Intel Core Ultra 7 Processor 256V dan RAM 32GB LPDDR5X Onboard, serta penyimpanan 1TB M.2 NVMe PCIe 4.0 SSD, yang sangat memadai untuk tugas editing foto.
+*   **Fitur Tambahan:** Dilengkapi dengan Intel AI Boost NPU untuk kinerja AI, Wi-Fi 7, dan Keyboard Backlit Chiclet.
+
+Laptop ini adalah pilihan terbaik dalam konteks yang diberikan karena memenuhi kriteria layar akurat warna (OLED 100% DCI-P3) dan spesifikasi performa yang baik untuk editing foto, sekaligus berada dalam batas anggaran yang Anda sebutkan.";5;1925;259;2184;0.0005775;0.0006475000000000001;0.001225
+Q87;Laptop apa yang cocok untuk pekerja remote yang sering pindah kota dan butuh perangkat yang kuat tapi ringan?;gemini-2.5-flash;158|311;1177|742|413|1843|1026;0.0;0.0;9.437746482901275;"Untuk pekerja remote yang sering pindah kota dan membutuhkan perangkat yang kuat namun ringan, **ADVAN Laptop Workpro Intel i5 12450H** adalah pilihan yang cocok.
+
+Berikut alasannya:
+*   **Kuat:** Dibekali prosesor Intel i5-12450H yang ditujukan untuk profesional, sangat nyaman digunakan untuk bekerja kelas manager, programming, content creator, IT, main game, serta mendukung semua kegiatan Anda. Dilengkapi RAM 8GB (upgradable) dan memori 512GB SSD (upgradable).
+*   **Ringan:** Memiliki berat hanya 1.2 Kg, membuatnya sangat nyaman ketika digunakan mobile dan mudah dibawa ke mana saja.
+*   **Harga:** Rp6.499.000";5;2403;154;2557;0.0007209;0.00038500000000000003;0.0011059
+Q88;Kalau saya membeli laptop hanya untuk Office dan browser, apakah prosesor i3 generasi baru sudah cukup?;gemini-2.5-flash;81|232;511|1381|1452|1605|703;0.0;0.0;10.017467760946602;"Berdasarkan informasi produk yang tersedia, beberapa laptop menggunakan prosesor Intel Core i3 generasi baru (12th atau 13th gen) dan sudah termasuk Office Home & Student, yang mengindikasikan mereka dirancang untuk penggunaan produktivitas:
+
+*   **Lenovo Ideapad Slim 3 Intel i3 Ram 8GB SSD 256GB W11 Office Ori:** Menggunakan prosesor Intel Core i3-1215U dan sudah termasuk Office Home & Student 2021.
+*   **Laptop HP 14 Intel Core i3 1315 RAM 8 GB SSD 512 GB Windows 11 + Office Home Student:** Menggunakan prosesor Intel Core i3-1315 dan sudah termasuk Office Home Student / M365.
+*   **Laptop HP 14 Intel Core i3 1315U RAM 4 GB / 8 GB SSD 512 GB WIndows 11 + Office Home Student:** Menggunakan prosesor Intel Core i3-1315U dan sudah termasuk Office Home and Student 2021.
+*   **ADVAN WORKMATE I3 1215U 8GB 256GB INTEGRATED 14"" WUXGA W11:** Menggunakan prosesor Intel Core i3-1215U.
+*   **HP-14 i3 1315U 4/8GB 512GB W11+OHS21 14""FHD:** Menggunakan prosesor Intel Core i3-1315U dan sudah termasuk Microsoft Office Home & Student 2021.
+
+Namun, informasi produk tidak secara spesifik menyatakan apakah prosesor tersebut sudah 'cukup' untuk penggunaan Office dan browser.";5;1866;292;2158;0.0005598;0.00073;0.0012897999999999998
+Q89;Laptop apa yang cocok untuk mahasiswa ilmu komputer yang sering menjalankan IDE berat seperti Android Studio?;gemini-2.5-flash;189|350;1511|370|1082|214|1103;0.0;0.0;8.819572510197759;Maaf, datanya belum cukup. Laptop yang tersedia memiliki prosesor Intel N100, Intel Celeron N4020, atau Intel Celeron N4500. Prosesor-prosesor ini umumnya dirancang untuk penggunaan ringan sehari-hari dan efisiensi, bukan untuk menjalankan IDE berat seperti Android Studio yang membutuhkan performa komputasi yang lebih tinggi secara konsisten.;5;1740;86;1826;0.000522;0.00021500000000000002;0.000737
+Q90;Saya ingin laptop untuk edit video pernikahan, minimal RAM 32GB dan SSD 1TB, rekomendasi?;gemini-2.5-flash;223|397;1499|71|1843|132|2;0.0;0.0;5.960470986086875;Maaf, datanya belum cukup. Tidak ada produk laptop yang disebutkan dalam konteks yang memiliki minimal RAM 32GB dan SSD 1TB.;5;2510;31;2541;0.000753;7.75e-05;0.0008305
+Q91;Laptop apa yang cocok untuk staf HR yang sering menggunakan aplikasi HRIS dan paket Office?;gemini-2.5-flash;125|280;747|1381|1440|1452|713;0.0;0.0;16.104658124037087;"Untuk staf HR yang sering menggunakan aplikasi HRIS dan paket Office, laptop dengan RAM minimal 8GB dan prosesor yang mumpuni akan sangat cocok untuk menjamin kelancaran multitasking. Berikut adalah beberapa pilihan yang sesuai berdasarkan informasi produk:
+
+1.  **LAPTOP HP 14 CORE i5 120U 16GB 512GB W11+OHS+M365B 14.0FHD COPILOT 2Yr - HARGA TERBAIK, 8GB/512SSD**
+    *   **Deskripsi:** Laptop ini ditenagai oleh **Intel Core 5 120U**, dilengkapi dengan **8GB DDR4 RAM** dan **512GB SSD PCIe Gen4 NVMe M.2** untuk performa cepat. Sudah termasuk **Windows 11 Home** dan paket software **Office Home 2024 + Microsoft 365 Basic (1 Tahun)**, yang sangat ideal untuk kebutuhan Office. Keyboardnya juga sudah **Backlit**.
+    *   **Harga:** Rp8.389.000
+    *   **Cocok karena:** Kombinasi prosesor Core 5 dan 8GB RAM akan memberikan kinerja yang sangat baik untuk menjalankan aplikasi HRIS dan berbagai aplikasi Office secara bersamaan tanpa hambatan. Kehadiran Office 2024 dan M365 Basic juga menjadi nilai tambah.
+
+2.  **Laptop HP 14 Intel Core Core 5 120U RAM 8 GB SSD 512 GB Windows 11 + Office Home Student 14"" Full HD Backlight CoPilot - 8/512 W11, UNIT ONLY**
+    *   **Deskripsi:** Dengan spesifikasi yang hampir identik, laptop ini juga menggunakan **Intel Core 5 120U**, **8GB DDR4-3200 MHz RAM**, dan **512 GB PCIe NVMe M.2 SSD**. Dilengkapi **Windows 11 Home + Office Home Student / M365** dan **keyboard backlit**.
+    *   **Harga:** Rp8.349.000
+    *   **Cocok karena:** Menawarkan performa yang sama kuatnya dengan pilihan pertama berkat prosesor Core 5 dan 8GB RAM, sangat baik untuk multitasking pekerjaan HR.
+
+3.  **Laptop HP 14 Intel Core i3 1315 RAM 8 GB SSD 512 GB Windows 11 + Office Home Student 14"" FHD Blit Copilot - W11, UNIT ONLY**
+    *   **Deskripsi:** Pilihan yang lebih ekonomis namun tetap mumpuni, ditenagai **Intel Core i3-1315**, **8GB DDR4-3200 MHz RAM**, dan **512 GB PCIe NVMe M.2 SSD**. Sudah terinstall **Windows 11 Home + Office Home Student / M365** dan memiliki **keyboard backlit**.
+    *   **Harga:** Rp6.499.000
+    *   **Cocok karena:** Meskipun menggunakan Core i3, 8GB RAM dan 512GB SSD sudah sangat memadai untuk menjalankan aplikasi HRIS dan paket Office dengan lancar, menjadikannya pilihan dengan rasio harga-performa yang baik.";5;1982;569;2551;0.0005945999999999999;0.0014225;0.0020171
+Q92;Kalau saya ingin laptop yang jarang dipakai gaming tapi butuh aman untuk pekerjaan dan data, fitur keamanan apa yang perlu?;gemini-2.5-flash;94|251;710|1802|541|1033|525;0.0;0.0;8.066934594884515;"Untuk keamanan pekerjaan dan data, fitur keamanan yang disebutkan dalam deskripsi produk adalah **fingerprint sensor**.
+
+Fitur ini memungkinkan Anda untuk masuk ke sistem Windows hanya dengan sidik jari Anda, sehingga meningkatkan keamanan akses ke laptop dan data Anda.
+
+Beberapa produk yang memiliki fitur keamanan fingerprint sensor antara lain:
+
+*   **ADVAN WORKPLUS R5 Ryzen 5 6600H** (Harga: Rp6.999.000)
+    *   Disebutkan memiliki ""keamanan lebih tinggi dengan fitur fingerprint. Cukup dengan jari Anda untuk masuk ke system windows.""
+*   **ADVAN Laptop Workplus Intel Core i5 12600H** (Harga: Rp7.499.000)
+    *   Disebutkan memiliki ""keamanan lebih tinggi dengan fitur fingerprint. Cukup dengan jari Anda untuk masuk ke system windows.""
+*   **Advan workplus ryzen 5 6600 ryzen 7 7735hs - RYZEN 5, 512GB** (Harga: Rp6.749.000)
+    *   Disebutkan memiliki ""keamanan lebih tinggi dengan fitur fingerprint. Cukup dengan jari Anda untuk masuk ke system windows.""
+*   **Asus A1404VAP-VIPS5851M Blue Core 5 120U Win11 OHS** (Harga: Rp8.399.000)
+    *   Disebutkan memiliki ""(Fingerprint, Backlight Kyb)""
+
+Untuk produk **ADVAN AI GEN Intel Ultra 5 125H**, fitur keamanan fingerprint sensor tidak disebutkan dalam konteks yang diberikan.";5;2576;309;2885;0.0007728;0.0007725;0.0015452999999999999
+Q93;Laptop apa yang cocok untuk mahasiswa ilmu komunikasi yang sering edit video pendek dan presentasi kreatif?;gemini-2.5-flash;147|296;214|1511|1189|21|1306;0.0;0.0;13.262719959020615;"Untuk mahasiswa ilmu komunikasi yang sering edit video pendek dan presentasi kreatif, laptop yang lebih cocok adalah yang memiliki performa prosesor dan RAM yang memadai.
+
+Berdasarkan konten yang diberikan:
+
+1.  **Laptop Lenovo Ideapad Slim 3 14 intel Core i7 13620H RAM 16 GB SSD 512 GB Windows 11 + Office Home Student 14"" WUXGA IPS - W11 (Harga: Rp11.149.000)**
+    *   **Kelebihan:** Memiliki prosesor Intel Core i7-13620H yang paling kuat di antara pilihan lain (10 Cores, 16 Threads, P-core hingga 4.9GHz), serta RAM 16GB DDR5 yang ideal untuk editing video pendek dan multitasking. Layar 14"" WUXGA IPS juga sangat baik untuk presentasi kreatif.
+    *   **Cocok karena:** Kombinasi prosesor Core i7 dan RAM 16GB akan memberikan performa yang sangat baik dan lancar untuk pengeditan video pendek dan pembuatan presentasi yang kompleks.
+
+2.  **Asus A1404VAP VIPS5851M / VIPS5852M / VIPS5853M Core 5 120U/8GB/512GB SSD/14"" FHD/W11 Vivobook 14 (Harga: Rp8.294.900)** atau **Asus Vivobook 14 A1404VA intel I5 gen 1334 8GB 512GB W11+OHS+M365B 14.0FHD (Harga: Rp8.432.000)**
+    *   **Kelebihan:** Kedua model Asus Vivobook ini memiliki prosesor Intel Core 5 Processor 120U (atau i5-1334U yang setara) dengan 10 cores dan kecepatan hingga 5.0 GHz (atau 4.6 GHz), yang jauh lebih baik dibandingkan Intel N100. RAM 8GB DDR4 (upgradeable) dan 512GB SSD NVMe juga cukup baik. Layar 14"" FHD IPS-level panel juga cocok untuk visual kreatif.
+    *   **Cocok karena:** Prosesor Core 5 / i5 ini sudah mampu menangani pengeditan video pendek dan presentasi kreatif dengan baik, meskipun tidak secepat Core i7. RAM 8GB mungkin cukup untuk video pendek, tetapi opsi upgrade ke 16GB akan sangat membantu jika intensitas editing meningkat.
+
+**Tidak disarankan:**
+
+*   **LAPTOP ACER ASPIRE LITE AL14-31P- C6DD (Harga: Rp6.499.000 / Rp4.999.000)**
+    *   Menggunakan prosesor Intel N100 (4 Cores, 3.4 GHz) yang merupakan prosesor entry-level dan kemungkinan besar tidak akan cukup kuat untuk ""sering edit video pendek"" secara efisien, meskipun memiliki RAM DDR5 dan layar IPS yang bagus. Performa ""3.8X lebih cepat (vs N4020)"" masih menunjukkan bahwa ini bukan untuk tugas berat.";5;2560;540;3100;0.000768;0.00135;0.002118
+Q94;Saya ingin laptop untuk gaming kompetitif tapi tetap bisa dipakai kerja kantor tanpa terlihat terlalu gaming, saran?;gemini-2.5-flash;178|334;1843|413|1026|710|742;0.0;0.0;14.459568053949624;"Berdasarkan informasi produk yang tersedia, Anda bisa mempertimbangkan **LENOVO THINKPAD L15**.
+
+Berikut alasannya:
+*   **Untuk Gaming Kompetitif:** Deskripsi secara eksplisit menyatakan ""SIAP GAMING & EDITING"". Untuk pilihan grafisnya, varian dengan **AMD Ryzen (RX VEGA 7 UP TO 4GB DEDICATED VRAM)** disebutkan ""SIAP GENSHIN MENTOK KANAN!"", dan varian dengan **i5 GEN 11 (INTEL IRIS XE !!! 80EUs !!!)** disebutkan ""SIAP BUAT MAIN GAME ONLINE JAMAN SKRG !!"". Ini menunjukkan kapabilitas yang baik untuk gaming.
+*   **Untuk Kerja Kantor & Tampilan Profesional:** Lenovo ThinkPad dikenal dengan desainnya yang profesional dan tidak mencolok. Deskripsi menyebutkan ""SLIM TIPIS CAKEP"" dan ""ADA NUMERIK"", yang sangat mendukung produktivitas kerja kantor. Laptop ini juga disebutkan ""BUAT KERJA OFFICE, DESAIN, EDITING, SESEKALI GAMING"".
+*   **Harga:** Ditawarkan dengan harga Rp3.699.999, yang disebut sebagai ""HARGA MURAH MERIAH !!"" dan ""SUPER WORTED"".
+
+**Saran konfigurasi terbaik untuk gaming kompetitif pada Lenovo ThinkPad L15:**
+Pilih varian dengan prosesor **AMD Ryzen 5 PRO (4650U, 5650U, atau 5675U)** karena dilengkapi dengan grafis **RX VEGA 7** yang diklaim ""SIAP GENSHIN MENTOK KANAN!"". Varian dengan **Intel Core i5 1135G7** dengan grafis **Intel Iris Xe** juga merupakan pilihan yang baik untuk game online modern.";5;2575;331;2906;0.0007725;0.0008275000000000001;0.0016
+Q95;Laptop apa yang cocok untuk pebisnis yang butuh tampilan elegan dan baterai tahan lama untuk meeting sepanjang hari?;gemini-2.5-flash;200|362;784|1215|1189|745|413;0.0;0.0;9.502465489786118;"Berdasarkan informasi produk yang tersedia, laptop yang cocok untuk pebisnis yang membutuhkan tampilan elegan dan baterai tahan lama untuk meeting sepanjang hari adalah:
+
+**ASUS EXPERTBOOK B3 FLIP B3402FVA 2IN1 TOUCH i7 1355U Ram 16GB 512GB W11 14.0""FHD IPS**
+*   **Tampilan Elegan:** Merupakan seri ExpertBook yang dirancang untuk profesional, dan desain 2-in-1 Touchscreen menambah kesan modern dan fungsional yang elegan.
+*   **Baterai Tahan Lama:** Dilengkapi dengan ""Battery: 50WHrs, 3-cell Li-ion – Long-lasting battery for all-day productivity"", yang secara spesifik memenuhi kebutuhan baterai tahan lama untuk meeting sepanjang hari.
+*   **Harga:** Rp12.399.000
+
+Meskipun **TECNO MEGABOOK T1-14 CI5** memiliki kapasitas baterai yang sangat besar (75WH), deskripsinya tidak secara eksplisit menekankan ""tampilan elegan"" untuk kebutuhan bisnis seperti seri ExpertBook.
+
+**ASUS EXPERTBOOK PM1403CDA S65850WS** juga cocok untuk pebisnis dengan desain tipis dan ringan serta warna Misty Grey yang elegan, namun informasi detail mengenai kapasitas baterai (WHrs) atau klaim ""tahan lama sepanjang hari"" tidak disebutkan dalam deskripsi produk, sehingga tidak dapat dipastikan memenuhi kriteria baterai tahan lama.";5;2278;303;2581;0.0006834;0.0007574999999999999;0.0014409
+Q96;Kalau saya punya budget 10 juta, sebaiknya pilih laptop dengan layar 13 inci premium atau 15.6 inci standar?;gemini-2.5-flash;103|272;1795|502|1401|525|214;0.0;0.0;4.118562912102789;Maaf, datanya belum cukup. Semua produk laptop yang tersedia dalam konteks memiliki ukuran layar 14 inci, tidak ada yang 13 inci maupun 15.6 inci.;5;1676;36;1712;0.0005028;9e-05;0.0005928
+Q97;Laptop apa yang cocok untuk mahasiswa teknik sipil yang akan menjalankan software analisis struktur ringan?;gemini-2.5-flash;166|343;214|1511|502|742|1172;0.0;0.0;21.455274644307792;"Untuk mahasiswa teknik sipil yang akan menjalankan software analisis struktur ringan, pertimbangkan pilihan berikut berdasarkan konteks yang diberikan:
+
+1.  **Laptop SPC Ryzen 5 3500U | 8GB RAM | 256GB SSD | Layar 14” FHD | Cocok Kerja & Kuliah -DOS (Rp4.529.000)**
+    *   **Kelebihan:** Laptop ini dilengkapi dengan prosesor AMD RYZEN 5 3500U, yang umumnya memiliki performa komputasi yang lebih baik dibandingkan Intel N100/N150, sehingga lebih cocok untuk menjalankan software analisis struktur meskipun ringan. Deskripsinya juga menyebutkan ""Cocok Kerja & Kuliah"". Memiliki RAM 8GB DDR4 dan Layar 14"" FHD IPS.
+    *   **Kekurangan:** Laptop ini datang dengan sistem operasi -DOS, yang berarti Anda perlu membeli dan menginstal sistem operasi Windows serta Microsoft Office secara terpisah, yang akan menambah biaya dan waktu. Penyimpanan SSD 256GB juga lebih kecil dibandingkan beberapa pilihan lain.
+
+2.  **Laptop ACER Aspire Lite AL14-31P-C6DD : INTEL N100/ 8GB DDR5/ 5512SSD/ 14 INCH IPS W11 OHS21 (BACKPACK) - LAPTOP ONLY (Rp4.999.000)**
+    *   **Kelebihan:** Laptop ini sudah dilengkapi dengan sistem operasi Windows 11 Home dan Microsoft Office Home and Student 2021, sehingga siap pakai. Memiliki RAM 8GB DDR5 (dapat di-upgrade hingga 16GB) dan penyimpanan SSD NVMe 512GB yang lebih besar. Layarnya 14"" WUXGA IPS dengan sudut pandang luas. Desainnya juga modis, super tipis, dan ringan (1.3kg), cocok untuk portabilitas mahasiswa.
+    *   **Kekurangan:** Prosesor Intel N100, meskipun disebut ""3.8X Performa lebih cepat (vs N4020)"" dan ""efisien untuk rutinitas digital"", mungkin memiliki performa komputasi yang kurang optimal dibandingkan AMD Ryzen 5 3500U untuk tugas analisis struktur yang membutuhkan daya prosesor lebih.
+
+**Kesimpulan:**
+Jika prioritas utama adalah performa prosesor untuk menjalankan software analisis struktur ringan, **Laptop SPC Ryzen 5 3500U** lebih cocok. Namun, Anda harus memperhitungkan biaya dan upaya tambahan untuk menginstal sistem operasi dan perangkat lunak kantor.
+
+Jika Anda mencari laptop yang sudah siap pakai dengan sistem operasi dan Office terinstal, serta penyimpanan yang lebih besar, **Laptop ACER Aspire Lite AL14-31P-C6DD (Rp4.999.000)** adalah pilihan yang baik, meskipun dengan prosesor yang mungkin kurang bertenaga untuk tugas analisis komputasi yang lebih intensif.";5;1618;583;2201;0.0004854;0.0014575;0.0019429
+Q98;Saya ingin laptop yang enak dipakai untuk konsumsi media dan juga sedikit gaming kasual, budget 9 juta, rekomendasi?;gemini-2.5-flash;141|279;1843|413|338|465|21;0.0;0.0;18.04355452489108;"Berdasarkan budget Rp9.000.000 dan kebutuhan untuk konsumsi media serta sedikit gaming kasual, saya merekomendasikan:
+
+*   **LENOVO THINKPAD L15 (Pilihan Prosesor AMD Ryzen)**
+    *   **Harga:** Rp3.699.999
+    *   **Mengapa ini cocok:**
+        *   **Gaming Kasual:** Tersedia pilihan prosesor AMD Ryzen 5 PRO (4650U, 5650U, atau 5675U) dengan grafis RX VEGA 7 UP TO 4GB DEDICATED VRAM, yang secara spesifik diklaim ""SIAP GENSHIN MENTOK KANAN!"". Untuk pilihan Intel Core i5 Gen 11 dengan Intel Iris Xe juga diklaim ""SIAP BUAT MAIN GAME ONLINE JAMAN SKRG !!"".
+        *   **Konsumsi Media:** Memiliki layar besar 15 inci, yang nyaman untuk menonton.
+        *   **Fitur Lain:** RAM 8GB (dapat diupgrade hingga 64GB), NVME 128GB, baterai awet, desain slim, dan memiliki numerik pad.
+
+Jika Anda bisa sedikit menambah budget, ada juga pilihan:
+
+*   **Asus Vivobook F1504ZA Touch I7 1255 Ram 16GB / 512GB W11 15.6FHD IPS**
+    *   **Harga:** Rp9.699.000
+    *   **Mengapa ini cocok:**
+        *   **Gaming Kasual:** Menggunakan Intel Iris X Graphics yang mampu untuk gaming kasual.
+        *   **Konsumsi Media:** Layar 15.6-inch FHD (1920 x 1080) IPS dengan fitur Touchscreen, yang akan meningkatkan pengalaman konsumsi media.
+        *   **Spesifikasi Lebih Tinggi:** Dilengkapi RAM 16GB dan Storage 512GB M.2 NVMe PCIe 3.0 SSD, serta prosesor Intel Core i5-1235U (berdasarkan deskripsi spesifikasi).";5;2709;349;3058;0.0008127;0.0008725;0.0016852
+Q99;Laptop apa yang cocok untuk developer fullstack yang harus jalanin banyak service lokal, RAM 32GB diutamakan?;gemini-2.5-flash;191|368;742|543|527|71|518;0.0;0.0;8.093628994189203;"Berikut adalah laptop yang cocok untuk developer fullstack dengan RAM 32GB diutamakan, berdasarkan informasi produk yang tersedia:
+
+1.  **ADVAN Ai Gen Amd Ryzen 7 8845HS RAM32GB SSD1TB 14'' Ips Windows 11**
+    *   **Spesifikasi:** CPU AMD Ryzen 7 8845HS, RAM DDR5 32GB (upgrade), SSD 1TB (upgrade), Layar 14'' 16:10 FHD IPS, OS Windows 11 Original.
+    *   **Harga:** Rp8.799.000
+
+2.  **ADVAN AI GEN Amd Ryzen 7 8845HS RAM16GB SSD2TB 14'' Ips Windows 11**
+    *   **Spesifikasi:** CPU AMD Ryzen 7 8845HS, RAM DDR5 32GB (upgrade), SSD 2TB (upgrade), Layar 14'' 16:10 FHD IPS, OS Windows 11 Original.
+    *   **Harga:** Rp8.799.000
+
+3.  **ADVAN Workmate Amd Ryzen 5 3500u RAM32GB SSD1TB 14""FHD+ Windows 11**
+    *   **Spesifikasi:** Processor AMD Quad Core Ryzen 5 3500U, Memory 32GB (upgrade), Storage SSD 1TB (upgrade), Display 14 inch FHD+ 1920 x 1200 16:10, OS Windows 11 dan Office Permanen.
+    *   **Harga:** Rp4.499.000";5;1758;231;1989;0.0005274;0.0005775;0.0011049
+Q100;Kalau saya hanya ingin laptop serbaguna untuk penggunaan sehari-hari, budget 7–8 juta, pilihan yang paling aman apa?;gemini-2.5-flash;109|238;543|527|21|525|1012;0.0;0.0;11.722567493095994;"Berdasarkan informasi produk yang tersedia, jika Anda mencari laptop serbaguna untuk penggunaan sehari-hari dengan budget sekitar 7-8 juta, pilihan yang paling aman adalah:
+
+**Asus Vivobook 14 A1404VA intel I5 gen 1334 8GB 512GB W11+OHS+M365B 14.0FHD**
+
+*   **Harga:** Rp8.432.000 (sedikit di atas budget 8 juta, namun merupakan yang terdekat dari pilihan yang ada).
+*   **Spesifikasi:** Dilengkapi dengan prosesor Intel Core i5-1334U, RAM 8GB DDR4, dan penyimpanan SSD 512GB M.2 NVMe, serta layar 14.0-inch FHD IPS. Spesifikasi ini sangat memadai untuk penggunaan sehari-hari.
+*   **Keamanan/Keuntungan:** Laptop ini menawarkan keuntungan keamanan yang sangat baik, yaitu **Asuransi 1 TAHUN CERMATI PROTECT FREE** yang mencakup KEMALINGAN, CAIRAN, ACCIDENT, KEBAKARAN, dan BENCANA. Selain itu, Anda juga mendapatkan **Garansi Resmi Asus 2 Tahun** dan sudah termasuk Windows 11 Home + OHS 2021.";5;2013;223;2236;0.0006039;0.0005575;0.0011614
